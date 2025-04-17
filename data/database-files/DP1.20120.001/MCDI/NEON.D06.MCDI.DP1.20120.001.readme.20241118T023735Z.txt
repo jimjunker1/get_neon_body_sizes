@@ -1,0 +1,192 @@
+This data package was produced by and downloaded from the National Ecological Observatory Network (NEON). NEON is
+funded by the National Science Foundation (Awards 0653461, 0752017, 1029808, 1138160, 1246537, 1638695, 1638696,
+1724433) and managed cooperatively by Battelle. These data are provided under the terms of the NEON data policy at
+https://www.neonscience.org/data-policy.
+
+DATA PRODUCT INFORMATION
+------------------------
+
+ID: NEON.DOM.SITE.DP1.20120.001
+
+Name: Macroinvertebrate collection
+
+Description: Collection of benthic macroinvertebrates using multiple sampling methods in lakes, rivers, and wadeable streams
+
+NEON Science Team Supplier: Aquatic Observation System
+
+Abstract: This data product contains the quality-controlled, native sampling resolution data from NEON's aquatic macroinvertebrate collection and field metadata, as well as associated taxonomic, morphometric, and count analyses data provided by a contracted lab. Benthic field samples are collected in wadeable streams, rivers, and lakes three times per year during the growing season using the type of sampler most suitable to the habitat types present at the site. Samples are preserved in ethanol in the field and shipped to a contracting lab for analysis. For additional details, see the user guide, protocols, science design, and lab SOPs listed in the Documentation section in this data product's details webpage.
+
+Latency:
+The expected time from data and/or sample collection in the field to data publication is as follows, for each of the data tables (in days) in the downloaded data package. See the Data Product User Guide for more information.
+
+inv_fieldData:  30
+
+inv_persample:  210
+
+inv_taxonomyProcessed:  210
+
+inv_taxonomyRaw:  210
+
+inv_pervial:  210
+
+inv_identificationHistory: 7
+
+Brief Design Description: Benthic macroinvertebrate samples are collected three times per year at wadeable stream, river, and lake sites during aquatic biology bout windows, roughly in spring, summer, and fall. Samples are collected using the most appropriate sampler for the habitat type, including Surber, Hess, hand corer, modified kicknet, D-frame sweep, and petite ponar samplers. In wadeable streams, samples are collected in the two most dominant habitat types (e.g. riffles, runs, pools, step pools). In lakes, samples are collected near the buoy, and nearshore sensors using a petite ponar, and in littoral areas using a D-frame sweep. In rivers, samples are collected near the buoy and two other deep-water locations using a petite ponar sampler, and in littoral areas using a D-frame sweep or large-woody debris sampler. Samples are preserved in ethanol in the field, returned to the domain support facility for a preservative change where a small volume of glycerol is added to help keep invertebrates from getting brittle. Samples are shipped to a taxonomy lab for sorting and identification, including count of each taxon per size class (to nearest mm) and identification to lowest practical taxon (genus or species).
+
+Brief Study Area Description: These data are collected at all NEON aquatic sites (wadeable streams, lakes, and rivers).
+
+
+Keywords: abundance, aquatic, archived samples, benthic, biodiversity, community composition, diversity, invertebrates, lakes, macroinvertebrates, material samples, population, rivers, species composition, streams, taxonomy, wadeable streams
+
+
+QUERY INFORMATION
+-----------------
+
+Date-Time for Data Publication: 2024-11-18 02:37 (UTC)
+Start Date-Time for Queried Data: 2024-09-30 13:03 (UTC)
+End Date-Time for Queried Data: 2024-09-30 13:03 (UTC)
+
+Site: MCDI
+Geographic coordinates (lat/long datum): 
+Domain: D06
+
+
+DATA PACKAGE CONTENTS
+---------------------
+
+This folder contains the following documentation files:
+- This readme file: NEON.D06.MCDI.DP1.20120.001.readme.20241118T023735Z.txt
+- Machine-readable metadata file describing the data package: NEON.D06.MCDI.DP1.20120.001.EML.20240930-20240930.20241118T023735Z.xml.
+This file uses the Ecological Metadata Language (EML) schema. Learn more about this specification and tools to parse
+it at https://www.neonscience.org/about/faq.
+- Other related documents are available such as engineering specifications, field protocols, and data processing 
+documentation. Please visit https://data.neonscience.org/data-products/DP1.20120.001 for more information.
+
+
+This folder also contains 1 data files:
+NEON.D06.MCDI.DP1.20120.001.inv_fieldData.2024-09.basic.20241118T023735Z.csv - Aquatic macroinvertebrate field data
+
+Basic download package definition: The basic data package includes all field measurements and presents higher taxonomy information according to NEON and reassigns synonymies with the current valid name.
+
+Expanded download package definition: The expanded data package includes an additional file that includes the taxonomic nomenclature as received from the external taxonomist. Also included in the expanded package is information regarding samples that are archived at the biorepository.
+
+
+FILE NAMING CONVENTIONS
+-----------------------
+
+NEON data files are named using a series of component abbreviations separated by periods. File naming conventions
+for NEON data files differ between NEON science teams. A file will have the same name whether it is accessed via
+NEON's data portal or API. Please visit https://www.neonscience.org/data-formats-conventions for a full description
+of the naming conventions.
+
+ISSUE LOG
+----------
+
+This log provides a list of issues identified during data collection or processing, prior to publication
+of this data package. For a more recent log, please visit this data product's detail page at
+https://data.neonscience.org/data-products/DP1.20120.001.
+
+Issue Date: 2023-12-22
+Issue: Identification history: updates to taxonomic determinations were not previously tracked.
+    Date Range: 2012-01-01 to 2023-01-01
+    Location(s) Affected: All
+Resolution Date: 2024-01-01
+Resolution: In provisional data, RELEASE-2024, and all subsequent releases, if taxonomic determinations are updated for any records, past determinations are archived in the `inv_identificationHistory` table, where the archived determinations are linked to current records using identificationHistoryID.
+
+Issue Date: 2023-05-09
+Issue: D01 state-level taxa obfuscation: Prior to the 2024 data release, publication of species identifications were obfuscated to a higher taxonomic rank when the taxon was found to be listed as threatened, endangered, or sensitive by any state within the domain. Obfuscating state-listed taxa across an entire domain has created challenges for data users studying biodiversity.
+    Date Range: 2012-01-01 to 2023-04-25
+    Location(s) Affected: D01
+Resolution Date: 2023-12-31
+Resolution: To reduce the number of records in which taxonomic identifications are obfuscated in D01, the state-level obfuscation routine has been applied to data using site-level granularity as of 25 April 2023. Previously published data have been reprocessed using the more precise obfuscation routine for the 2024 data release and onward. Federally listed threatened and endangered or sensitive species remain obfuscated at all sites.
+
+Issue Date: 2022-09-13
+Issue: Toolik Field Station required a quarantine period prior to starting work in the 2020, 2021, and 2022 field seasons to protect all personnel during the COVID-19 pandemic. This complicated NEON field scheduling logistics, which typically involves repeated travel across the state on short time frames. Consequently, NEON reduced staff traveling to Toolik and was thus unable to complete all planned sampling efforts. Missed data collection events are indicated in data records via the samplingImpractical field.
+    Date Range: 2020-03-23 to 2022-12-31
+    Location(s) Affected: OKSR, TOOK
+Resolution Date: 2022-10-31
+Resolution: The quarantine policy at Toolik Field Station ended after the 2022 field season.
+
+Issue Date: 2022-09-13
+Issue: Severe flooding destroyed several roads into Yellowstone National Park in June 2022, making the YELL and BLDE sites inaccessible to NEON staff. Observational data collection was halted during this time. Canceled data collection events are indicated in data records via the samplingImpractical field.
+    Date Range: 2022-06-12 to 2022-10-31
+    Location(s) Affected: BLDE
+Resolution Date: 2022-10-31
+Resolution: Normal operations resumed on October 31, 2022, when the National Park Service opened a newly constructed road from Gardiner, MT to Mammoth, WY with minimal restrictions. For more details about data impacts, see Data Notification https://www.neonscience.org/impact/observatory-blog/data-impacts-neons-yellowstone-sites-yell-blde-due-catastrophic-flooding-0
+
+Issue Date: 2022-11-15
+Issue: Incorrect namedlocation: The incorrect named location was published for littoral surface water, biological, and sediment sampling at Toolik Lake.
+    Date Range: 2017-01-01 to 2022-10-20
+    Location(s) Affected: TOOK
+Resolution Date: 2022-10-20
+Resolution: Data collected in this data product through the resolution date with **namedLocation** equal to TOOK.AOS.littoral1 was edited to equal TOOK.AOS.littoral3.
+
+Issue Date: 2021-05-26
+Issue: Duplicated field data: Records in `inv_fieldData` are published in duplicate for all aquatic sites for 2014-2019 due to a publishing error. These will be fixed for the 2022 release
+    Date Range: 2014-07-01 to 2019-12-01
+    Location(s) Affected: All Aquatic Sites
+Resolution Date: 2022-01-20
+Resolution: Duplicates removed from field data table and published with the 2022 data release.
+
+Issue Date: 2021-01-06
+Issue: Safety measures to protect personnel during the COVID-19 pandemic resulted in reduced or canceled sampling activities for extended periods at NEON sites. Data availability may be reduced during this time.
+    Date Range: 2020-03-23 to 2021-12-31
+    Location(s) Affected: All
+Resolution Date: 2021-12-31
+Resolution: The primary impact of the pandemic on observational data was reduced data collection. Training procedures and data quality reviews were maintained throughout the pandemic, although some previously in-person training was conducted virtually.  Scheduled measurements and sampling that were not carried out due to COVID-19 or any other causes are indicated in data records via the samplingImpractical data field.
+
+Issue Date: 2021-12-09
+Issue: State-level taxa obfuscation: Prior to the 2022 data release, publication of species identifications were obfuscated to a higher taxonomic rank when the taxon was found to be listed as threatened, endangered, or sensitive at the state level where the observation was recorded. Obfuscating state-listed taxa has created challenges for data users studying biodiversity.
+    Date Range: 2012-01-01 to 2021-12-31
+    Location(s) Affected: All
+Resolution Date: 2021-12-31
+Resolution: The state-level obfuscation routine was removed from the data publication process at all locations excluding sites located in D01 and D20. Data have been reprocessed to remove the obfuscation of state-listed taxa. Federally listed threatened and endangered or sensitive species remain obfuscated at all sites and sensitive species remain redacted at National Park sites.
+
+Issue Date: 2020-10-20
+Issue: Inlet Outlet Names: Near-shore sampling locations in all lake sites were named 'inlet' and 'outlet' even if the site was a seepage lake that has no single inlet or outlet.
+    Date Range: 2014-07-01 to 2020-12-31
+    Location(s) Affected: BARC, CRAM, LIRO, PRLA, PRPO, SUGG, TOOK
+Resolution Date: 2020-12-31
+Resolution: Near-shore collection sites at seepage lakes are now called 'littoral1' and 'littoral2', where 'littoral1' corresponds to previous site name 'inlet' and 'littoral2' corresponds to previous site name 'outlet'.
+
+Issue Date: 2018-12-10
+Issue: Taxonomic synonomy
+    Date Range: 2018-11-01 to 2018-12-10
+    Location(s) Affected: All aquatic sites
+Resolution Date: 2018-12-10
+Resolution: As of November 2018, taxonomists at EcoAnalysts, Inc. began using the scientificName Neoleptophlebia sp. This genus is a synonym for some members of the genus Paraleptophlebia (Tiunova and Kluge 2016). Neoleptophlebia sp. is more common in NEON samples than Paraleptophlebia sp.
+
+Issue Date: 2020-10-20
+Issue: No Standard Taxonomic Effort: External taxonomy labs not using standard taxonomic effort
+    Date Range: 2014-07-01 to 2018-01-01
+    Location(s) Affected: All Aquatic Sites
+Resolution Date: 2018-01-01
+Resolution: External labs began using standardized taxonomic effort for identification targets, references, and measurement.
+
+
+ADDITIONAL INFORMATION
+----------------------
+
+Protection of species of concern: At most sites, taxonomic IDs of species of concern have been 'fuzzed',
+i.e., reported at a higher taxonomic rank than the raw data, to avoid publishing locations of sensitive species. For
+a few sites with stricter regulations (e.g., Great Smoky Mountains National Park (GRSM)), records for species of
+concern are not published.
+
+Queries for this data product will return all data for `inv_fieldData`, `inv_persample`, and `inv_taxonomyProcessed` during the date range specified. If sampling is not impractical, each record for in `inv_fieldData` will have one corresponding record in `inv_persample`, and may have multiple corresponding records in `inv_taxonomyRaw` and `inv_taxonomyProcessed`, one record for each scientificName and sizeClass combination. A record from `inv_fieldData` may have multiple or no records in `inv_perVial`, as that table represents individuals removed from the final archived sample and placed in the external lab's in-house reference collection, records in this table are opportunistic. The expanded package also returns raw taxonomic data from the external taxonomist in `inv_taxonomyRaw` and information on the contents of the vial sent to the archive facility in `inv_perVial`. Duplicates may exist where protocol and/or data entry aberrations have occurred; users should check data carefully for anomalies before analyzing data. Taxonomic IDs of species of concern have been 'fuzzed'; see data package readme files for more information. If taxonomic determinations have been updated for any records in the tables `inv_taxonomyProcessed` or `inv_taxonomyRaw`, past determinations are archived in the `inv_identificationHistory` table, where the archived determinations are linked to current records using identificationHistoryID.
+
+NEON DATA POLICY AND CITATION GUIDELINES
+----------------------------------------
+
+A citation statement is available in this data product's detail page at
+https://data.neonscience.org/data-products/DP1.20120.001. Please visit https://www.neonscience.org/data-policy for
+more information about NEON's data policy and citation guidelines.
+
+DATA QUALITY AND VERSIONING
+---------------------------
+
+NEON data are initially published with a status of Provisional, in which updates to data and/or processing
+algorithms will occur on an as-needed basis, and query reproducibility cannot be guaranteed. Once data are published
+as part of a Data Release, they are no longer provisional, and are associated with a stable DOI.
+
+To learn more about provisional versus released data, please visit
+https://www.neonscience.org/data-revisions-releases.
