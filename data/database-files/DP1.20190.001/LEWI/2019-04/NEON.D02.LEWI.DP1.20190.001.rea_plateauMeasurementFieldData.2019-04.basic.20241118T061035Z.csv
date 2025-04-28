@@ -1,0 +1,5 @@
+uid,domainID,siteID,namedLocation,collectDate,waterTemp,specificConductanceRep1,specificConductanceRep2,specificConductanceRep3,specificConductanceRep4,specificConductanceRep5,remarks
+"d5313251-050a-4c3d-a14a-eee0cddefd02","D02","LEWI","LEWI.AOS.reaeration.station.01","2019-04-25T12:02Z",13.40,540.00,539.00,537.00,541.00,541.00,
+"82fabed2-9fce-4248-bad4-62d47ceaba0f","D02","LEWI","LEWI.AOS.reaeration.station.04","2019-04-25T12:02Z",13.60,540.00,,,,,"Pump creating bubbles that slowed pumping rate"
+"ace441e0-edff-499b-9db9-fa3a394e9d92","D02","LEWI","LEWI.AOS.reaeration.station.03","2019-04-25T12:02Z",13.60,540.00,,,,,
+"df8e4b8f-b192-44a4-a712-03f1f950e294","D02","LEWI","LEWI.AOS.reaeration.station.02","2019-04-25T12:02Z",13.50,541.00,,,,,

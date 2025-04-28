@@ -1,0 +1,13 @@
+uid,domainID,siteID,namedLocation,collectDate,waterTemp,specificConductanceRep1,specificConductanceRep2,specificConductanceRep3,specificConductanceRep4,specificConductanceRep5,remarks
+"635b47e2-35cd-4d90-8aa1-ebfadd9e530d","D15","REDB","REDB.AOS.reaeration.station.03","2018-05-10T15:57Z",10.60,620.00,,,,,
+"425d421c-32a4-4617-905d-cb48cc819ffd","D15","REDB","REDB.AOS.reaeration.station.02","2018-05-10T15:57Z",10.60,622.00,,,,,
+"2345cfaf-91d6-4c2b-9219-67ddea4c871d","D15","REDB","REDB.AOS.reaeration.station.04","2018-05-10T15:57Z",10.70,620.00,,,,,
+"cf53f0b4-948c-4219-bba4-8904bfeba664","D15","REDB","REDB.AOS.reaeration.station.01","2018-05-10T15:57Z",10.50,621.00,,,,,
+"d5d38be8-5791-47ba-ab4c-fd1f210da45f","D15","REDB","REDB.AOS.reaeration.station.03","2018-05-17T15:06Z",10.20,630.00,,,,,"All event samples discarded per KGoodman"
+"a9856eb8-d41f-4e54-afad-180fc722694d","D15","REDB","REDB.AOS.reaeration.station.01","2018-05-17T15:06Z",10.10,632.00,,,,,"All event samples discarded per KGoodman"
+"70c5539f-b9eb-4a92-aff6-d010567f9d52","D15","REDB","REDB.AOS.reaeration.station.02","2018-05-17T15:06Z",10.10,632.00,,,,,"All event samples discarded per KGoodman"
+"099e5328-38e5-4330-8803-ba4e0d33c9d6","D15","REDB","REDB.AOS.reaeration.station.04","2018-05-17T15:06Z",10.30,629.00,,,,,"All event samples discarded per KGoodman"
+"1352cf07-0eb2-4971-b847-5b2ef4cca967","D15","REDB","REDB.AOS.reaeration.station.02","2018-05-30T15:45Z",11.50,635.00,,,,,
+"24b0c5e8-5fd1-453f-8ea6-3e44433195ee","D15","REDB","REDB.AOS.reaeration.station.04","2018-05-30T15:45Z",11.80,628.00,,,,,
+"89cc7324-452a-4bcb-8905-c1aadf731873","D15","REDB","REDB.AOS.reaeration.station.01","2018-05-30T15:45Z",11.40,633.00,,,,,
+"82c7cdae-bee3-4426-8d74-c66c88bf1b6d","D15","REDB","REDB.AOS.reaeration.station.03","2018-05-30T15:45Z",11.60,630.00,,,,,

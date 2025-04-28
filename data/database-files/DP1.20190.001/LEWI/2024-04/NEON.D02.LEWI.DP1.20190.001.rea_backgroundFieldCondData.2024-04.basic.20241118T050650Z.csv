@@ -1,0 +1,3 @@
+uid,domainID,siteID,namedLocation,startDate,stationToInjectionDistance,hoboSampleID
+"9825fc2c-476d-4aed-92b5-57140b529ed3","D02","LEWI","LEWI.AOS.reaeration.station.01","2024-04-25T15:10Z",12.85,"LEWI_S1_20240425"
+"86429e58-95ab-4a6c-9e21-9938680c3502","D02","LEWI","LEWI.AOS.reaeration.station.04","2024-04-25T15:10Z",260.25,"LEWI_S4_20240425"

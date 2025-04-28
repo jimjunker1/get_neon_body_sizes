@@ -1,0 +1,5 @@
+uid,domainID,siteID,namedLocation,collectDate,stationToInjectionDistance,specificConductanceRep1,specificConductanceRep2,specificConductanceRep3,specificConductanceRep4,sampleCollected,saltBackgroundSampleID,saltBackgroundSampleCode,remarks,incompleteExperimentQF
+"7cda7d52-6f97-4171-880c-c3d86d13bd89","D07","WALK","WALK.AOS.reaeration.station.01","2020-11-18T13:40Z",14.50,210.30,229.20,211.30,217.60,"Y","WALK.B1.20201118.TCR","A00000144350","Seasonal side channel flowing S1 hobo placed at S2 - Logger File ID: WALK_S2_20201118",
+"9ed0ba36-a647-430f-b831-073b073071b0","D07","WALK","WALK.AOS.reaeration.station.02","2020-11-18T13:40Z",61.00,208.10,209.70,208.90,209.30,"Y","WALK.B2.20201118.TCR","A00000144345",,
+"b8b1b2fb-9a5f-46f9-9112-096f1176f60c","D07","WALK","WALK.AOS.reaeration.station.03","2020-11-18T13:40Z",107.00,208.50,209.60,209.50,208.70,"Y","WALK.B3.20201118.TCR","A00000144342",,
+"885807e3-00d5-404b-b196-2f76ff926377","D07","WALK","WALK.AOS.reaeration.station.04","2020-11-18T13:40Z",154.00,212.40,206.50,211.10,203.20,"Y","WALK.B4.20201118.TCR","A00000144344",,

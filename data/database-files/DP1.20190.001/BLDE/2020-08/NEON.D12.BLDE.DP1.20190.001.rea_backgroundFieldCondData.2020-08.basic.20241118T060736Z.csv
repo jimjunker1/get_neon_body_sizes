@@ -1,0 +1,3 @@
+uid,domainID,siteID,namedLocation,startDate,stationToInjectionDistance,hoboSampleID
+"caa495ea-726d-4ca0-8be2-00b636aa72f6","D12","BLDE","BLDE.AOS.reaeration.station.01","2020-08-17T14:57Z",34.00,"BLDE_S1_20200817"
+"6f091c4a-2342-46bd-ab3b-28768738b348","D12","BLDE","BLDE.AOS.reaeration.station.04","2020-08-17T14:57Z",398.00,"BLDE_S4_20200817"

@@ -1,0 +1,3 @@
+uid,domainID,siteID,namedLocation,startDate,stationToInjectionDistance,hoboSampleID
+"4bfad538-6d25-4d56-b44f-6e08d1d1ded9","D02","POSE","POSE.AOS.reaeration.station.04","2023-04-24T14:31Z",110.00,"POSE_S4_20230424"
+"30ac3216-946c-4db4-ac72-7c821fd87603","D02","POSE","POSE.AOS.reaeration.station.01","2023-04-24T14:31Z",12.10,"POSE_S1_20230424"

@@ -1,0 +1,6 @@
+uid,domainID,siteID,namedLocation,collectDate,waterTemp,specificConductanceRep1,specificConductanceRep2,specificConductanceRep3,specificConductanceRep4,specificConductanceRep5,remarks
+"fc9fc58c-9de3-4b4b-8f1d-bab8a221d137","D18","OKSR","OKSR.AOS.reaeration.station.02","2016-09-09T11:20Z",3.30,61.10,60.70,59.90,61.80,54.10,
+"71636f6a-2130-48da-a439-f7aecdb42143","D18","OKSR","OKSR.AOS.reaeration.station.01","2016-09-09T11:20Z",3.30,61.10,60.70,59.90,61.80,54.10,
+"dfa2e38c-356a-4360-abf8-796444480625","D18","OKSR","OKSR.AOS.reaeration.station.01","2016-09-09T11:20Z",3.30,61.10,60.70,59.90,61.80,54.10,"All shipped samples incorrectly dated as 20160908"
+"c75b9535-5768-4c6c-9f18-ae7f5edce1ae","D18","OKSR","OKSR.AOS.reaeration.station.03","2016-09-09T11:20Z",3.40,61.10,60.70,59.90,61.80,54.10,
+"75960906-1a96-46a7-8339-92318465da69","D18","OKSR","OKSR.AOS.reaeration.station.04","2016-09-09T11:20Z",3.40,61.10,60.70,59.90,61.80,54.10,

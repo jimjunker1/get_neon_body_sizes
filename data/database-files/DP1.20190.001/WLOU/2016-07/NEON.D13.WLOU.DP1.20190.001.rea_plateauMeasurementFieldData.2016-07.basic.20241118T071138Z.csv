@@ -1,0 +1,5 @@
+uid,domainID,siteID,namedLocation,collectDate,waterTemp,specificConductanceRep1,specificConductanceRep2,specificConductanceRep3,specificConductanceRep4,specificConductanceRep5,remarks
+"3213e35e-1034-40e6-82d1-241fc4ee6d06","D13","WLOU","WLOU.AOS.reaeration.station.03","2016-07-29T09:10Z",8.50,104.10,105.40,105.40,105.40,105.20,
+"38c4a504-a9c1-4090-8f96-59bd9b7105d0","D13","WLOU","WLOU.AOS.reaeration.station.01","2016-07-29T09:10Z",8.20,104.10,105.40,105.40,105.40,105.20,
+"a70c9d1f-ad11-4bab-9752-cad34f1642ad","D13","WLOU","WLOU.AOS.reaeration.station.02","2016-07-29T09:10Z",8.30,104.10,105.40,105.40,105.40,105.20,
+"a9a13fdd-ec03-4cd5-8942-6c374f30fb05","D13","WLOU","WLOU.AOS.reaeration.station.04","2016-07-29T09:10Z",8.60,104.10,105.40,105.40,105.40,105.20,

@@ -1,0 +1,5 @@
+uid,domainID,siteID,namedLocation,collectDate,waterTemp,specificConductanceRep1,specificConductanceRep2,specificConductanceRep3,specificConductanceRep4,specificConductanceRep5,remarks
+"7758d1c0-ce2f-450b-b99e-458b6c55bf04","D13","WLOU","WLOU.AOS.reaeration.station.01","2016-11-16T08:42Z",1.00,115.00,115.40,115.30,115.30,115.30,"no samples taken; pump broken"
+"434e1428-df93-415a-affd-e441ca9e61f9","D13","WLOU","WLOU.AOS.reaeration.station.04","2016-11-16T08:42Z",0.80,115.00,115.40,115.30,115.30,115.30,"no samples taken; pump broken"
+"0674e7ea-716f-47bb-9cf3-963e349707bd","D13","WLOU","WLOU.AOS.reaeration.station.03","2016-11-16T08:42Z",0.80,115.00,115.40,115.30,115.30,115.30,"no samples taken; pump broken"
+"d25c9e8c-2bfe-4e8f-a63c-ad8572684e40","D13","WLOU","WLOU.AOS.reaeration.station.02","2016-11-16T08:42Z",0.90,115.00,115.40,115.30,115.30,115.30,"no samples taken; pump broken"

@@ -1,0 +1,5 @@
+uid,domainID,siteID,namedLocation,collectDate,waterTemp,specificConductanceRep1,specificConductanceRep2,specificConductanceRep3,specificConductanceRep4,specificConductanceRep5,remarks
+"37f70d6b-dc53-46a9-93a3-cd815e24f944","D15","REDB","REDB.AOS.reaeration.station.03","2017-04-20T16:40Z",,,,,,,
+"b682494b-238b-4d06-b080-e4797a501177","D15","REDB","REDB.AOS.reaeration.station.04","2017-04-20T16:40Z",,,,,,,
+"602df898-74db-41df-b314-cd834907b8d8","D15","REDB","REDB.AOS.reaeration.station.01","2017-04-20T16:40Z",6.20,512.00,,,,,"Vial 01 not evacuated used spare."
+"b5f181da-40ea-4974-b2c1-04e780a57ad7","D15","REDB","REDB.AOS.reaeration.station.02","2017-04-20T16:40Z",,,,,,,"Used spare for vial 10 but spare also did not seem fully evacuated."

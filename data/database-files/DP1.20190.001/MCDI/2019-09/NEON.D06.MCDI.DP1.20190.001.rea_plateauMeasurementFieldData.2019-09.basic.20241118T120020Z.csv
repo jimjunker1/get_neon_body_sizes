@@ -1,0 +1,9 @@
+uid,domainID,siteID,namedLocation,collectDate,waterTemp,specificConductanceRep1,specificConductanceRep2,specificConductanceRep3,specificConductanceRep4,specificConductanceRep5,remarks
+"5ff39ec1-a4fb-478a-80fe-f2bcc8faad7b","D06","MCDI","MCDI.AOS.reaeration.station.04","2019-09-06T14:53Z",21.20,445.90,,,,,
+"6f2f77fd-57df-441d-aec5-15d7d82f6e3b","D06","MCDI","MCDI.AOS.reaeration.station.02","2019-09-06T14:53Z",21.10,441.10,,,,,
+"f489676d-3b1b-49e8-8d26-861350eb1e09","D06","MCDI","MCDI.AOS.reaeration.station.03","2019-09-06T14:53Z",21.20,440.80,,,,,
+"261cabf5-f17d-4bfb-b198-ab4eff3cf898","D06","MCDI","MCDI.AOS.reaeration.station.01","2019-09-06T14:53Z",21.10,441.20,,,,,
+"8b32ecba-355d-42fa-9cc1-627f70648f5b","D06","MCDI","MCDI.AOS.reaeration.station.03","2019-09-23T15:09Z",21.80,559.00,,,,,
+"d4fad886-1fdc-43d8-8e4b-e859e1bf580f","D06","MCDI","MCDI.AOS.reaeration.station.04","2019-09-23T15:09Z",21.20,568.00,,,,,
+"4d9666f4-8a69-43a3-9904-0f884a85ceb3","D06","MCDI","MCDI.AOS.reaeration.station.02","2019-09-23T15:09Z",21.50,559.00,,,,,
+"c8a60688-9b0f-49e2-a3d3-86ce0a82f68c","D06","MCDI","MCDI.AOS.reaeration.station.01","2019-09-23T15:09Z",21.30,561.00,,,,,

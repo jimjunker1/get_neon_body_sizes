@@ -1,0 +1,5 @@
+uid,domainID,siteID,namedLocation,collectDate,waterTemp,specificConductanceRep1,specificConductanceRep2,specificConductanceRep3,specificConductanceRep4,specificConductanceRep5,remarks
+"b7a980d4-6e16-49b6-a43b-3497450b4d6d","D07","LECO","LECO.AOS.reaeration.station.01","2016-11-07T17:00Z",13.30,30.50,30.50,30.60,30.40,30.10,
+"bb25f6d9-9908-4cd6-97d8-eaf8991d8623","D07","LECO","LECO.AOS.reaeration.station.02","2016-11-07T17:00Z",13.30,30.50,30.50,30.60,30.40,30.10,"Tried measuring conductivity at multiple locations in thalweg"
+"68692ecb-428e-4c0d-aa4b-38f6fda2d144","D07","LECO","LECO.AOS.reaeration.station.03","2016-11-07T17:00Z",13.20,30.50,30.50,30.60,30.40,30.10,"Tried measuring conductivity at multiple locations in thalweg"
+"88329e6c-4ecf-483e-87f2-68f27453e033","D07","LECO","LECO.AOS.reaeration.station.04","2016-11-07T17:00Z",13.30,30.50,30.50,30.60,30.40,30.10,

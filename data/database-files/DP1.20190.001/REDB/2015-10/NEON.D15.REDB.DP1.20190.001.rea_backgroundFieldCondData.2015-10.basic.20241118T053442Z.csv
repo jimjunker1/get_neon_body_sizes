@@ -1,0 +1,3 @@
+uid,domainID,siteID,namedLocation,startDate,stationToInjectionDistance,hoboSampleID
+"9d813b9c-d94c-4051-ae76-163304a5e6f4","D15","REDB","REDB.AOS.reaeration.station.01","2015-10-22T18:28Z",,"REDB_S1_20151022"
+"46ed1aab-4fb7-46da-bd46-eeacc26c4303","D15","REDB","REDB.AOS.reaeration.station.04","2015-10-22T18:28Z",,"REDB_S4_20151022"

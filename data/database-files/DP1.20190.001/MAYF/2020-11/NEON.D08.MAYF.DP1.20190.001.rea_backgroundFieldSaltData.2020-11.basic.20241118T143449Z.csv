@@ -1,0 +1,5 @@
+uid,domainID,siteID,namedLocation,collectDate,stationToInjectionDistance,specificConductanceRep1,specificConductanceRep2,specificConductanceRep3,specificConductanceRep4,sampleCollected,saltBackgroundSampleID,saltBackgroundSampleCode,remarks,incompleteExperimentQF
+"d6c677b1-b4b3-4901-a1bc-84dc98234a9a","D08","MAYF","MAYF.AOS.reaeration.station.04","2020-11-24T15:58Z",181.70,9.60,9.40,9.40,9.40,"Y","MAYF.B4.20201124.TCR","A00000231979",,
+"6cd93cf7-f9c7-401e-a8df-faa841ff1845","D08","MAYF","MAYF.AOS.reaeration.station.02","2020-11-24T15:58Z",53.10,9.40,9.40,9.30,9.40,"Y","MAYF.B2.20201124.TCR","A00000231858","Background sp. con. 13.2",
+"e5f05b66-94b0-408b-953e-cada5f29705e","D08","MAYF","MAYF.AOS.reaeration.station.01","2020-11-24T15:58Z",18.60,9.30,9.30,9.30,9.30,"Y","MAYF.B1.20201124.TCR","A00000231874",,
+"90489d85-4665-4388-a70e-b79ff115cd3d","D08","MAYF","MAYF.AOS.reaeration.station.03","2020-11-24T15:58Z",112.40,9.80,9.50,9.40,9.40,"Y","MAYF.B3.20201124.TCR","A00000231980","Background spec. Con. 10.5",

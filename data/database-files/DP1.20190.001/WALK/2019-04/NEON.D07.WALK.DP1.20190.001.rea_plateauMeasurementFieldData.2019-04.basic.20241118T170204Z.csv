@@ -1,0 +1,5 @@
+uid,domainID,siteID,namedLocation,collectDate,waterTemp,specificConductanceRep1,specificConductanceRep2,specificConductanceRep3,specificConductanceRep4,specificConductanceRep5,remarks
+"7f3461a6-a2b8-49bc-aeae-1e218039a5b4","D07","WALK","WALK.AOS.reaeration.station.03","2019-04-23T12:43Z",13.50,155.30,,,,,
+"25230dff-3dbe-4242-a1e8-ea51d8861efb","D07","WALK","WALK.AOS.reaeration.station.01","2019-04-23T12:43Z",13.40,124.40,140.40,155.10,168.20,175.70,"Ephimeral branch flowing water not mixed"
+"8e193650-86ac-43db-b102-f78e83a8d7bd","D07","WALK","WALK.AOS.reaeration.station.02","2019-04-23T12:43Z",13.50,154.20,,,,,
+"0b6ad33a-801d-445c-9364-6a1781495413","D07","WALK","WALK.AOS.reaeration.station.04","2019-04-23T12:43Z",13.60,158.40,,,,,

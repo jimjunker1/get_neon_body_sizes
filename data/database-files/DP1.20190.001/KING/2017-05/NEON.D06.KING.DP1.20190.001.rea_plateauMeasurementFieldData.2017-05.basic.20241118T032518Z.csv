@@ -1,0 +1,5 @@
+uid,domainID,siteID,namedLocation,collectDate,waterTemp,specificConductanceRep1,specificConductanceRep2,specificConductanceRep3,specificConductanceRep4,specificConductanceRep5,remarks
+"24d173e0-776f-4130-a98e-bb3ea1b5f531","D06","KING","KING.AOS.reaeration.station.02","2017-05-23T13:50Z",14.40,1000.00,,,,,
+"56b0197e-b846-48bc-bde6-05f2d1e31708","D06","KING","KING.AOS.reaeration.station.01","2017-05-23T13:50Z",14.40,1000.00,,,,,
+"9f139976-9471-4990-b6e9-42aa71220b78","D06","KING","KING.AOS.reaeration.station.03","2017-05-23T13:50Z",14.50,980.00,,,,,
+"074192ed-1b37-40f0-b7a8-68b1ca7ded63","D06","KING","KING.AOS.reaeration.station.04","2017-05-23T13:50Z",14.50,620.00,,,,,

@@ -1,0 +1,9 @@
+uid,domainID,siteID,namedLocation,collectDate,waterTemp,specificConductanceRep1,specificConductanceRep2,specificConductanceRep3,specificConductanceRep4,specificConductanceRep5,remarks
+"ca6092e6-9a28-4f98-96e2-3bc87d92e91f","D06","KING","KING.AOS.reaeration.station.03","2019-05-10T14:11Z",11.80,544.00,,,,,
+"5d844f75-84c3-4d2a-850a-1333078a7759","D06","KING","KING.AOS.reaeration.station.01","2019-05-10T14:11Z",11.60,545.00,,,,,
+"0280b139-68d1-4478-9240-6e41ff0935d7","D06","KING","KING.AOS.reaeration.station.02","2019-05-10T14:11Z",11.70,544.00,,,,,
+"f6c59cc0-80a6-4aa9-a6eb-68de9e75f8ff","D06","KING","KING.AOS.reaeration.station.04","2019-05-10T14:11Z",11.80,544.00,,,,,
+"8f3cec0e-18ba-4c80-9e49-15aaeca7cf9d","D06","KING","KING.AOS.reaeration.station.01","2019-05-22T15:00Z",12.90,547.00,,,,,
+"9b76cb87-be24-4d36-acea-7cb66b0a0bc2","D06","KING","KING.AOS.reaeration.station.03","2019-05-22T15:00Z",13.00,546.00,,,,,
+"74177413-c49d-48b5-9da7-b7f4cdd66811","D06","KING","KING.AOS.reaeration.station.04","2019-05-22T15:00Z",13.10,547.00,,,,,
+"f56bafc0-def0-4b9a-9148-d675d0b96969","D06","KING","KING.AOS.reaeration.station.02","2019-05-22T15:00Z",13.00,547.00,,,,,

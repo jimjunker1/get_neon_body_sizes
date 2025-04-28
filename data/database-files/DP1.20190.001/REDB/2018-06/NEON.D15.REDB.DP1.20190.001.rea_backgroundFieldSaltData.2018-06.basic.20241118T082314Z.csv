@@ -1,0 +1,9 @@
+uid,domainID,siteID,namedLocation,collectDate,stationToInjectionDistance,specificConductanceRep1,specificConductanceRep2,specificConductanceRep3,specificConductanceRep4,sampleCollected,saltBackgroundSampleID,saltBackgroundSampleCode,remarks,incompleteExperimentQF
+"7524d01e-b7da-4a02-a052-c3fb22895b2a","D15","REDB","REDB.AOS.reaeration.station.02","2018-06-13T16:13Z",122.00,636.00,634.00,638.00,638.00,"Y","REDB.B2.20180613.TCR","A00000023560",,"externalLabSaltSampleDataNA"
+"a56b4724-715b-4b2a-b5db-f35f989d1e8a","D15","REDB","REDB.AOS.reaeration.station.01","2018-06-13T16:13Z",36.00,638.00,638.00,638.00,637.00,"Y","REDB.B1.20180613.TCR","A00000023561",,"externalLabSaltSampleDataNA"
+"202e0fa9-26fc-4838-9e70-9a95724964dc","D15","REDB","REDB.AOS.reaeration.station.04","2018-06-13T16:13Z",325.00,636.00,634.00,634.00,634.00,"Y","REDB.B4.20180613.TCR","A00000023563",,"externalLabSaltSampleDataNA"
+"1adff990-f369-4931-9638-77366b45e9bc","D15","REDB","REDB.AOS.reaeration.station.03","2018-06-13T16:13Z",216.00,636.00,636.00,636.00,637.00,"Y","REDB.B3.20180613.TCR","A00000023562",,"externalLabSaltSampleDataNA"
+"255d4685-039b-4a5c-b8a4-c765992bc631","D15","REDB","REDB.AOS.reaeration.station.02","2018-06-27T16:15Z",122.00,636.00,634.00,634.00,635.00,"Y","REDB.B2.20180627.TCR","A00000023690",,"externalLabSaltSampleDataNA"
+"57c0ec14-b14d-4e1d-9495-4e5ef98a0c1b","D15","REDB","REDB.AOS.reaeration.station.01","2018-06-27T16:15Z",36.00,635.00,634.00,634.00,635.00,"Y","REDB.B1.20180627.TCR","A00000023683",,"externalLabSaltSampleDataNA"
+"01c6ab58-bb58-44b7-a89f-d54f584e6a8d","D15","REDB","REDB.AOS.reaeration.station.03","2018-06-27T16:15Z",216.00,633.00,634.00,634.00,634.00,"Y","REDB.B3.20180627.TCR","A00000023662",,"externalLabSaltSampleDataNA"
+"7f2722f6-3d78-4098-8884-aab51c7d66d4","D15","REDB","REDB.AOS.reaeration.station.04","2018-06-27T16:15Z",325.00,634.00,631.00,631.00,632.00,"Y","REDB.B4.20180627.TCR","A00000023663",,"externalLabSaltSampleDataNA"

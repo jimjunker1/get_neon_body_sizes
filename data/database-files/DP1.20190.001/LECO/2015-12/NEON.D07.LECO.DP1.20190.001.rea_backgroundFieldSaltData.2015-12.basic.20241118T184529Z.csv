@@ -1,0 +1,9 @@
+uid,domainID,siteID,namedLocation,collectDate,stationToInjectionDistance,specificConductanceRep1,specificConductanceRep2,specificConductanceRep3,specificConductanceRep4,sampleCollected,saltBackgroundSampleID,saltBackgroundSampleCode,remarks,incompleteExperimentQF
+"da354988-27f2-489f-bb64-a3fd2b2fa00b","D07","LECO","LECO.AOS.reaeration.station.04","2015-12-07T17:20Z",365.00,17.30,17.40,17.30,17.50,"Y","LECO.B4.20151207.TCR",,,
+"bedcedb3-7ec4-4bfd-9bee-9e121a9df4d9","D07","LECO","LECO.AOS.reaeration.station.02","2015-12-07T17:20Z",185.00,16.80,17.20,17.20,17.30,"Y","LECO.B2.20151207.TCR",,,
+"79184a5f-3cd8-4200-9990-dc42a5d7f4f0","D07","LECO","LECO.AOS.reaeration.station.03","2015-12-07T17:20Z",275.00,16.90,17.00,17.20,17.40,"Y","LECO.B3.20151207.TCR",,"split channel",
+"5c0a114e-7a6d-4d49-a0e2-705dcd55427d","D07","LECO","LECO.AOS.reaeration.station.01","2015-12-07T17:20Z",90.00,16.90,17.10,16.80,17.00,"Y","LECO.B1.20151207.TCR",,,
+"382e22fc-3d30-46fd-ae0b-4c3b5a5bc6e6","D07","LECO","LECO.AOS.reaeration.station.02","2015-12-15T15:50Z",185.00,18.70,18.90,19.00,19.10,"Y","LECO.B2.20151215.TCR",,,
+"7452df8e-d602-4ade-90b3-d90fe05252de","D07","LECO","LECO.AOS.reaeration.station.03","2015-12-15T15:50Z",275.00,18.60,18.80,18.90,19.20,"Y","LECO.B3.20151215.TCR",,"split channel",
+"a48f3e42-c2e7-46f2-8fef-7a433aee71d0","D07","LECO","LECO.AOS.reaeration.station.01","2015-12-15T15:50Z",90.00,19.50,19.40,19.10,19.40,"Y","LECO.B1.20151215.TCR",,,
+"8ad4bb1e-ae8d-4959-828d-1ba0ddf155e2","D07","LECO","LECO.AOS.reaeration.station.04","2015-12-15T15:50Z",365.00,19.00,18.80,19.00,18.90,"Y","LECO.B4.20151215.TCR",,,

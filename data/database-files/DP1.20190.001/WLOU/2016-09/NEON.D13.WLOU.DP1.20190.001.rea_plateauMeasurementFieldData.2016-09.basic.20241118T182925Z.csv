@@ -1,0 +1,6 @@
+uid,domainID,siteID,namedLocation,collectDate,waterTemp,specificConductanceRep1,specificConductanceRep2,specificConductanceRep3,specificConductanceRep4,specificConductanceRep5,remarks
+"83bbf358-1747-4506-a5c1-96f3f60060f1","D13","WLOU","WLOU.AOS.reaeration.station.02","2016-09-16T08:04Z",3.70,117.60,119.00,119.30,119.10,119.40,
+"617911d4-522b-41a7-83ab-eb0d8a718a12","D13","WLOU","WLOU.AOS.reaeration.station.03","2016-09-16T08:04Z",3.70,117.60,119.00,119.30,119.10,119.40,
+"401e4f10-7c9e-487f-9a66-cd7e96126698","D13","WLOU","WLOU.AOS.reaeration.station.04","2016-09-16T08:04Z",3.70,117.60,119.00,119.30,119.10,119.40,
+"fae1debc-af03-4292-b4d4-385e76172647","D13","WLOU","WLOU.AOS.reaeration.station.01","2016-09-16T08:04Z",3.70,117.60,119.00,119.30,119.10,119.40,
+"14febe43-0d4f-4840-ad64-da830447f737","D13","WLOU","WLOU.AOS.reaeration.station.03","2016-09-16T08:04Z",3.70,117.60,119.00,119.30,119.10,119.40,"Sample compromised; No sample present"

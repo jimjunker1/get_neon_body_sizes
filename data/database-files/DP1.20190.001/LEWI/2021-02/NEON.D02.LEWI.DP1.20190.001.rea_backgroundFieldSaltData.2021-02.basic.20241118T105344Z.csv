@@ -1,0 +1,5 @@
+uid,domainID,siteID,namedLocation,collectDate,stationToInjectionDistance,specificConductanceRep1,specificConductanceRep2,specificConductanceRep3,specificConductanceRep4,sampleCollected,saltBackgroundSampleID,saltBackgroundSampleCode,remarks,incompleteExperimentQF
+"689bdd83-312a-4f10-a348-ce7a1064fbb0","D02","LEWI","LEWI.AOS.reaeration.station.02","2021-02-23T12:32Z",85.90,565.00,565.00,565.00,566.00,"Y","LEWI.B2.20210223.TCR","A00000162884",,
+"b1bbfb63-a046-4bca-ae33-ef8358ab4b41","D02","LEWI","LEWI.AOS.reaeration.station.03","2021-02-23T12:32Z",160.90,563.00,565.00,565.00,565.00,"Y","LEWI.B3.20210223.TCR","A00000162883",,
+"874cf80b-b4f8-47a4-b5f1-7557da21d040","D02","LEWI","LEWI.AOS.reaeration.station.01","2021-02-23T12:32Z",10.90,573.00,574.00,562.00,561.00,"Y","LEWI.B1.20210223.TCR","A00000162885",,
+"c0f230de-1f3e-405d-9041-38df7c7e15d9","D02","LEWI","LEWI.AOS.reaeration.station.04","2021-02-23T12:32Z",244.90,563.00,565.00,565.00,566.00,"Y","LEWI.B4.20210223.TCR","A00000162882",,

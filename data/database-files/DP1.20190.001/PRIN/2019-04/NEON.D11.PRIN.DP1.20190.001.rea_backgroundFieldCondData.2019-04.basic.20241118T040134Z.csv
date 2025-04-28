@@ -1,0 +1,9 @@
+uid,domainID,siteID,namedLocation,startDate,stationToInjectionDistance,hoboSampleID
+"698f0d7d-4542-47b7-95a4-c6f37679fd65","D11","PRIN","PRIN.AOS.reaeration.station.04","2019-04-17T14:54Z",253.60,"PRIN_S4_20190417"
+"09fbb008-f9e4-46a9-a611-5617e7aecc2f","D11","PRIN","PRIN.AOS.reaeration.station.02","2019-04-17T14:54Z",122.80,"PRIN_S2_20190417"
+"0707d1fe-7742-458d-b8ba-07fa1b4b4caa","D11","PRIN","PRIN.AOS.reaeration.station.03","2019-04-17T14:54Z",186.50,"PRIN_S3_20190417"
+"7e6a9474-c7ed-4875-b174-8b5e9c738829","D11","PRIN","PRIN.AOS.reaeration.station.01","2019-04-17T14:54Z",47.80,"PRIN_S1_20190417"
+"e9e209ca-458a-42c1-b70f-ee9bc6366343","D11","PRIN","PRIN.AOS.reaeration.station.04","2019-04-23T14:42Z",253.60,"PRIN_S4_20190423"
+"764b0c66-d488-4cee-8333-04b166dd954d","D11","PRIN","PRIN.AOS.reaeration.station.01","2019-04-23T14:42Z",47.80,"PRIN_S1_20190423"
+"9de12424-7503-41fc-a109-2aaa5eaf3359","D11","PRIN","PRIN.AOS.reaeration.station.03","2019-04-23T14:42Z",186.50,"PRIN_S3_20190423"
+"23a1cf5c-3d10-4e28-9f99-9f3caf456ea5","D11","PRIN","PRIN.AOS.reaeration.station.02","2019-04-23T14:42Z",122.70,"PRIN_S2_20190423"

@@ -1,0 +1,5 @@
+uid,domainID,siteID,namedLocation,collectDate,waterTemp,specificConductanceRep1,specificConductanceRep2,specificConductanceRep3,specificConductanceRep4,specificConductanceRep5,remarks
+"59852a99-2de5-414f-aa6d-b5cf78a7d7ec","D04","CUPE","CUPE.AOS.reaeration.station.01","2018-08-16T11:58Z",23.70,282.90,282.80,282.70,282.80,282.90,
+"07f67328-74bf-4017-be96-9400e648998c","D04","CUPE","CUPE.AOS.reaeration.station.04","2018-08-16T11:58Z",23.90,280.40,,,,,"CUPE.17.20180816.TCR was equilibrated 30 mL of air & 30mL of water. TCR sampling collected was 20 mL."
+"decda44b-8660-483a-a3b1-b7aabae3a94e","D04","CUPE","CUPE.AOS.reaeration.station.03","2018-08-16T11:58Z",23.80,281.30,,,,,
+"287f07b1-99df-440e-ae33-b1fbca760101","D04","CUPE","CUPE.AOS.reaeration.station.02","2018-08-16T11:58Z",23.70,281.90,,,,,"CUPE.09.20180816.TCR was equilibrated 30 mL of air and 30 mL of water . TCR sample collected was just 20mL."

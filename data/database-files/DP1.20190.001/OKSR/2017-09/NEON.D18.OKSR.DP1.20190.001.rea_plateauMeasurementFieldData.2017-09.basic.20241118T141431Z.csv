@@ -1,0 +1,5 @@
+uid,domainID,siteID,namedLocation,collectDate,waterTemp,specificConductanceRep1,specificConductanceRep2,specificConductanceRep3,specificConductanceRep4,specificConductanceRep5,remarks
+"414ba740-983e-47d6-bfcd-7bf30c3cc829","D18","OKSR","OKSR.AOS.reaeration.station.04","2017-09-13T19:15Z",4.80,49.50,,,,,
+"6febe212-da81-476e-b15b-077d45542f35","D18","OKSR","OKSR.AOS.reaeration.station.02","2017-09-13T19:15Z",4.70,49.40,,,,,
+"d88e4f73-490b-4c7c-aaf0-497143937e6a","D18","OKSR","OKSR.AOS.reaeration.station.01","2017-09-13T19:15Z",4.70,49.30,,,,,
+"1f14a18d-7fd3-41c0-9dd2-f07d529d9945","D18","OKSR","OKSR.AOS.reaeration.station.03","2017-09-13T19:15Z",4.80,49.10,,,,,

@@ -1,0 +1,5 @@
+uid,domainID,siteID,namedLocation,collectDate,stationToInjectionDistance,specificConductanceRep1,specificConductanceRep2,specificConductanceRep3,specificConductanceRep4,sampleCollected,saltBackgroundSampleID,saltBackgroundSampleCode,remarks,incompleteExperimentQF
+"331ef13b-3a42-4755-b4e7-8e820dc15b06","D16","MART","MART.AOS.reaeration.station.02","2017-01-26T10:00Z",152.90,36.00,35.80,36.00,36.00,"Y","MART.B2.20170126.TCR",,"No sample was taken","externalLabSaltSampleDataNA"
+"97e5c651-e77e-469d-84d5-1b4e2fcd38cc","D16","MART","MART.AOS.reaeration.station.01","2017-01-26T10:00Z",52.00,36.30,36.00,35.80,35.80,"Y","MART.B1.20170126.TCR",,"No sample was taken","externalLabSaltSampleDataNA"
+"cc98b599-6994-4f87-b655-d3ba57dc3391","D16","MART","MART.AOS.reaeration.station.03","2017-01-26T10:00Z",252.70,35.70,35.90,35.90,35.90,"Y","MART.B3.20170126.TCR",,"No sample was taken","externalLabSaltSampleDataNA"
+"c3a5bf93-44a6-47cb-8c9d-14228e71a29a","D16","MART","MART.AOS.reaeration.station.04","2017-01-26T10:00Z",351.50,36.10,35.70,35.60,35.90,"Y","MART.B4.20170126.TCR",,"No sample was taken","externalLabSaltSampleDataNA"

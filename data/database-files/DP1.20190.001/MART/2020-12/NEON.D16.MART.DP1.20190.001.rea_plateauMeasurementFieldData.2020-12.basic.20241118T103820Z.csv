@@ -1,0 +1,5 @@
+uid,domainID,siteID,namedLocation,collectDate,waterTemp,specificConductanceRep1,specificConductanceRep2,specificConductanceRep3,specificConductanceRep4,specificConductanceRep5,remarks
+"14d8c9ea-15c1-40ca-82fd-13c70a2bb768","D16","MART","MART.AOS.reaeration.station.03","2020-12-09T20:13Z",6.70,36.40,,,,,
+"c126f2f9-7378-4f1b-9cfd-0b14c1195b1e","D16","MART","MART.AOS.reaeration.station.04","2020-12-09T20:13Z",6.80,36.20,,,,,"collection syringe for sample 20 failed and contents were lost"
+"82f43af9-d155-4c7b-bcb5-2ccf9d5abb0d","D16","MART","MART.AOS.reaeration.station.01","2020-12-09T20:13Z",6.70,36.50,,,,,
+"eb9e2f7c-30b8-4838-b10b-75523c2c87d7","D16","MART","MART.AOS.reaeration.station.02","2020-12-09T20:13Z",6.70,36.60,,,,,

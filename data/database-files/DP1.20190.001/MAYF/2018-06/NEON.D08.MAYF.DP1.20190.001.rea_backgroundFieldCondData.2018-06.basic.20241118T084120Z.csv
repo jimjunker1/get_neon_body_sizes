@@ -1,0 +1,3 @@
+uid,domainID,siteID,namedLocation,startDate,stationToInjectionDistance,hoboSampleID
+"5f8adcf8-e563-49f2-9629-e9d7546de900","D08","MAYF","MAYF.AOS.reaeration.station.04","2018-06-11T15:28Z",148.00,"MAYF_S4_20180611"
+"06642fc1-3911-4b04-8f8e-dfc7a2bc8b3f","D08","MAYF","MAYF.AOS.reaeration.station.01","2018-06-11T15:28Z",19.00,"MAYF_S1_20180611"

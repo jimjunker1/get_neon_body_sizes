@@ -1,0 +1,21 @@
+uid,domainID,siteID,namedLocation,startDate,plateauCollectTime,replicateNumber,syringeID,gasSampleID,saltTracerSampleID,remarks,incompleteExperimentQF
+"5af7f1a2-4223-419c-a3f7-6644c56c942b","D08","MAYF","MAYF.AOS.reaeration.station.04","2022-04-06T14:54Z","2022-04-06T16:34Z",2,"MAYF.17.20220406",,,,
+"cb39d0ed-94e0-4114-a17f-88d294f8dc09","D08","MAYF","MAYF.AOS.reaeration.station.03","2022-04-06T14:54Z","2022-04-06T16:30Z",3,"MAYF.13.20220406",,,,
+"e97a0ddd-f944-40c5-8302-e37ab2f1a2ca","D08","MAYF","MAYF.AOS.reaeration.station.01","2022-04-06T14:54Z","2022-04-06T16:17Z",2,"MAYF.02.20220406",,,"Not shaken for 5 min","externalLabSaltSampleDataNA|externalLabGasSampleDataNA"
+"d1ec90ec-22df-4a7d-989e-d94b9b8d994f","D08","MAYF","MAYF.AOS.reaeration.station.03","2022-04-06T14:54Z","2022-04-06T16:30Z",5,"MAYF.15.20220406",,,,
+"c6c7cdc3-9b1f-4a3e-ab9b-45201a234d44","D08","MAYF","MAYF.AOS.reaeration.station.01","2022-04-06T14:54Z","2022-04-06T16:17Z",5,"MAYF.05.20220406",,,"Not shaken for 5 min","externalLabSaltSampleDataNA|externalLabGasSampleDataNA"
+"11d7211b-8da3-4ba4-9a51-bcb020d7e941","D08","MAYF","MAYF.AOS.reaeration.station.04","2022-04-06T14:54Z","2022-04-06T16:34Z",5,"MAYF.20.20220406",,,,
+"d6264e66-b41a-474d-b9bd-3e7744988570","D08","MAYF","MAYF.AOS.reaeration.station.02","2022-04-06T14:54Z","2022-04-06T16:24Z",4,"MAYF.09.20220406",,,,
+"d068e6b9-4643-4808-93e1-70c8dc6fd51d","D08","MAYF","MAYF.AOS.reaeration.station.03","2022-04-06T14:54Z","2022-04-06T16:30Z",4,"MAYF.14.20220406",,,,
+"d8216a3a-a17d-4798-960c-c20d65dd05ad","D08","MAYF","MAYF.AOS.reaeration.station.04","2022-04-06T14:54Z","2022-04-06T16:34Z",3,"MAYF.18.20220406",,,,
+"391069b6-212b-44cb-879b-c80dbfaa8713","D08","MAYF","MAYF.AOS.reaeration.station.04","2022-04-06T14:54Z","2022-04-06T16:34Z",4,"MAYF.19.20220406",,,,
+"d228a378-b42d-45c3-a4cb-c956ff038bdd","D08","MAYF","MAYF.AOS.reaeration.station.02","2022-04-06T14:54Z","2022-04-06T16:24Z",5,"MAYF.10.20220406",,,,
+"ce2f9023-32a4-4a7f-93ea-37f0dbd07933","D08","MAYF","MAYF.AOS.reaeration.station.02","2022-04-06T14:54Z","2022-04-06T16:24Z",3,"MAYF.08.20220406",,,,
+"91ecd805-6106-41de-a345-3f3bac7baf30","D08","MAYF","MAYF.AOS.reaeration.station.03","2022-04-06T14:54Z","2022-04-06T16:30Z",1,"MAYF.11.20220406",,,,
+"5972c89e-44b8-4d7c-b7e5-c395064e92a8","D08","MAYF","MAYF.AOS.reaeration.station.03","2022-04-06T14:54Z","2022-04-06T16:30Z",2,"MAYF.12.20220406",,,,
+"21e8d32c-890a-4caf-9858-90ad1766b5e4","D08","MAYF","MAYF.AOS.reaeration.station.01","2022-04-06T14:54Z","2022-04-06T16:17Z",3,"MAYF.03.20220406",,,"Not shaken for 5 min","externalLabSaltSampleDataNA|externalLabGasSampleDataNA"
+"00ce240d-abc3-42fe-a331-a826f9b62b05","D08","MAYF","MAYF.AOS.reaeration.station.01","2022-04-06T14:54Z","2022-04-06T16:17Z",4,"MAYF.04.20220406",,,"Not shaken for 5 min","externalLabSaltSampleDataNA|externalLabGasSampleDataNA"
+"c51d82c4-d050-449d-8411-46575127aa78","D08","MAYF","MAYF.AOS.reaeration.station.01","2022-04-06T14:54Z","2022-04-06T16:17Z",1,"MAYF.01.20220406",,,"Not shaken for 5 min","externalLabSaltSampleDataNA|externalLabGasSampleDataNA"
+"6dd17536-f8cd-470e-8c5e-eddea67a1834","D08","MAYF","MAYF.AOS.reaeration.station.02","2022-04-06T14:54Z","2022-04-06T16:24Z",1,"MAYF.06.20220406",,,,
+"cd02d691-d45e-4b75-999a-d3f9bc9202df","D08","MAYF","MAYF.AOS.reaeration.station.04","2022-04-06T14:54Z","2022-04-06T16:34Z",1,"MAYF.16.20220406",,,,
+"aea4838d-1958-4022-accf-91d1c516e69c","D08","MAYF","MAYF.AOS.reaeration.station.02","2022-04-06T14:54Z","2022-04-06T16:24Z",2,"MAYF.07.20220406",,,,

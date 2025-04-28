@@ -1,0 +1,5 @@
+uid,domainID,siteID,namedLocation,collectDate,stationToInjectionDistance,specificConductanceRep1,specificConductanceRep2,specificConductanceRep3,specificConductanceRep4,sampleCollected,saltBackgroundSampleID,saltBackgroundSampleCode,remarks,incompleteExperimentQF
+"0f1cb4b7-8bb8-4d8d-9a7d-cb196545a6a9","D16","MCRA","MCRA.AOS.reaeration.station.04","2021-04-01T17:01Z",268.00,27.80,28.10,28.10,27.90,"Y","MCRA.B4.20210401.TCR",,,"externalLabSaltSampleDataNA"
+"57d3ac90-c74d-4b4b-b642-34a1dff24bf1","D16","MCRA","MCRA.AOS.reaeration.station.01","2021-04-01T17:01Z",38.00,22.80,22.90,21.80,22.80,"Y","MCRA.B1.20210401.TCR",,,"externalLabSaltSampleDataNA"
+"7f2bdaeb-57c3-4d53-b4c4-8875b2ad821a","D16","MCRA","MCRA.AOS.reaeration.station.02","2021-04-01T17:01Z",120.00,23.00,23.30,23.30,23.70,"Y","MCRA.B2.20210401.TCR",,,"externalLabSaltSampleDataNA"
+"da86aa80-e6e7-43e7-9117-4c73b4faca56","D16","MCRA","MCRA.AOS.reaeration.station.03","2021-04-01T17:01Z",190.00,23.80,23.80,23.80,23.80,"Y","MCRA.B3.20210401.TCR",,,"externalLabSaltSampleDataNA"

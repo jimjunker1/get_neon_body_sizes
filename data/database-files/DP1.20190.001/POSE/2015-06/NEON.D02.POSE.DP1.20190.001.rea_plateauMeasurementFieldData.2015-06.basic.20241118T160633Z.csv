@@ -1,0 +1,5 @@
+uid,domainID,siteID,namedLocation,collectDate,waterTemp,specificConductanceRep1,specificConductanceRep2,specificConductanceRep3,specificConductanceRep4,specificConductanceRep5,remarks
+"ec095512-ff75-4a4a-904b-b64e433473bb","D02","POSE","POSE.AOS.reaeration.station.01","2015-06-15T15:05Z",21.00,,,,,,
+"1ec31666-80a5-4e7f-b1d3-c2f43eec0234","D02","POSE","POSE.AOS.reaeration.station.03","2015-06-15T15:05Z",22.00,,,,,,
+"c2f0b06e-6a37-447d-91d7-94088278aa66","D02","POSE","POSE.AOS.reaeration.station.02","2015-06-15T15:05Z",21.00,,,,,,
+"2a62c829-5de5-46c4-9c54-57be3cc5f90a","D02","POSE","POSE.AOS.reaeration.station.04","2015-06-15T15:05Z",22.00,,,,,,

@@ -1,0 +1,9 @@
+uid,domainID,siteID,namedLocation,collectDate,waterTemp,specificConductanceRep1,specificConductanceRep2,specificConductanceRep3,specificConductanceRep4,specificConductanceRep5,remarks
+"96e47d15-5686-4aff-80b8-bd9b8fb29b16","D07","WALK","WALK.AOS.reaeration.station.02","2017-03-02T14:15Z",11.60,,,,,,
+"db323ba9-4116-47d6-ba82-b3ec15410f6f","D07","WALK","WALK.AOS.reaeration.station.03","2017-03-02T14:15Z",11.70,,,,,,
+"2b542c97-7fd0-4c06-869c-90927f4f0a21","D07","WALK","WALK.AOS.reaeration.station.04","2017-03-02T14:15Z",11.90,,,,,,
+"7c2f6f64-eed1-48cc-a75b-dbcccd61e784","D07","WALK","WALK.AOS.reaeration.station.01","2017-03-02T14:15Z",11.40,,,,,,"These samples not collected per JIRA-5618"
+"0df1734f-66c8-49d7-b458-7037df64fc13","D07","WALK","WALK.AOS.reaeration.station.02","2017-03-20T13:20Z",11.30,101.10,109.30,136.80,145.90,145.70,
+"7f1fd23f-e3eb-45b2-ac65-9f8b5bc5936b","D07","WALK","WALK.AOS.reaeration.station.03","2017-03-20T13:20Z",11.20,101.10,109.30,136.80,145.90,145.70,
+"99241db0-adff-4223-8b6c-637bd962486b","D07","WALK","WALK.AOS.reaeration.station.04","2017-03-20T13:20Z",11.40,101.10,109.30,136.80,145.90,145.70,
+"b6adb915-a24e-44e9-95a3-08dacf7246ce","D07","WALK","WALK.AOS.reaeration.station.01","2017-03-20T13:20Z",11.70,101.10,109.30,136.80,145.90,145.70,"These samples not collected due to uneven mixing. See JIRA ticket NEON-5618."

@@ -1,0 +1,5 @@
+uid,domainID,siteID,namedLocation,collectDate,waterTemp,specificConductanceRep1,specificConductanceRep2,specificConductanceRep3,specificConductanceRep4,specificConductanceRep5,remarks
+"9bd371a9-e257-4c97-b9e3-f05afaa7ead7","D02","LEWI","LEWI.AOS.reaeration.station.01","2019-10-10T12:00Z",13.60,617.00,612.00,609.00,609.00,608.00,"injection started again as pulse of low conductivity water interrupted first injection."
+"82073a21-a3ea-4403-826d-ef1971285741","D02","LEWI","LEWI.AOS.reaeration.station.04","2019-10-10T12:00Z",13.80,611.00,,,,,
+"323d2ede-dcb7-4677-8f55-0266cffa021d","D02","LEWI","LEWI.AOS.reaeration.station.02","2019-10-10T12:00Z",13.60,612.00,,,,,
+"56595a2e-b99b-498b-a425-6c3998fedd1b","D02","LEWI","LEWI.AOS.reaeration.station.03","2019-10-10T12:00Z",13.70,612.00,,,,,

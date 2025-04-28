@@ -1,0 +1,3 @@
+uid,domainID,siteID,namedLocation,startDate,stationToInjectionDistance,hoboSampleID
+"54354ff5-7663-4060-b5fa-14304ede8bd5","D06","KING","KING.AOS.reaeration.station.01","2017-07-20T12:50Z",25.00,"KING_S1_20170720"
+"362a88f4-31ef-45c2-9a7c-d9d4246b5d9f","D06","KING","KING.AOS.reaeration.station.04","2017-07-20T12:50Z",100.00,"KING_S4_20170720"

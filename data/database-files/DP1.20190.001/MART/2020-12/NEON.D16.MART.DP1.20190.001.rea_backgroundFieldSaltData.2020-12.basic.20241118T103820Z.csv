@@ -1,0 +1,5 @@
+uid,domainID,siteID,namedLocation,collectDate,stationToInjectionDistance,specificConductanceRep1,specificConductanceRep2,specificConductanceRep3,specificConductanceRep4,sampleCollected,saltBackgroundSampleID,saltBackgroundSampleCode,remarks,incompleteExperimentQF
+"791c202c-ee9c-4f2f-a3e3-d5ff050dd8cd","D16","MART","MART.AOS.reaeration.station.02","2020-12-09T20:13Z",237.10,36.50,36.50,36.30,36.40,"Y","MART.B2.20201209.TCR","A00000107893",,
+"65b58a4c-c9c6-4eea-a838-19a1c146ce82","D16","MART","MART.AOS.reaeration.station.03","2020-12-09T20:13Z",336.90,36.50,36.20,36.50,36.30,"Y","MART.B3.20201209.TCR","A00000107894",,
+"e57fd0c1-b234-4044-9046-2fd985a29bfa","D16","MART","MART.AOS.reaeration.station.01","2020-12-09T20:13Z",48.20,36.10,36.20,36.30,36.20,"Y","MART.B1.20201209.TCR","A00000107892",,
+"ba301ea9-77a5-477e-a75c-e2ddf54387d7","D16","MART","MART.AOS.reaeration.station.04","2020-12-09T20:13Z",435.70,36.10,36.90,36.80,36.60,"Y","MART.B4.20201209.TCR","A00000107898",,

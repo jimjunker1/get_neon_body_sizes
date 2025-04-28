@@ -1,0 +1,5 @@
+uid,domainID,siteID,namedLocation,collectDate,stationToInjectionDistance,specificConductanceRep1,specificConductanceRep2,specificConductanceRep3,specificConductanceRep4,sampleCollected,saltBackgroundSampleID,saltBackgroundSampleCode,remarks,incompleteExperimentQF
+"0d4e7bff-e08c-4b6b-aada-7e261fc84d5f","D07","WALK","WALK.AOS.reaeration.station.02","2020-12-01T13:59Z",61.00,226.00,225.50,225.60,227.60,"Y","WALK.B2.20201201.TCR","A00000144545",,
+"77c709f4-c89f-4ea9-ab60-db397bf13e63","D07","WALK","WALK.AOS.reaeration.station.03","2020-12-01T13:59Z",107.00,226.30,226.20,226.30,225.90,"Y","WALK.B3.20201201.TCR","A00000144563",,
+"5bdf9db6-509c-46c8-a51b-28da80c5bdec","D07","WALK","WALK.AOS.reaeration.station.04","2020-12-01T13:59Z",154.00,227.40,228.30,227.90,228.00,"Y","WALK.B4.20201201.TCR","A00000144581",,
+"05796b39-e285-4f39-b645-bb531be5c4bb","D07","WALK","WALK.AOS.reaeration.station.01","2020-12-01T13:59Z",14.50,209.60,228.10,229.80,230.50,"Y","WALK.B1.20201201.TCR","A00000144546","Seasonal side channel flowing S1 hobo placed at S2 - Logger File ID: WALK_S2_20201201",

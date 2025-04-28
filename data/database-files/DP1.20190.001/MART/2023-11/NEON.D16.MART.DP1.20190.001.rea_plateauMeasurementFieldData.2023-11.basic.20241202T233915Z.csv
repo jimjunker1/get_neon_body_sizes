@@ -1,0 +1,9 @@
+uid,domainID,siteID,namedLocation,collectDate,waterTemp,specificConductanceRep1,specificConductanceRep2,specificConductanceRep3,specificConductanceRep4,specificConductanceRep5,remarks
+"6487bea3-cc2b-4ed6-af99-0ae5c5daf422","D16","MART","MART.AOS.reaeration.station.03","2023-11-21T17:24Z",6.60,41.70,,,,,
+"76e624c3-8997-4fb0-8bdb-d77556338339","D16","MART","MART.AOS.reaeration.station.04","2023-11-21T17:24Z",6.70,41.70,,,,,
+"5f62801f-1e3f-4932-a84b-5016ed251974","D16","MART","MART.AOS.reaeration.station.01","2023-11-21T17:24Z",6.60,40.90,,,,,
+"d9a216fb-4089-4691-ae01-32e3ba6118b1","D16","MART","MART.AOS.reaeration.station.02","2023-11-21T17:24Z",6.60,41.50,,,,,
+"89b4dc45-6016-48a3-bd9e-d2a6cecd741b","D16","MART","MART.AOS.reaeration.station.03","2023-11-29T17:23Z",4.80,37.10,,,,,
+"b8b94ade-0cc2-4c0f-bab1-4bf2ca895678","D16","MART","MART.AOS.reaeration.station.02","2023-11-29T17:23Z",4.70,36.00,,,,,
+"df8c933e-040f-4d1b-b3ec-0ed6dd7fe3b0","D16","MART","MART.AOS.reaeration.station.01","2023-11-29T17:23Z",4.70,36.30,,,,,
+"39313b7b-7e60-4f57-b834-3d2a19447e30","D16","MART","MART.AOS.reaeration.station.04","2023-11-29T17:23Z",4.80,38.00,,,,,"SF6 was running out as the injection ended at 11:58am. We do not think that it impacted the study due to the slow flowrate of the stream."

@@ -1,0 +1,5 @@
+uid,domainID,siteID,namedLocation,collectDate,stationToInjectionDistance,specificConductanceRep1,specificConductanceRep2,specificConductanceRep3,specificConductanceRep4,sampleCollected,saltBackgroundSampleID,saltBackgroundSampleCode,remarks,incompleteExperimentQF
+"e7036077-5286-4693-bcb8-c2f72e0559d1","D16","MCRA","MCRA.AOS.reaeration.station.02","2019-12-04T18:16Z",120.00,23.00,24.00,24.00,24.10,"Y","MCRA.B2.20191204.TCR","A00000106666",,
+"40696c14-30dd-4874-88c7-de90aae458da","D16","MCRA","MCRA.AOS.reaeration.station.04","2019-12-04T18:16Z",268.00,20.00,23.90,19.00,18.20,"Y","MCRA.B4.20191204.TCR","A00000106647",,
+"03bb1685-23d3-4aa0-94a5-dd23c4f0ce6c","D16","MCRA","MCRA.AOS.reaeration.station.03","2019-12-04T18:16Z",190.00,24.10,24.00,24.00,24.10,"Y","MCRA.B3.20191204.TCR","A00000106665",,
+"fa676714-1818-47f4-a68c-5a28ccc89b0d","D16","MCRA","MCRA.AOS.reaeration.station.01","2019-12-04T18:16Z",38.00,23.80,23.60,23.60,23.70,"Y","MCRA.B1.20191204.TCR","A00000106667",,

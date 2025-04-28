@@ -1,0 +1,5 @@
+uid,domainID,siteID,namedLocation,collectDate,waterTemp,specificConductanceRep1,specificConductanceRep2,specificConductanceRep3,specificConductanceRep4,specificConductanceRep5,remarks
+"e972aa75-1af2-4ea5-adfd-ec5fcb36fcee","D16","MCRA","MCRA.AOS.reaeration.station.04","2016-11-16T09:12Z",6.00,28.10,28.30,28.30,28.40,28.50,
+"fda39a92-a8c4-452c-9ef8-e2e68a470b9a","D16","MCRA","MCRA.AOS.reaeration.station.01","2016-11-16T09:12Z",5.90,28.10,28.30,28.30,28.40,28.50,
+"188cbe59-d136-4ea5-b773-1d480d71fecc","D16","MCRA","MCRA.AOS.reaeration.station.02","2016-11-16T09:12Z",5.90,28.10,28.30,28.30,28.40,28.50,
+"7a8cbaa3-2bc5-40cf-859c-60e43360f1a3","D16","MCRA","MCRA.AOS.reaeration.station.03","2016-11-16T09:12Z",6.00,28.10,28.30,28.30,28.40,28.50,

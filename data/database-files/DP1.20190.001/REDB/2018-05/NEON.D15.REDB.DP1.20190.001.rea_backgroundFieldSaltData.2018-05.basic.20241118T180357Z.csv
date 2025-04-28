@@ -1,0 +1,13 @@
+uid,domainID,siteID,namedLocation,collectDate,stationToInjectionDistance,specificConductanceRep1,specificConductanceRep2,specificConductanceRep3,specificConductanceRep4,sampleCollected,saltBackgroundSampleID,saltBackgroundSampleCode,remarks,incompleteExperimentQF
+"dc776768-247f-4fb5-86c7-81a6acbe7d64","D15","REDB","REDB.AOS.reaeration.station.03","2018-05-10T15:57Z",216.00,622.00,623.00,623.00,624.00,"Y","REDB.B3.20180510.TCR","A00000023345",,
+"950fe7bb-f5e3-430f-a9e6-c65cf6eadec1","D15","REDB","REDB.AOS.reaeration.station.04","2018-05-10T15:57Z",325.00,621.00,622.00,623.00,623.00,"Y","REDB.B4.20180510.TCR","A00000023344",,
+"95e48d74-949f-46b3-8da1-626ebb099395","D15","REDB","REDB.AOS.reaeration.station.01","2018-05-10T15:57Z",36.00,624.00,624.00,624.00,624.00,"Y","REDB.B1.20180510.TCR","A00000023342",,
+"3ec3305d-db86-4bcc-ac1d-798208a484e7","D15","REDB","REDB.AOS.reaeration.station.02","2018-05-10T15:57Z",122.00,627.00,625.00,625.00,619.00,"Y","REDB.B2.20180510.TCR","A00000023343",,
+"c62d051c-736c-497f-99f0-beb6b86d51ee","D15","REDB","REDB.AOS.reaeration.station.01","2018-05-17T15:06Z",36.00,634.00,633.00,634.00,634.00,"Y","REDB.B1.20180517.TCR",,,"externalLabSaltSampleDataNA"
+"b2181243-4cd6-4fde-912a-747bd98a6d2e","D15","REDB","REDB.AOS.reaeration.station.04","2018-05-17T15:06Z",325.00,633.00,632.00,632.00,632.00,"Y","REDB.B4.20180517.TCR",,,"externalLabSaltSampleDataNA"
+"b71619ba-bfa3-4b1f-a212-d118a17c0f6c","D15","REDB","REDB.AOS.reaeration.station.03","2018-05-17T15:06Z",216.00,633.00,633.00,633.00,632.00,"Y","REDB.B3.20180517.TCR",,,"externalLabSaltSampleDataNA"
+"502b7397-bca5-449d-a731-4f3114b936a3","D15","REDB","REDB.AOS.reaeration.station.02","2018-05-17T15:06Z",122.00,626.00,632.00,634.00,634.00,"Y","REDB.B2.20180517.TCR",,,"externalLabSaltSampleDataNA"
+"08c0e306-50f4-46ef-98fd-9ddec4c6ef3a","D15","REDB","REDB.AOS.reaeration.station.03","2018-05-30T15:45Z",216.00,635.00,636.00,367.00,637.00,"Y","REDB.B3.20180530.TCR","A00000023428",,
+"41d00df3-d6dd-4d72-9fb4-09ef4ee6d29e","D15","REDB","REDB.AOS.reaeration.station.02","2018-05-30T15:45Z",122.00,637.00,637.00,638.00,638.00,"Y","REDB.B2.20180530.TCR","A00000023432",,
+"669a963a-fee7-45ce-b42c-a1e11eb9056b","D15","REDB","REDB.AOS.reaeration.station.01","2018-05-30T15:45Z",36.00,626.00,634.00,635.00,636.00,"Y","REDB.B1.20180530.TCR","A00000023437",,
+"e6efa0c7-05c3-4a00-8a50-1236c0bb73c8","D15","REDB","REDB.AOS.reaeration.station.04","2018-05-30T15:45Z",325.00,634.00,634.00,635.00,635.00,"Y","REDB.B4.20180530.TCR","A00000023421",,

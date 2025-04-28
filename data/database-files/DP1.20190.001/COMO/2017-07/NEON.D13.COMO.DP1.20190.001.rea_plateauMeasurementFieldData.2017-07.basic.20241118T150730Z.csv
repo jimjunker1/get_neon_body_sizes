@@ -1,0 +1,13 @@
+uid,domainID,siteID,namedLocation,collectDate,waterTemp,specificConductanceRep1,specificConductanceRep2,specificConductanceRep3,specificConductanceRep4,specificConductanceRep5,remarks
+"e30f5929-dd28-4f28-8388-1127f55d96db","D13","COMO","COMO.AOS.reaeration.station.03","2017-07-06T16:45Z",10.30,58.70,,,,,
+"7ebe87c6-142d-4fb9-a349-6e699b9bdb64","D13","COMO","COMO.AOS.reaeration.station.01","2017-07-06T16:45Z",10.10,84.40,56.40,55.20,59.20,62.50,"Side channel effected mixing"
+"e9eff74c-a27c-4c7c-b251-50f5274978d0","D13","COMO","COMO.AOS.reaeration.station.04","2017-07-06T16:45Z",10.36,47.20,,,,,"Significant secondary inlet between s3 and s4 due to seasonal runoff"
+"6bcd0425-7c49-4d6b-a7e4-f00fb7825325","D13","COMO","COMO.AOS.reaeration.station.02","2017-07-06T16:45Z",10.10,59.80,,,,,
+"1c26efa1-b46c-4940-a2a7-1dcb07ed78f0","D13","COMO","COMO.AOS.reaeration.station.01","2017-07-17T18:00Z",10.10,80.10,73.30,69.90,71.90,84.20,
+"ad1ce94f-1082-4d3a-8792-10c63b561af0","D13","COMO","COMO.AOS.reaeration.station.03","2017-07-17T18:00Z",10.20,64.50,,,,,
+"2f946369-15ad-4563-8710-267585ead93f","D13","COMO","COMO.AOS.reaeration.station.04","2017-07-17T18:00Z",10.20,63.50,,,,,
+"ef14f941-1070-471f-8335-ed0d63b370ed","D13","COMO","COMO.AOS.reaeration.station.02","2017-07-17T18:00Z",10.10,70.90,,,,,
+"0502b167-03f1-46a2-89d7-fbd9efec034d","D13","COMO","COMO.AOS.reaeration.station.02","2017-07-25T16:04Z",9.70,45.20,,,,,
+"e4d0c50e-dc2c-4e64-9e7c-e2362e172b52","D13","COMO","COMO.AOS.reaeration.station.01","2017-07-25T16:04Z",9.60,58.10,42.70,48.60,42.30,49.10,
+"7e8f9e0c-28a2-46aa-99a3-8cd7c3a1a845","D13","COMO","COMO.AOS.reaeration.station.04","2017-07-25T16:04Z",9.60,30.00,,,,,
+"50b948b7-ecf4-4a3c-9c44-0cd0aa485c00","D13","COMO","COMO.AOS.reaeration.station.03","2017-07-25T16:04Z",9.60,44.30,,,,,

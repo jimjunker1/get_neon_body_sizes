@@ -1,0 +1,9 @@
+uid,domainID,siteID,namedLocation,collectDate,waterTemp,specificConductanceRep1,specificConductanceRep2,specificConductanceRep3,specificConductanceRep4,specificConductanceRep5,remarks
+"8a9f1d03-2f8a-4d1b-9e3b-9d3bfa6becbb","D06","KING","KING.AOS.reaeration.station.02","2015-08-19T14:30Z",,,,,,,"probe not functioning"
+"45446d47-a101-42f9-ba08-296b76236ded","D06","KING","KING.AOS.reaeration.station.03","2015-08-19T14:30Z",,,,,,,"probe not functioning"
+"77ea513b-dfc4-4678-bdab-6a2401f8f4bc","D06","KING","KING.AOS.reaeration.station.01","2015-08-19T14:30Z",,,,,,,"probe not functioning"
+"7fa259be-0477-49aa-a197-c9ff1d9598c2","D06","KING","KING.AOS.reaeration.station.02","2015-08-19T14:30Z",,,,,,,
+"b70ab0a3-c4a3-4ef2-bba7-93ac1977a9d4","D06","KING","KING.AOS.reaeration.station.01","2015-08-19T14:30Z",,,,,,,
+"174fca06-a620-49f3-ae5e-0e942884bc21","D06","KING","KING.AOS.reaeration.station.04","2015-08-19T14:30Z",,,,,,,
+"b0b63cf9-eac3-4f49-87b4-8a53dc4a1539","D06","KING","KING.AOS.reaeration.station.03","2015-08-19T14:30Z",,,,,,,
+"3bfb83eb-fcda-421a-87bb-462875dbfc31","D06","KING","KING.AOS.reaeration.station.04","2015-08-19T14:30Z",,,,,,,"probe not functioning"

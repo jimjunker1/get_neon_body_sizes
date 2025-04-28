@@ -1,0 +1,5 @@
+uid,domainID,siteID,namedLocation,collectDate,stationToInjectionDistance,specificConductanceRep1,specificConductanceRep2,specificConductanceRep3,specificConductanceRep4,sampleCollected,saltBackgroundSampleID,saltBackgroundSampleCode,remarks,incompleteExperimentQF
+"6e353972-f913-4aae-8301-9e9f179a7535","D11","PRIN","PRIN.AOS.reaeration.station.02","2018-03-05T16:53Z",122.70,780.00,780.00,780.00,780.00,"Y","PRIN.B2.20180305.TCR",,,
+"4a08e1b9-3d69-42cb-88ae-1ef0517ed4de","D11","PRIN","PRIN.AOS.reaeration.station.04","2018-03-05T16:53Z",253.60,812.00,814.00,813.00,816.00,"Y","PRIN.B4.20180305.TCR",,,
+"35d92033-3f11-47b9-87de-5b4d33ec3e62","D11","PRIN","PRIN.AOS.reaeration.station.01","2018-03-05T16:53Z",47.80,781.00,781.00,781.00,781.00,"Y","PRIN.B1.20180305.TCR",,,
+"60c6999d-f485-4611-ab8d-5f3d8264d198","D11","PRIN","PRIN.AOS.reaeration.station.03","2018-03-05T16:53Z",186.50,816.00,817.00,817.00,816.00,"Y","PRIN.B3.20180305.TCR",,,

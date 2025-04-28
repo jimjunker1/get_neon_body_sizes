@@ -1,0 +1,5 @@
+uid,domainID,siteID,namedLocation,collectDate,waterTemp,specificConductanceRep1,specificConductanceRep2,specificConductanceRep3,specificConductanceRep4,specificConductanceRep5,remarks
+"6a383348-1670-446a-ae30-41700ec8537c","D17","BIGC","BIGC.AOS.reaeration.station.04","2020-11-04T17:47Z",10.20,270.00,,,,,
+"0e580d62-12e5-4b3a-8ae3-0fab9e00df23","D17","BIGC","BIGC.AOS.reaeration.station.02","2020-11-04T17:47Z",10.00,270.60,,,,,"Vial 8 not taking full volume of gas"
+"85dfe820-473c-42f4-883f-2aa440e26b3f","D17","BIGC","BIGC.AOS.reaeration.station.01","2020-11-04T17:47Z",10.00,275.00,274.50,273.70,274.00,273.90,
+"c3009ae8-ad27-4cb9-9876-913608a77760","D17","BIGC","BIGC.AOS.reaeration.station.03","2020-11-04T17:47Z",10.10,271.40,,,,,

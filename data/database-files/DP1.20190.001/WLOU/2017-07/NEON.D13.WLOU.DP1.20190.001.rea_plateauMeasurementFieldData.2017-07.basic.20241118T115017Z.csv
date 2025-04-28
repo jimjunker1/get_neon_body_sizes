@@ -1,0 +1,13 @@
+uid,domainID,siteID,namedLocation,collectDate,waterTemp,specificConductanceRep1,specificConductanceRep2,specificConductanceRep3,specificConductanceRep4,specificConductanceRep5,remarks
+"a655968f-e903-4512-af0a-21881bc46d6c","D13","WLOU","WLOU.AOS.reaeration.station.01","2017-07-13T16:17Z",7.80,119.00,113.20,118.40,118.30,120.30,
+"4a0cecd3-5ed1-4d49-a281-c122c14447f5","D13","WLOU","WLOU.AOS.reaeration.station.04","2017-07-13T16:17Z",8.10,116.80,,,,,
+"81aebd63-f6bc-4a61-abdc-c77fbbd4b9f4","D13","WLOU","WLOU.AOS.reaeration.station.03","2017-07-13T16:17Z",8.10,115.10,,,,,
+"643baf30-5dca-4c7b-a54d-1d8001d3d52f","D13","WLOU","WLOU.AOS.reaeration.station.02","2017-07-13T16:17Z",7.90,117.70,,,,,
+"cc159b0b-9fee-41a9-88cc-2aeb60254ad4","D13","WLOU","WLOU.AOS.reaeration.station.01","2017-07-28T15:24Z",9.10,112.00,111.80,111.50,111.90,111.60,
+"1ff8e52f-8467-4af4-a8d3-bb78b084de9a","D13","WLOU","WLOU.AOS.reaeration.station.03","2017-07-28T15:24Z",9.10,112.50,,,,,
+"4b9dedea-25ce-4384-afa9-1a57308ea636","D13","WLOU","WLOU.AOS.reaeration.station.04","2017-07-28T15:24Z",9.20,111.40,,,,,
+"c0bf0718-994f-4f6c-942d-ae4cf2edf25f","D13","WLOU","WLOU.AOS.reaeration.station.02","2017-07-28T15:24Z",9.10,112.30,,,,,
+"a78a34b8-f6ef-4ed5-a2c3-d531e95f79e0","D13","WLOU","WLOU.AOS.reaeration.station.01","2017-07-31T15:02Z",8.30,117.40,117.60,117.50,117.20,116.70,
+"3b7c3ce4-a098-4051-88bc-b0c78c9ecce3","D13","WLOU","WLOU.AOS.reaeration.station.03","2017-07-31T15:02Z",8.40,116.40,,,,,
+"934605f9-bb8a-40bf-90d4-fc6072c5b0d2","D13","WLOU","WLOU.AOS.reaeration.station.04","2017-07-31T15:02Z",8.50,116.40,,,,,
+"9baa1768-9f93-4ec0-a251-5fda2aaf24e8","D13","WLOU","WLOU.AOS.reaeration.station.02","2017-07-31T15:02Z",8.20,116.90,,,,,

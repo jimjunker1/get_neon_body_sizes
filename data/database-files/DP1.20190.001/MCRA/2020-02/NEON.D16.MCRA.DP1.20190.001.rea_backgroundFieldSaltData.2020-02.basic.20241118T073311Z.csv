@@ -1,0 +1,9 @@
+uid,domainID,siteID,namedLocation,collectDate,stationToInjectionDistance,specificConductanceRep1,specificConductanceRep2,specificConductanceRep3,specificConductanceRep4,sampleCollected,saltBackgroundSampleID,saltBackgroundSampleCode,remarks,incompleteExperimentQF
+"bc49a3db-db72-442e-97c1-d7ea3fab3934","D16","MCRA","MCRA.AOS.reaeration.station.01","2020-02-06T17:41Z",38.00,20.10,20.30,20.10,20.21,"Y","MCRA.B1.20200206.TCR","A00000106957",,
+"b31b10d7-28fb-4855-af9d-b346ac587d36","D16","MCRA","MCRA.AOS.reaeration.station.04","2020-02-06T17:41Z",268.00,21.00,20.90,20.60,20.80,"Y","MCRA.B4.20200206.TCR","A00000106959",,
+"d99c0454-bb0a-4106-894b-44ad3fa7661d","D16","MCRA","MCRA.AOS.reaeration.station.02","2020-02-06T17:41Z",120.00,20.20,19.90,20.20,20.10,"Y","MCRA.B2.20200206.TCR","A00000106944",,
+"027f3d46-236e-401e-871b-1d77a41556a0","D16","MCRA","MCRA.AOS.reaeration.station.03","2020-02-06T17:41Z",190.00,20.00,21.10,20.70,20.40,"Y","MCRA.B3.20200206.TCR","A00000106934",,
+"e62e8831-09b7-4cbe-a93e-f07ef92c8de5","D16","MCRA","MCRA.AOS.reaeration.station.01","2020-02-14T17:27Z",30.00,21.30,22.00,18.30,17.70,"Y","MCRA.B1.20200214.TCR","A00000109351",,
+"e5f0bed6-0298-4e05-b5cb-042893e71070","D16","MCRA","MCRA.AOS.reaeration.station.02","2020-02-14T17:27Z",120.00,21.70,21.80,21.80,21.90,"Y","MCRA.B2.20200214.TCR","A00000109338",,
+"9cc26076-751c-426f-b140-50ca1cb46b41","D16","MCRA","MCRA.AOS.reaeration.station.03","2020-02-14T17:27Z",190.00,23.00,23.00,23.10,23.10,"Y","MCRA.B3.20200214.TCR","A00000109342",,
+"4fc69810-a14f-49eb-90a4-633f0d4076bc","D16","MCRA","MCRA.AOS.reaeration.station.04","2020-02-14T17:27Z",268.00,22.90,22.90,23.00,23.00,"Y","MCRA.B4.20200214.TCR","A00000109352",,

@@ -1,0 +1,9 @@
+uid,domainID,siteID,namedLocation,collectDate,waterTemp,specificConductanceRep1,specificConductanceRep2,specificConductanceRep3,specificConductanceRep4,specificConductanceRep5,remarks
+"fe370523-60eb-4d21-978a-338207d1a68c","D02","POSE","POSE.AOS.reaeration.station.02","2020-11-19T12:43Z",4.10,151.80,,,,,
+"69c5fa79-477f-4b6d-aa3f-4c9f8e67f5c3","D02","POSE","POSE.AOS.reaeration.station.03","2020-11-19T12:43Z",4.20,150.30,,,,,
+"af4c483f-0b4d-4ba6-ae89-e7348df0e471","D02","POSE","POSE.AOS.reaeration.station.04","2020-11-19T12:43Z",4.20,148.30,,,,,
+"08b5e411-ec5d-43ce-9a65-3866d55ee707","D02","POSE","POSE.AOS.reaeration.station.01","2020-11-19T12:43Z",4.00,149.70,150.50,153.40,153.30,152.80,
+"29e3fd1a-5009-4917-baa3-170778697a04","D02","POSE","POSE.AOS.reaeration.station.02","2020-11-30T16:47Z",9.90,108.50,,,,,
+"37c0dbff-8a27-4c2b-a8bd-4b37b3b1c6af","D02","POSE","POSE.AOS.reaeration.station.03","2020-11-30T16:47Z",9.90,109.30,,,,,
+"fddf9f0e-4e1d-4dc4-b3c7-2a398ad6d235","D02","POSE","POSE.AOS.reaeration.station.01","2020-11-30T16:47Z",9.90,113.40,111.30,109.50,103.40,106.00,
+"a2820c05-b358-49f2-b2bc-77c599a401a0","D02","POSE","POSE.AOS.reaeration.station.04","2020-11-30T16:47Z",9.90,109.00,,,,,

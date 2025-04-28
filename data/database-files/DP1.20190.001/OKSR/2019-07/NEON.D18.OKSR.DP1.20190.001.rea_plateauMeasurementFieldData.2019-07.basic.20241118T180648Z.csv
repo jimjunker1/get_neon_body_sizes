@@ -1,0 +1,13 @@
+uid,domainID,siteID,namedLocation,collectDate,waterTemp,specificConductanceRep1,specificConductanceRep2,specificConductanceRep3,specificConductanceRep4,specificConductanceRep5,remarks
+"d7d26517-a098-4e4a-ad6d-fa0ef06c4660","D18","OKSR","OKSR.AOS.reaeration.station.01","2019-07-06T18:33Z",14.80,50.10,,,,,
+"3acf925d-ae5f-4c8a-83f7-5bafa00671d3","D18","OKSR","OKSR.AOS.reaeration.station.02","2019-07-06T18:33Z",14.80,49.90,,,,,
+"2bec89fc-9907-41b4-9d86-f1c5904392ad","D18","OKSR","OKSR.AOS.reaeration.station.04","2019-07-06T18:33Z",14.80,49.90,,,,,
+"648f81f3-2a9c-4933-b72d-2301831d1189","D18","OKSR","OKSR.AOS.reaeration.station.03","2019-07-06T18:33Z",14.80,49.60,,,,,
+"94dcc47c-63a0-4e21-bfb0-fb1ec4d0fb55","D18","OKSR","OKSR.AOS.reaeration.station.03","2019-07-12T18:25Z",13.80,58.00,,,,,
+"0e581374-682c-4d04-acc5-07a1741a71aa","D18","OKSR","OKSR.AOS.reaeration.station.04","2019-07-12T18:25Z",13.70,58.60,,,,,
+"e31c0255-a92e-48a3-bfdc-f18faf47e626","D18","OKSR","OKSR.AOS.reaeration.station.01","2019-07-12T18:25Z",13.60,58.40,,,,,"Cracked stopcocks on syringes 1 and 2"
+"2e0cf200-fc46-457d-90ef-7c7edbc65c9b","D18","OKSR","OKSR.AOS.reaeration.station.02","2019-07-12T18:25Z",13.70,58.30,,,,,
+"25954d1b-eb29-431a-b096-c05a9574488a","D18","OKSR","OKSR.AOS.reaeration.station.02","2019-07-18T18:55Z",15.00,55.40,,,,,
+"79ba825e-232d-49d9-b12d-44b6567c5ae7","D18","OKSR","OKSR.AOS.reaeration.station.04","2019-07-18T18:55Z",15.00,55.40,,,,,
+"4056bfee-2477-4002-a880-6e2570888eaa","D18","OKSR","OKSR.AOS.reaeration.station.03","2019-07-18T18:55Z",15.00,55.30,,,,,
+"6a6a6154-f790-4892-8c62-b73a2e3b71b7","D18","OKSR","OKSR.AOS.reaeration.station.01","2019-07-18T18:55Z",15.00,55.40,,,,,

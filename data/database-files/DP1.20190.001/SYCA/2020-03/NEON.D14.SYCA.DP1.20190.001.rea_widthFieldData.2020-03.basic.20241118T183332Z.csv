@@ -1,0 +1,19 @@
+uid,domainID,siteID,namedLocation,collectDate,measuringMethod,widthMeasurementNumber,wettedWidth,remarks
+"ba0b3b55-436b-4dee-b18f-3c78d443130a","D14","SYCA","SYCA","2020-03-09T18:02Z","Tape",18,8.00,"Double channel"
+"d64c0004-49fa-421a-b9c9-08f14d185846","D14","SYCA","SYCA","2020-03-09T18:02Z","Tape",7,10.20,"Double channel"
+"cd4087fa-a980-437d-8ba0-103bf26e53a0","D14","SYCA","SYCA","2020-03-09T18:02Z","Tape",1,5.30,
+"cff42577-f5a4-4757-abb3-95aa196f459c","D14","SYCA","SYCA","2020-03-09T18:02Z","Tape",16,8.20,"Double channel"
+"0b98c6d6-1b2e-4860-ab9b-7826c1cdfb53","D14","SYCA","SYCA","2020-03-09T18:02Z","Tape",4,4.60,
+"87c3f6cd-718f-4f73-a9ce-7ef99f87411e","D14","SYCA","SYCA","2020-03-09T18:02Z","Tape",10,9.00,"Double channel"
+"85174c16-7ab4-4035-b1ab-28ebc8c8ad61","D14","SYCA","SYCA","2020-03-09T18:02Z","Tape",15,7.90,"Double channel"
+"83836cc5-f4c2-4afb-be9a-698c5bfe5592","D14","SYCA","SYCA","2020-03-09T18:02Z","Tape",9,6.50,"Double channel"
+"454f6dbf-2230-4973-899b-d3ccb39de059","D14","SYCA","SYCA","2020-03-09T18:02Z","Tape",6,10.10,
+"66f84183-6b57-4fe8-aa89-85129bc5c140","D14","SYCA","SYCA","2020-03-09T18:02Z","Tape",3,4.40,
+"6a124670-b7c1-4dbe-98c0-b2c737f30ef4","D14","SYCA","SYCA","2020-03-09T18:02Z","Tape",2,4.50,
+"f45c3257-99de-481d-89ff-34e24667ddd6","D14","SYCA","SYCA","2020-03-09T18:02Z","Tape",8,8.70,"Double channel"
+"1a46cf4e-bb2e-4688-b694-e2a9faacc470","D14","SYCA","SYCA","2020-03-09T18:02Z","Tape",12,7.20,"Double channel"
+"3d508751-1c1b-49d6-ba3c-15ec5264154f","D14","SYCA","SYCA","2020-03-09T18:02Z","Tape",5,6.50,
+"109d5555-ca1f-4486-b3ec-8924566bb8be","D14","SYCA","SYCA","2020-03-09T18:02Z","Tape",11,6.80,"Double channel"
+"accdf1e7-229b-4925-8a65-c843a35e2963","D14","SYCA","SYCA","2020-03-09T18:02Z","Tape",13,9.60,"Double channel"
+"1d9e7ea6-20a9-45cf-836b-ee3bbebf596c","D14","SYCA","SYCA","2020-03-09T18:02Z","Tape",14,7.40,"Double channel"
+"e2909459-ed56-4075-b50c-f9082f1ff76a","D14","SYCA","SYCA","2020-03-09T18:02Z","Tape",17,8.00,"Double channel"

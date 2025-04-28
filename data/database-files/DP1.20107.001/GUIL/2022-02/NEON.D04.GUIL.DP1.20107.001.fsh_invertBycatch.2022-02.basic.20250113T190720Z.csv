@@ -1,0 +1,4 @@
+uid,domainID,siteID,namedLocation,passStartTime,passEndTime,boutEndDate,passNumber,eventID,voucherSampleID,voucherSampleCode,scientificName,taxonID,morphospeciesID,morphospeciesIDRemarks,bulkInvertCount,bulkMortality,identificationQualifier,identificationReferences,identifiedBy,remarks,dataQF
+"0d191d80-a82e-40a8-a148-00a23cba65c3","D04","GUIL","GUIL.AOS.fish.point.06","2022-02-23T13:55Z","2022-02-23T15:15Z","2022-02-24T19:35Z",1,"GUIL.2022.spring",,,"Atya lanipes","ATYLAN",,,1,,,,"0000-0002-4299-7043",,
+"b8dfc3a2-90ea-44c1-aaed-b90d7019d8eb","D04","GUIL","GUIL.AOS.fish.point.07","2022-02-23T17:55Z","2022-02-23T19:09Z","2022-02-24T19:35Z",1,"GUIL.2022.spring",,,"Xiphocaris elongata","XIPELO",,,31,0,,,"0000-0002-4299-7043",,
+"a624ee81-e63a-44ef-98cd-b1e1c993b279","D04","GUIL","GUIL.AOS.fish.point.09","2022-02-24T13:05Z","2022-02-24T14:25Z","2022-02-24T19:35Z",1,"GUIL.2022.spring",,,"Epilobocera sinuatifrons","EPISIN",,,1,,,,"0000-0002-4299-7043",,

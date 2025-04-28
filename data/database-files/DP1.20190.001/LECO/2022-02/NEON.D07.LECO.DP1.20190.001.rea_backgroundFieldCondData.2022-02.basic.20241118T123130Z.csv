@@ -1,0 +1,3 @@
+uid,domainID,siteID,namedLocation,startDate,stationToInjectionDistance,hoboSampleID
+"dcf53cea-f9ea-4084-af0a-14932eb5d0e1","D07","LECO","LECO.AOS.reaeration.station.04","2022-02-16T16:40Z",375.40,"LECO_S4_20220216"
+"8d5a11f9-7e17-4c6e-941f-e952f28f017a","D07","LECO","LECO.AOS.reaeration.station.01","2022-02-16T16:40Z",21.60,"LECO_S1_20220216"

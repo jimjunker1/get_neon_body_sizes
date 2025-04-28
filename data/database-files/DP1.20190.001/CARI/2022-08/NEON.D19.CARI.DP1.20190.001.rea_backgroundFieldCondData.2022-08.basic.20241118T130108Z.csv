@@ -1,0 +1,3 @@
+uid,domainID,siteID,namedLocation,startDate,stationToInjectionDistance,hoboSampleID
+"282ccc0b-0abc-4d46-b9b1-09606b88d320","D19","CARI","CARI.AOS.reaeration.station.04","2022-08-12T20:13Z",369.30,"CARI_S4_20220812"
+"3251f28b-fab2-44d7-a266-00ed8ce6b303","D19","CARI","CARI.AOS.reaeration.station.01","2022-08-12T20:13Z",31.70,"CARI_S1_20220812"

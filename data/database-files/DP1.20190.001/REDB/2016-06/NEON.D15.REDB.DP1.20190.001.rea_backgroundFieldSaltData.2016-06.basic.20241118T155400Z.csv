@@ -1,0 +1,5 @@
+uid,domainID,siteID,namedLocation,collectDate,stationToInjectionDistance,specificConductanceRep1,specificConductanceRep2,specificConductanceRep3,specificConductanceRep4,sampleCollected,saltBackgroundSampleID,saltBackgroundSampleCode,remarks,incompleteExperimentQF
+"929a1cf7-67d0-42c1-bfd3-5b54852ee06d","D15","REDB","REDB.AOS.reaeration.station.02","2016-06-02T17:39Z",128.00,538.00,539.00,538.00,539.00,"Y","REDB.B2.20160602.TCR",,"9.0 celsius",
+"0d1c1cd3-dae6-42f9-9b16-c52ff3f19c8c","D15","REDB","REDB.AOS.reaeration.station.03","2016-06-02T17:39Z",214.00,539.00,540.00,539.00,539.00,"Y","REDB.B3.20160602.TCR",,"9.0 celsius",
+"a4edd089-9841-4264-aae0-72d546a18220","D15","REDB","REDB.AOS.reaeration.station.04","2016-06-02T17:39Z",308.00,513.00,532.00,539.00,539.00,"Y","REDB.B4.20160602.TCR",,"9.1 celsius. First measurement in an eddy",
+"f5237b86-fab3-4057-8791-ab5a231e605f","D15","REDB","REDB.AOS.reaeration.station.01","2016-06-02T17:39Z",37.00,532.00,537.00,537.00,538.00,"Y","REDB.B1.20160602.TCR",,"9.0 celsius. First and last measurements in eddies",

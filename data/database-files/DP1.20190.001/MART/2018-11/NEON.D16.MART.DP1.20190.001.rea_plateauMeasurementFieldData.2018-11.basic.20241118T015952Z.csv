@@ -1,0 +1,9 @@
+uid,domainID,siteID,namedLocation,collectDate,waterTemp,specificConductanceRep1,specificConductanceRep2,specificConductanceRep3,specificConductanceRep4,specificConductanceRep5,remarks
+"113335d2-1d19-45b6-8e97-9e4917415e92","D16","MART","MART.AOS.reaeration.station.04","2018-11-08T17:17Z",6.80,47.00,,,,,
+"373b341f-0919-4888-9b50-1244d407e3ca","D16","MART","MART.AOS.reaeration.station.01","2018-11-08T17:17Z",6.80,51.00,51.20,50.70,51.40,52.00,
+"60bfda7d-2e85-40e9-91d3-2c0ea6081c7f","D16","MART","MART.AOS.reaeration.station.02","2018-11-08T17:17Z",6.80,48.60,,,,,
+"ebf408e8-047b-4b9a-9c39-ea53fe4e0b5e","D16","MART","MART.AOS.reaeration.station.03","2018-11-08T17:17Z",6.80,48.10,,,,,
+"27669665-c014-4108-86cd-142f086b7b95","D16","MART","MART.AOS.reaeration.station.01","2018-11-15T17:23Z",6.30,40.80,41.30,41.60,41.70,41.10,
+"5de17c19-48de-4e2e-961c-455db03a9839","D16","MART","MART.AOS.reaeration.station.04","2018-11-15T17:23Z",6.20,35.50,,,,,
+"29a11418-0dbc-4a47-bd5d-aa29fc0d4d58","D16","MART","MART.AOS.reaeration.station.03","2018-11-15T17:23Z",6.20,35.80,,,,,
+"171ae906-5a6c-4d58-9093-7733aba51d4f","D16","MART","MART.AOS.reaeration.station.02","2018-11-15T17:23Z",6.30,36.50,,,,,

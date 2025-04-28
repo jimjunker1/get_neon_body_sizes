@@ -1,0 +1,3 @@
+uid,domainID,siteID,namedLocation,startDate,stationToInjectionDistance,hoboSampleID
+"985f243a-93ed-4e9a-a08c-1ab58c872dc6","D13","WLOU","WLOU.AOS.reaeration.station.01","2018-06-20T14:53Z",35.00,"WLOU_S1_20180620"
+"d10bc440-a4b7-46d9-a996-69033be3d2a8","D13","WLOU","WLOU.AOS.reaeration.station.04","2018-06-20T14:53Z",363.00,"WLOU_S4_20180620"

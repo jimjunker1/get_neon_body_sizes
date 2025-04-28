@@ -1,0 +1,5 @@
+uid,domainID,siteID,namedLocation,collectDate,waterTemp,specificConductanceRep1,specificConductanceRep2,specificConductanceRep3,specificConductanceRep4,specificConductanceRep5,remarks
+"e09d2b89-f4ac-41f7-bd75-26929785277f","D08","MAYF","MAYF.AOS.reaeration.station.01","2018-12-04T17:05Z",9.90,15.90,23.10,17.20,15.50,21.70,
+"9cf9ce85-1ce8-4977-a459-8eb96cc5cde5","D08","MAYF","MAYF.AOS.reaeration.station.02","2018-12-04T17:05Z",10.00,24.00,,,,,"Lost salt sample 1 for station 2"
+"5699ceef-d44c-4437-9268-d82c28e323ad","D08","MAYF","MAYF.AOS.reaeration.station.04","2018-12-04T17:05Z",10.00,23.80,,,,,
+"dc076446-8a07-49c4-93ea-66c75121f506","D08","MAYF","MAYF.AOS.reaeration.station.03","2018-12-04T17:05Z",10.00,24.20,,,,,

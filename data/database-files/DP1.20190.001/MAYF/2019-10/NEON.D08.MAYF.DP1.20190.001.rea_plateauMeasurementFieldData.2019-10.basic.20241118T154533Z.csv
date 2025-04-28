@@ -1,0 +1,5 @@
+uid,domainID,siteID,namedLocation,collectDate,waterTemp,specificConductanceRep1,specificConductanceRep2,specificConductanceRep3,specificConductanceRep4,specificConductanceRep5,remarks
+"38182e33-880b-46fc-91c7-ca34fb3d240a","D08","MAYF","MAYF.AOS.reaeration.station.01","2019-10-09T14:53Z",20.00,36.40,34.60,34.60,35.00,33.90,
+"503eff57-1186-48bf-93e9-d9bab67ae1cb","D08","MAYF","MAYF.AOS.reaeration.station.03","2019-10-09T14:53Z",20.00,34.20,,,,,
+"286f3627-6bef-45bd-922f-2142b360095f","D08","MAYF","MAYF.AOS.reaeration.station.02","2019-10-09T14:53Z",19.90,34.20,,,,,
+"d8d9c52a-46ba-490f-9232-5f2296e39b58","D08","MAYF","MAYF.AOS.reaeration.station.04","2019-10-09T14:53Z",20.10,33.20,,,,,"Gas vials 18 and 19 compromised. Not able to push air into vials. Possible vial problem or dirt clogged needles."

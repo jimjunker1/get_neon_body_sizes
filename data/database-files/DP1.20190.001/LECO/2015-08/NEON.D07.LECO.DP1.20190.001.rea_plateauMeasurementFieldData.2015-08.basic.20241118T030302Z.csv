@@ -1,0 +1,5 @@
+uid,domainID,siteID,namedLocation,collectDate,waterTemp,specificConductanceRep1,specificConductanceRep2,specificConductanceRep3,specificConductanceRep4,specificConductanceRep5,remarks
+"2c029215-02a1-42bd-8ff9-93631cc5c958","D07","LECO","LECO.AOS.reaeration.station.03","2015-08-24T14:45Z",19.30,27.30,27.00,27.00,27.10,27.30,
+"8e486b34-f12c-49cf-834d-7f4475c597b6","D07","LECO","LECO.AOS.reaeration.station.02","2015-08-24T14:45Z",19.10,27.30,27.00,27.00,27.10,27.30,
+"0e93f869-34da-4faf-90d0-2142e6b7462d","D07","LECO","LECO.AOS.reaeration.station.04","2015-08-24T14:45Z",19.30,27.30,27.00,27.00,27.10,27.30,
+"b35d7b7b-10e8-4d7e-99c6-e694b2bd21df","D07","LECO","LECO.AOS.reaeration.station.01","2015-08-24T14:45Z",19.10,27.30,27.00,27.00,27.10,27.30,"36mL water in syringe"

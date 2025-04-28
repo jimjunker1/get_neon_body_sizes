@@ -1,0 +1,9 @@
+uid,domainID,siteID,namedLocation,collectDate,waterTemp,specificConductanceRep1,specificConductanceRep2,specificConductanceRep3,specificConductanceRep4,specificConductanceRep5,remarks
+"d8a93ed3-7823-40a0-b4ef-7e599e6ba48b","D11","PRIN","PRIN.AOS.reaeration.station.04","2019-05-10T15:32Z",16.30,681.00,,,,,
+"59dbc3f6-f0cd-431a-898b-dece5fcdfbaf","D11","PRIN","PRIN.AOS.reaeration.station.01","2019-05-10T15:32Z",16.30,634.00,,,,,
+"6ff55821-a7a4-42b9-9579-758e6b743d1e","D11","PRIN","PRIN.AOS.reaeration.station.03","2019-05-10T15:32Z",16.20,669.00,,,,,
+"8820fa35-29f8-43a3-9ef0-ebcbad970b99","D11","PRIN","PRIN.AOS.reaeration.station.02","2019-05-10T15:32Z",16.30,656.00,,,,,
+"c4c68f6c-7d03-412d-bd10-0292540bda00","D11","PRIN","PRIN.AOS.reaeration.station.01","2019-05-17T14:35Z",22.80,916.00,,,,,
+"585e1193-9d72-4f02-89f1-7ab5a597e0c1","D11","PRIN","PRIN.AOS.reaeration.station.04","2019-05-17T14:35Z",23.20,935.00,,,,,
+"d7938b47-63b9-4f8d-a1c8-f86b553c5969","D11","PRIN","PRIN.AOS.reaeration.station.03","2019-05-17T14:35Z",22.90,936.00,,,,,
+"71d1f9b0-ead3-4a68-9ddb-dc706b93d0c9","D11","PRIN","PRIN.AOS.reaeration.station.02","2019-05-17T14:35Z",22.70,922.00,,,,,

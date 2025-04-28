@@ -1,0 +1,5 @@
+uid,domainID,siteID,namedLocation,collectDate,stationToInjectionDistance,specificConductanceRep1,specificConductanceRep2,specificConductanceRep3,specificConductanceRep4,sampleCollected,saltBackgroundSampleID,saltBackgroundSampleCode,remarks,incompleteExperimentQF
+"7025f3cb-d371-491b-b32e-1020081e7074","D13","WLOU","WLOU.AOS.reaeration.station.01","2016-09-16T08:04Z",35.00,97.60,97.40,97.70,97.60,"Y","WLOU.B1.20160916.TCR",,,
+"8564a7b7-b170-4bc6-a54c-ad3a614cf492","D13","WLOU","WLOU.AOS.reaeration.station.04","2016-09-16T08:04Z",363.00,99.60,99.70,99.70,99.60,"Y","WLOU.B4.20160916.TCR",,,
+"3f7eec95-a003-4869-9278-7fac6773de1b","D13","WLOU","WLOU.AOS.reaeration.station.02","2016-09-16T08:04Z",144.00,85.80,98.10,98.00,98.10,"Y","WLOU.B2.20160916.TCR",,"taken from a riffle",
+"3773ca7a-5bdd-460c-8720-b6c03a51342a","D13","WLOU","WLOU.AOS.reaeration.station.03","2016-09-16T08:04Z",254.00,86.40,98.40,98.30,98.40,"Y","WLOU.B3.20160916.TCR",,"taken from a pool",

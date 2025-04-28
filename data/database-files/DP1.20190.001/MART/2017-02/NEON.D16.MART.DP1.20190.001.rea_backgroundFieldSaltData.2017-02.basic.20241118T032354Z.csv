@@ -1,0 +1,13 @@
+uid,domainID,siteID,namedLocation,collectDate,stationToInjectionDistance,specificConductanceRep1,specificConductanceRep2,specificConductanceRep3,specificConductanceRep4,sampleCollected,saltBackgroundSampleID,saltBackgroundSampleCode,remarks,incompleteExperimentQF
+"9f559f70-4dd2-4f1c-8551-602bf42bbdac","D16","MART","MART.AOS.reaeration.station.03","2017-02-02T09:12Z",252.70,35.20,35.30,35.30,35.20,"Y","MART.B3.20170202.TCR",,,
+"894c93a3-1182-466e-803c-85eceefa93aa","D16","MART","MART.AOS.reaeration.station.02","2017-02-02T09:12Z",152.90,35.30,35.50,35.40,35.60,"Y","MART.B2.20170202.TCR",,,
+"55007d5d-8db7-4b3b-8d76-56cdb6a6bf6c","D16","MART","MART.AOS.reaeration.station.01","2017-02-02T09:12Z",52.00,35.60,35.40,35.40,35.60,"Y","MART.B1.20170202.TCR",,,
+"60fa9f9b-2192-4bed-acf2-2cce8c8adabd","D16","MART","MART.AOS.reaeration.station.04","2017-02-02T09:12Z",351.50,35.20,35.40,35.50,35.30,"Y","MART.B4.20170202.TCR",,,
+"cb88bb98-2cdc-48df-8129-ec26f3e65e16","D16","MART","MART.AOS.reaeration.station.04","2017-02-14T10:40Z",351.50,34.90,34.50,34.70,34.70,"Y","MART.B4.20170214.TCR",,,
+"a82a235f-06e2-4ea7-adff-ea339cc4e56b","D16","MART","MART.AOS.reaeration.station.02","2017-02-14T10:40Z",152.90,34.90,34.80,34.80,34.80,"Y","MART.B2.20170214.TCR",,,
+"3b352fbe-66ca-4bb2-90fe-b1cc079e735d","D16","MART","MART.AOS.reaeration.station.01","2017-02-14T10:40Z",52.00,34.50,34.40,34.40,34.50,"Y","MART.B1.20170214.TCR",,,
+"753fe723-3c8e-44ef-882f-74b23d148452","D16","MART","MART.AOS.reaeration.station.03","2017-02-14T10:40Z",252.70,34.90,34.90,34.80,34.70,"Y","MART.B3.20170214.TCR",,,
+"8625e230-a506-4d1e-9ccc-536d1d1b1961","D16","MART","MART.AOS.reaeration.station.02","2017-02-28T10:17Z",152.90,34.30,34.20,34.20,34.30,"Y","MART.B2.20170228.TCR",,,
+"caf7dfeb-6d1b-4bed-8f26-89e4c3af503b","D16","MART","MART.AOS.reaeration.station.04","2017-02-28T10:17Z",351.50,34.10,34.20,34.20,34.10,"Y","MART.B4.20170228.TCR",,,
+"3b3553e9-090a-4115-8879-02499feec146","D16","MART","MART.AOS.reaeration.station.01","2017-02-28T10:17Z",52.00,34.40,34.40,34.30,34.20,"Y","MART.B1.20170228.TCR",,,
+"54ee82eb-e428-4e2d-b8b1-86ed5157ffe6","D16","MART","MART.AOS.reaeration.station.03","2017-02-28T10:17Z",252.70,34.40,34.30,34.30,34.20,"Y","MART.B3.20170228.TCR",,,

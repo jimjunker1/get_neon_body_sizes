@@ -1,0 +1,9 @@
+uid,domainID,siteID,namedLocation,collectDate,stationToInjectionDistance,specificConductanceRep1,specificConductanceRep2,specificConductanceRep3,specificConductanceRep4,sampleCollected,saltBackgroundSampleID,saltBackgroundSampleCode,remarks,incompleteExperimentQF
+"6f8582f5-bbc4-4783-a752-e6cfd42f8bf4","D15","REDB","REDB.AOS.reaeration.station.02","2017-05-04T16:56Z",122.00,510.00,517.00,517.00,517.00,"Y","REDB.B2.20170504.TCR",,"Taken by fbouchard.",
+"694c9c8f-abb5-4a3d-aa84-2d745db9a2ba","D15","REDB","REDB.AOS.reaeration.station.04","2017-05-04T16:56Z",325.00,515.00,516.00,517.00,514.00,"Y","REDB.B4.20170504.TCR",,"Taken by fbouchard.",
+"96c6ae90-f6c9-4193-bbeb-c7eab48bd6c2","D15","REDB","REDB.AOS.reaeration.station.01","2017-05-04T16:56Z",36.00,516.00,515.00,517.00,516.00,"Y","REDB.B1.20170504.TCR",,"Taken by fbouchard.",
+"9433653c-d90f-4fca-ba68-05a96fc43e1f","D15","REDB","REDB.AOS.reaeration.station.03","2017-05-04T16:56Z",216.00,515.00,513.00,515.00,516.00,"Y","REDB.B3.20170504.TCR",,"Taken by fbouchard.",
+"47e219c1-ebd7-4a27-a0f4-0d92cb53f8c8","D15","REDB","REDB.AOS.reaeration.station.03","2017-05-18T16:58Z",216.00,546.00,548.00,557.00,547.00,"Y","REDB.B3.20170518.TCR",,,
+"67d8a1d8-ce8d-4419-97d7-53f203dce83e","D15","REDB","REDB.AOS.reaeration.station.02","2017-05-18T16:58Z",122.00,557.00,559.00,559.00,559.00,"Y","REDB.B2.20170518.TCR",,,
+"4188cec9-7834-45fa-a658-e785d67013b6","D15","REDB","REDB.AOS.reaeration.station.04","2017-05-18T16:58Z",325.00,557.00,557.00,557.00,558.00,"Y","REDB.B4.20170518.TCR",,,
+"8bddf85c-5c6b-4cbe-8971-c19f3d65169d","D15","REDB","REDB.AOS.reaeration.station.01","2017-05-18T16:58Z",36.00,558.00,553.00,558.00,558.00,"Y","REDB.B1.20170518.TCR",,,

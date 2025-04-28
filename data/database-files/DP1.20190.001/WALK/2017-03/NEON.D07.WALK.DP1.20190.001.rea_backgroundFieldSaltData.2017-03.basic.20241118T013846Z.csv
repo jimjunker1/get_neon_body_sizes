@@ -1,0 +1,9 @@
+uid,domainID,siteID,namedLocation,collectDate,stationToInjectionDistance,specificConductanceRep1,specificConductanceRep2,specificConductanceRep3,specificConductanceRep4,sampleCollected,saltBackgroundSampleID,saltBackgroundSampleCode,remarks,incompleteExperimentQF
+"045e516a-841f-490f-bfef-780820ec0be2","D07","WALK","WALK.AOS.reaeration.station.04","2017-03-02T14:15Z",154.00,104.90,95.80,93.20,93.00,"Y","WALK.B4.20170302.TCR",,,
+"9d6ef384-7177-4a66-bdf8-230bd60383a7","D07","WALK","WALK.AOS.reaeration.station.01","2017-03-02T14:15Z",14.50,86.90,86.20,82.40,80.40,"Y","WALK.B1.20170302.TCR",,"confluence of E and W branch",
+"2d2f2a6d-0370-4817-a5c4-60065312237d","D07","WALK","WALK.AOS.reaeration.station.03","2017-03-02T14:15Z",107.00,90.70,90.10,90.80,91.50,"Y","WALK.B3.20170302.TCR",,,
+"0acd53fb-969b-49a8-91f1-4e45247387e6","D07","WALK","WALK.AOS.reaeration.station.02","2017-03-02T14:15Z",61.00,87.90,87.70,87.50,87.90,"Y","WALK.B2.20170302.TCR",,,
+"05a0452a-f472-4ad5-bc91-5a9b24c2d9f6","D07","WALK","WALK.AOS.reaeration.station.03","2017-03-20T13:20Z",107.00,121.40,121.20,121.40,123.10,"Y","WALK.B3.20170320.TCR",,,
+"a0f12f9f-e3c4-465a-96f8-c94083f022b0","D07","WALK","WALK.AOS.reaeration.station.01","2017-03-20T13:20Z",14.50,131.70,129.80,110.60,98.30,"Y","WALK.B1.20170320.TCR",,"East fork flowing today; will not collect station 1 samples due to uneven mixing",
+"aadaef68-c988-4924-91ab-2cd1dfedd082","D07","WALK","WALK.AOS.reaeration.station.02","2017-03-20T13:20Z",61.00,121.60,119.20,118.10,118.20,"Y","WALK.B2.20170320.TCR",,,
+"76d32c7b-c0f7-4f20-8941-ea54d9ca3282","D07","WALK","WALK.AOS.reaeration.station.04","2017-03-20T13:20Z",154.00,133.10,129.10,127.30,125.10,"Y","WALK.B4.20170320.TCR",,,

@@ -1,0 +1,3 @@
+uid,domainID,siteID,namedLocation,startDate,stationToInjectionDistance,hoboSampleID
+"301c9ec3-64ef-498a-a800-d719eeecf524","D14","SYCA","SYCA.AOS.reaeration.station.04","2022-04-11T17:17Z",395.00,"SYCA_S4_20220411"
+"43c12115-bccd-4b24-bd08-78cf5f681416","D14","SYCA","SYCA.AOS.reaeration.station.01","2022-04-11T17:17Z",65.00,"SYCA_S1_20220411"

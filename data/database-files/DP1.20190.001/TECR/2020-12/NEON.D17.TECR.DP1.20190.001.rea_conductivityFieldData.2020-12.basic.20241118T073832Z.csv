@@ -1,0 +1,3 @@
+uid,recorduid,domainID,siteID,namedLocation,hoboSampleID,startDate,downloadFileName,downloadFileUrl
+"0511b714-ad06-456c-a047-f1f2a4e2e036","3f9e7065-038f-479f-9e7d-42c38e2f905e","D17","TECR","TECR.AOS.reaeration.station.04","TECR_S4_20201201","2020-12-01T18:35Z","TECR_S4_20201201_20231101T020707.565Z.csv","https://storage.neonscience.org/neon-os-data/data-frame/TECR_S4_20201201_20231101T020707.565Z.csv"
+"0821d3e3-cfc8-4988-846d-917b7d374774","182d59ef-34b1-4039-b5a1-a9c26bead4b7","D17","TECR","TECR.AOS.reaeration.station.01","TECR_S1_20201201","2020-12-01T18:35Z","TECR_S1_20201201_20231101T020709.043Z.csv","https://storage.neonscience.org/neon-os-data/data-frame/TECR_S1_20201201_20231101T020709.043Z.csv"

@@ -1,0 +1,5 @@
+uid,domainID,siteID,namedLocation,startDate,stationToInjectionDistance,hoboSampleID
+"6c6a2dc4-f926-4319-9bfb-7bb77e97c4af","D13","WLOU","WLOU.AOS.reaeration.station.04","2024-07-16T15:37Z",363.00,"WLOU_S4_20240716"
+"24577746-9f55-43a0-aca6-cd87777e8bb7","D13","WLOU","WLOU.AOS.reaeration.station.01","2024-07-16T15:37Z",35.00,"WLOU_S1_20240716"
+"8ea1b179-c43a-4da0-98a6-839d4290ecc6","D13","WLOU","WLOU.AOS.reaeration.station.01","2024-07-31T18:40Z",35.00,"WLOU_S1_20240731"
+"c66e9e36-e4ba-412c-8668-4dc9f7bcd862","D13","WLOU","WLOU.AOS.reaeration.station.04","2024-07-31T18:40Z",363.00,"WLOU_S4_20240731"

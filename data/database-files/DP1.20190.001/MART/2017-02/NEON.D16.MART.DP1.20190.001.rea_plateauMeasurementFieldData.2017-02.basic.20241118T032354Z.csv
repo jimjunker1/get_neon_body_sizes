@@ -1,0 +1,13 @@
+uid,domainID,siteID,namedLocation,collectDate,waterTemp,specificConductanceRep1,specificConductanceRep2,specificConductanceRep3,specificConductanceRep4,specificConductanceRep5,remarks
+"8362045e-1e58-4ace-a35d-505f19be2f13","D16","MART","MART.AOS.reaeration.station.02","2017-02-02T09:12Z",2.70,40.90,40.80,40.70,40.80,40.80,
+"6d1c7efb-4b1b-40b4-ac66-245457b57f28","D16","MART","MART.AOS.reaeration.station.04","2017-02-02T09:12Z",2.70,40.90,40.80,40.70,40.80,40.80,
+"3aeb410b-6c50-44d8-ba9b-9737814ea0dd","D16","MART","MART.AOS.reaeration.station.03","2017-02-02T09:12Z",2.80,40.90,40.80,40.70,40.80,40.80,
+"1bf0cad7-462f-42bb-8ce1-00a912030320","D16","MART","MART.AOS.reaeration.station.01","2017-02-02T09:12Z",2.70,40.90,40.80,40.70,40.80,40.80,
+"28dd6fa2-cb90-44fb-bab5-61c33a28e79e","D16","MART","MART.AOS.reaeration.station.04","2017-02-14T10:40Z",4.90,38.60,38.40,38.40,38.50,38.40,
+"f46bd84b-b2c7-44d5-859c-b4124eda91da","D16","MART","MART.AOS.reaeration.station.01","2017-02-14T10:40Z",4.90,38.60,38.40,38.40,38.50,38.40,
+"21d3e876-1c6d-4e4c-90e5-532531c15866","D16","MART","MART.AOS.reaeration.station.02","2017-02-14T10:40Z",4.90,38.60,38.40,38.40,38.50,38.40,
+"c8fe484c-bcbc-4738-a903-b9587992bb50","D16","MART","MART.AOS.reaeration.station.03","2017-02-14T10:40Z",4.90,38.60,38.40,38.40,38.50,38.40,
+"ad69d1bf-a5ba-4bde-94e6-fa5eb676a355","D16","MART","MART.AOS.reaeration.station.01","2017-02-28T10:17Z",4.50,40.50,40.40,40.20,40.30,40.10,
+"f6f9e1ba-c557-41b9-9dc4-6b28cc1d85ad","D16","MART","MART.AOS.reaeration.station.02","2017-02-28T10:17Z",4.50,40.50,40.40,40.20,40.30,40.10,
+"c5429206-53b1-41ad-8a89-b939149da67b","D16","MART","MART.AOS.reaeration.station.04","2017-02-28T10:17Z",4.60,40.50,40.40,40.20,40.30,40.10,
+"8304d46b-81dc-4b17-b62c-94b4dbd16cc4","D16","MART","MART.AOS.reaeration.station.03","2017-02-28T10:17Z",4.50,40.50,40.40,40.20,40.30,40.10,

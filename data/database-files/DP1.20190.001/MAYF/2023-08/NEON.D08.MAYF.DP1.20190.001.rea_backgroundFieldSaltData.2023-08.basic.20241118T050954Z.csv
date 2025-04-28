@@ -1,0 +1,5 @@
+uid,domainID,siteID,namedLocation,collectDate,stationToInjectionDistance,specificConductanceRep1,specificConductanceRep2,specificConductanceRep3,specificConductanceRep4,sampleCollected,saltBackgroundSampleID,saltBackgroundSampleCode,remarks,incompleteExperimentQF
+"aeca81fe-e59e-4579-8741-14b05f973f3f","D08","MAYF","MAYF.AOS.reaeration.station.02","2023-08-29T15:24Z",124.90,14.20,14.10,14.20,14.00,"Y",,"A00000417548",,
+"b5b09b09-62dc-4d85-a37e-5f38e100825c","D08","MAYF","MAYF.AOS.reaeration.station.01","2023-08-29T15:24Z",30.70,14.30,14.20,14.10,14.30,"Y",,"A00000417547",,
+"85d7ca19-60a8-456c-930a-bc9a1dc793dc","D08","MAYF","MAYF.AOS.reaeration.station.03","2023-08-29T15:24Z",200.20,14.10,14.20,14.10,14.20,"Y",,"A00000417549",,
+"17218083-81c5-4879-8131-4d2d8274a622","D08","MAYF","MAYF.AOS.reaeration.station.04","2023-08-29T15:24Z",253.50,14.30,14.20,14.10,14.30,"Y",,"A00000417550",,

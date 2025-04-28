@@ -1,0 +1,9 @@
+uid,domainID,siteID,namedLocation,collectDate,stationToInjectionDistance,specificConductanceRep1,specificConductanceRep2,specificConductanceRep3,specificConductanceRep4,sampleCollected,saltBackgroundSampleID,saltBackgroundSampleCode,remarks,incompleteExperimentQF
+"040126fa-78d0-43aa-ade4-9d7c6f680b68","D17","BIGC","BIGC.AOS.reaeration.station.02","2017-06-20T16:46Z",100.00,82.50,79.40,81.90,76.30,"Y","BIGC.B2.20170620.TCR",,,
+"325c201d-379c-4ee7-840e-b4db2b7e55ef","D17","BIGC","BIGC.AOS.reaeration.station.01","2017-06-20T16:46Z",40.00,80.70,75.80,81.60,79.20,"Y","BIGC.B1.20170620.TCR",,,
+"544b8758-caf2-4d1e-a126-56ac3249106b","D17","BIGC","BIGC.AOS.reaeration.station.04","2017-06-20T16:46Z",220.00,81.30,81.80,82.30,82.40,"Y","BIGC.B4.20170620.TCR",,,
+"4eacc91c-f264-4067-b39f-e8d04da28d77","D17","BIGC","BIGC.AOS.reaeration.station.03","2017-06-20T16:46Z",160.00,82.60,82.30,82.20,81.90,"Y","BIGC.B3.20170620.TCR",,,
+"bf148ba8-24fc-45fe-972f-3baf3fc6c466","D17","BIGC","BIGC.AOS.reaeration.station.01","2017-06-27T17:54Z",40.00,71.50,83.80,83.90,77.30,"Y","BIGC.B1.20170627.TCR",,"13.6 deg. C",
+"35280dfa-7702-442f-a878-6f6670a4d4b5","D17","BIGC","BIGC.AOS.reaeration.station.02","2017-06-27T17:54Z",100.00,84.30,84.30,84.30,84.30,"Y","BIGC.B2.20170627.TCR",,"13.8 deg. C",
+"28f612b5-52cd-46df-93bf-a40f7ab6006a","D17","BIGC","BIGC.AOS.reaeration.station.04","2017-06-27T17:54Z",220.00,84.50,84.40,84.50,84.40,"Y","BIGC.B4.20170627.TCR",,,
+"62a2d63f-57c4-4b61-adb7-b3d56c2d37bf","D17","BIGC","BIGC.AOS.reaeration.station.03","2017-06-27T17:54Z",160.00,84.20,84.20,83.10,84.30,"Y","BIGC.B3.20170627.TCR",,"13.7 deg. C",

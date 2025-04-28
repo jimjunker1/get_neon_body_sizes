@@ -1,0 +1,5 @@
+uid,domainID,siteID,namedLocation,startDate,stationToInjectionDistance,hoboSampleID
+"9d2f6546-3045-498f-a999-1b96a72995e8","D06","MCDI","MCDI.AOS.reaeration.station.01","2017-05-05T10:15Z",29.50,"MCDI_S1_20170505"
+"7102810a-2024-4643-93d9-30b5147c35f3","D06","MCDI","MCDI.AOS.reaeration.station.04","2017-05-05T10:15Z",123.50,"MCDI_S4_20170505"
+"f39141d3-753e-44c1-89d8-57e066e9f38b","D06","MCDI","MCDI.AOS.reaeration.station.04","2017-05-25T10:56Z",151.00,"MCDI_S4_20170525"
+"600f2e1f-c8a9-4f99-a4b8-0093a1027655","D06","MCDI","MCDI.AOS.reaeration.station.01","2017-05-25T10:56Z",35.00,"MCDI_S1_20170525"

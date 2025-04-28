@@ -1,0 +1,4 @@
+uid,domainID,siteID,namedLocation,passStartTime,passEndTime,boutEndDate,passNumber,eventID,taxonID,scientificName,morphospeciesID,bulkFishCount,actualOrEstimated,identificationQualifier,identificationReferences,identifiedBy,remarks,identificationHistoryID,dataQF,barrierSubReach
+"ed965ce4-3835-46f7-b212-d0a21f783f26","D06","KING","KING.AOS.fish.point.04","2019-04-10T17:05Z","2019-04-10T17:50Z","2019-04-11T17:23Z",2,"KING.2019.spring","ETHSPE","Etheostoma spectabile",,23,"actual",,,"0000-0001-9594-9689",,,,
+"17e0403d-bfb4-4cd0-89e7-cb3f6d001003","D06","KING","KING.AOS.fish.point.04","2019-04-10T18:54Z","2019-04-10T19:43Z","2019-04-11T17:23Z",3,"KING.2019.spring","ETHSPE","Etheostoma spectabile",,69,"actual",,,"0000-0001-9594-9689",,,,
+"be544cda-25a1-4893-a33a-2a4e826e32b3","D06","KING","KING.AOS.fish.point.10","2019-04-11T16:56Z","2019-04-11T17:23Z","2019-04-11T17:23Z",1,"KING.2019.spring","ETHSPE","Etheostoma spectabile",,35,"actual",,,"0000-0001-9594-9689",,,,

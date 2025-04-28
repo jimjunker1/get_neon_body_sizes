@@ -1,0 +1,5 @@
+uid,domainID,siteID,namedLocation,collectDate,waterTemp,specificConductanceRep1,specificConductanceRep2,specificConductanceRep3,specificConductanceRep4,specificConductanceRep5,remarks
+"1087420f-a4f9-498f-8ad1-ff9055e10ac1","D04","CUPE","CUPE.AOS.reaeration.station.02","2017-08-23T11:38Z",23.50,245.60,,,,,
+"b5d7516f-8d10-46ea-acd2-e002b6a64b76","D04","CUPE","CUPE.AOS.reaeration.station.01","2017-08-23T11:38Z",23.50,245.40,245.30,245.30,245.30,245.30,
+"24f48fdb-5959-4870-9a10-d247a4720c7e","D04","CUPE","CUPE.AOS.reaeration.station.03","2017-08-23T11:38Z",23.60,245.70,,,,,"CUPE.15.20170823.TCR water volume very low due to mishandling of bottle"
+"058053ae-4c93-4b6a-81f5-62362acdf27e","D04","CUPE","CUPE.AOS.reaeration.station.04","2017-08-23T11:38Z",23.70,246.80,,,,,"HOBO CUPE_S4_20170823 properly installed at 9:13:00am"

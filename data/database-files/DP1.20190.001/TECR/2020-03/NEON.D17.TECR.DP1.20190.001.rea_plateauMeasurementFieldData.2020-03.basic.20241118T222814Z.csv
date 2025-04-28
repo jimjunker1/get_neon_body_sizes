@@ -1,0 +1,5 @@
+uid,domainID,siteID,namedLocation,collectDate,waterTemp,specificConductanceRep1,specificConductanceRep2,specificConductanceRep3,specificConductanceRep4,specificConductanceRep5,remarks
+"343a339b-3a41-4497-a6c9-fdcfcaf48ab4","D17","TECR","TECR.AOS.reaeration.station.04","2020-03-12T17:52Z",3.50,30.40,,,,,"Resistance in vial 20- likely not evacuated properly. Pushed in 10 ml of air and when pressure was released air came back into the syringe from the vial- back-up vial not used for that reason"
+"771d3dc4-ab4c-419b-9163-993312a80632","D17","TECR","TECR.AOS.reaeration.station.03","2020-03-12T17:52Z",3.40,30.40,,,,,"Syringe 15 broken upon arrival in field."
+"1d083278-fb63-4427-87b2-acc2427fb49a","D17","TECR","TECR.AOS.reaeration.station.01","2020-03-12T17:52Z",3.40,30.70,,,,,
+"733e291e-0cf4-436a-a71f-0ad6d53fda49","D17","TECR","TECR.AOS.reaeration.station.02","2020-03-12T17:52Z",3.40,30.50,,,,,

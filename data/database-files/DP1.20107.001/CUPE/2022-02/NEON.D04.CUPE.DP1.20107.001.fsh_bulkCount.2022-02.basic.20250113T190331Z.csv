@@ -1,0 +1,4 @@
+uid,domainID,siteID,namedLocation,passStartTime,passEndTime,boutEndDate,passNumber,eventID,taxonID,scientificName,morphospeciesID,bulkFishCount,actualOrEstimated,identificationQualifier,identificationReferences,identifiedBy,remarks,identificationHistoryID,dataQF,barrierSubReach
+"be900e9f-6374-49c1-aa22-9d01d8b5ce98","D04","CUPE","CUPE.AOS.fish.point.03","2022-02-21T12:50Z","2022-02-21T14:07Z","2022-02-22T17:20Z",1,"CUPE.2022.spring","POERET","Poecilia reticulata",,2,"actual",,,"0000-0002-4299-7043",,,,
+"821754fb-4d95-43cc-8fb2-f96fed662428","D04","CUPE","CUPE.AOS.fish.point.03","2022-02-21T16:01Z","2022-02-21T16:55Z","2022-02-22T17:20Z",2,"CUPE.2022.spring","POERET","Poecilia reticulata",,48,"actual",,,"0000-0002-4299-7043",,,,
+"2e1fc015-fa64-4770-89bf-f0f1af9cfb4b","D04","CUPE","CUPE.AOS.fish.point.03","2022-02-21T17:40Z","2022-02-21T18:15Z","2022-02-22T17:20Z",3,"CUPE.2022.spring","POERET","Poecilia reticulata",,10,"actual",,,"0000-0002-4299-7043",,,,

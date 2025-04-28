@@ -1,0 +1,5 @@
+uid,domainID,siteID,namedLocation,collectDate,stationToInjectionDistance,specificConductanceRep1,specificConductanceRep2,specificConductanceRep3,specificConductanceRep4,sampleCollected,saltBackgroundSampleID,saltBackgroundSampleCode,remarks,incompleteExperimentQF
+"c816babf-c633-41a7-b9f9-25b169a9e572","D06","KING","KING.AOS.reaeration.station.03","2015-08-19T14:30Z",90.00,630.00,629.00,629.00,629.00,"Y","KING.B3.20150819.TCR",,,
+"f396ebf8-48c3-4e90-837a-8ecedccbd001","D06","KING","KING.AOS.reaeration.station.04","2015-08-19T14:30Z",120.00,632.00,632.00,632.00,632.00,"Y","KING.B4.20150819.TCR",,,
+"0da4f6a6-eb03-4e53-83fb-dfba2b281517","D06","KING","KING.AOS.reaeration.station.01","2015-08-19T14:30Z",30.00,631.00,637.00,641.00,631.00,"Y","KING.B1.20150819.TCR",,,
+"cae6b5c7-2c99-4edd-8029-8d99288f0b2b","D06","KING","KING.AOS.reaeration.station.02","2015-08-19T14:30Z",60.00,633.00,633.00,633.00,633.00,"Y","KING.B2.20150819.TCR",,,

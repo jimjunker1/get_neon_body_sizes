@@ -1,0 +1,6 @@
+uid,domainID,siteID,namedLocation,collectDate,waterTemp,specificConductanceRep1,specificConductanceRep2,specificConductanceRep3,specificConductanceRep4,specificConductanceRep5,remarks
+"bdb6ef4e-6b1b-46b8-8d47-c1c1cb9af363","D02","LEWI","LEWI.AOS.reaeration.station.03","2017-02-02T08:14Z",6.90,540.00,542.00,544.00,541.00,541.00,
+"5f6a0087-4db9-4134-aed2-bb485dac2426","D02","LEWI","LEWI.AOS.reaeration.station.01","2017-02-02T08:14Z",7.40,540.00,542.00,544.00,541.00,541.00,"The discharge from the water treatment plant upstream may have come through during bout as spcond values recorded at sample collection were lower than what we saw at the S4 plateau. However spcond was still above background levels"
+"f070c42a-a07a-4b2e-ab2e-88ad784e2886","D02","LEWI","LEWI.AOS.reaeration.station.02","2017-02-02T08:14Z",6.90,540.00,542.00,544.00,541.00,541.00,
+"d2eb0c43-ff05-4887-90d3-410c92a1e047","D02","LEWI","LEWI.AOS.reaeration.station.04","2017-02-02T08:14Z",6.90,540.00,542.00,544.00,541.00,541.00,
+"6bb5ffc4-4300-4fa6-aeb3-9cc824e6fa8f","D02","LEWI","LEWI.AOS.reaeration.station.01","2017-02-02T08:14Z",7.40,540.00,542.00,544.00,541.00,541.00,

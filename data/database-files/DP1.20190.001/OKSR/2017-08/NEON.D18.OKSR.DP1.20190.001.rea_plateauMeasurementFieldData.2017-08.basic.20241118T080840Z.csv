@@ -1,0 +1,9 @@
+uid,domainID,siteID,namedLocation,collectDate,waterTemp,specificConductanceRep1,specificConductanceRep2,specificConductanceRep3,specificConductanceRep4,specificConductanceRep5,remarks
+"dde04f9f-83d0-43aa-90e8-53b7f9a502d1","D18","OKSR","OKSR.AOS.reaeration.station.01","2017-08-05T18:33Z",12.40,39.10,,,,,
+"053197d4-ba78-411d-bcc3-4d9a15fb2b00","D18","OKSR","OKSR.AOS.reaeration.station.03","2017-08-05T18:33Z",38.50,12.40,,,,,
+"6ede5658-6d43-4086-941e-557bd12ecc0c","D18","OKSR","OKSR.AOS.reaeration.station.04","2017-08-05T18:33Z",12.40,48.50,,,,,
+"66b7600b-680f-4a5d-96da-51bddb7c8c85","D18","OKSR","OKSR.AOS.reaeration.station.02","2017-08-05T18:33Z",12.40,38.30,,,,,
+"94642e4c-b2d0-44c6-9e83-4fd8705bc39c","D18","OKSR","OKSR.AOS.reaeration.station.01","2017-08-25T20:17Z",5.20,45.80,,,,,
+"d12b29f1-a6e9-468d-ac71-c24b83e139a9","D18","OKSR","OKSR.AOS.reaeration.station.02","2017-08-25T20:17Z",5.20,45.50,,,,,
+"689d1732-d886-45dd-9ccf-8c658c7aff50","D18","OKSR","OKSR.AOS.reaeration.station.03","2017-08-25T20:17Z",5.20,45.50,,,,,
+"62753665-5fd1-4989-a502-2f2c97ca523f","D18","OKSR","OKSR.AOS.reaeration.station.04","2017-08-25T20:17Z",5.20,45.60,,,,,"Gas sample 18 lost"

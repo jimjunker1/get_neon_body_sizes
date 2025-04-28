@@ -1,0 +1,13 @@
+uid,domainID,siteID,namedLocation,collectDate,waterTemp,specificConductanceRep1,specificConductanceRep2,specificConductanceRep3,specificConductanceRep4,specificConductanceRep5,remarks
+"78e42653-616b-41a6-9576-f946447aca4d","D15","REDB","REDB.AOS.reaeration.station.02","2018-08-02T15:33Z",14.20,625.00,,,,,
+"c0215e2a-6e21-4e87-8aa6-f83a29b0cd60","D15","REDB","REDB.AOS.reaeration.station.04","2018-08-02T15:33Z",14.50,619.00,,,,,
+"37b17f96-2aed-4abd-b250-7df361ed96f4","D15","REDB","REDB.AOS.reaeration.station.01","2018-08-02T15:33Z",14.10,633.00,,,,,
+"34095fee-88d1-4df4-9281-977a1828fe69","D15","REDB","REDB.AOS.reaeration.station.03","2018-08-02T15:33Z",14.30,622.00,,,,,
+"89c3c391-4be0-4148-ad29-ed184b9a5b22","D15","REDB","REDB.AOS.reaeration.station.04","2018-08-23T15:33Z",13.10,627.00,,,,,
+"7b149594-7228-4695-8b89-abd453374eda","D15","REDB","REDB.AOS.reaeration.station.02","2018-08-23T15:33Z",12.90,635.00,,,,,
+"198ed228-0de0-4e69-bf72-68f150c4640f","D15","REDB","REDB.AOS.reaeration.station.03","2018-08-23T15:33Z",13.00,632.00,,,,,
+"64e5d46c-e35f-4c73-a6f6-3422a91ad733","D15","REDB","REDB.AOS.reaeration.station.01","2018-08-23T15:33Z",12.80,637.00,,,,,"Tracer sample 05 lost during processing"
+"729f8aa8-0409-40e2-940e-0d4b4dae5a08","D15","REDB","REDB.AOS.reaeration.station.02","2018-08-30T16:07Z",12.20,632.00,,,,,
+"824c8df7-65cc-4906-a84c-fffd6784d118","D15","REDB","REDB.AOS.reaeration.station.04","2018-08-30T16:07Z",12.30,627.00,,,,,
+"18246048-8cbc-4bd5-a35d-a331b8a1fd38","D15","REDB","REDB.AOS.reaeration.station.01","2018-08-30T16:07Z",12.10,632.00,,,,,
+"d30695f4-dc89-40d0-bf6a-79f764881136","D15","REDB","REDB.AOS.reaeration.station.03","2018-08-30T16:07Z",12.30,629.00,,,,,

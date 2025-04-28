@@ -1,0 +1,13 @@
+uid,domainID,siteID,namedLocation,collectDate,waterTemp,specificConductanceRep1,specificConductanceRep2,specificConductanceRep3,specificConductanceRep4,specificConductanceRep5,remarks
+"a712e66e-e814-4b7b-9b61-979802e93560","D16","MCRA","MCRA.AOS.reaeration.station.04","2016-10-12T14:33Z",8.70,43.10,43.00,43.00,43.00,43.00,
+"bdc1294a-e887-442d-a154-cd4172247122","D16","MCRA","MCRA.AOS.reaeration.station.02","2016-10-12T14:33Z",8.60,43.10,43.00,43.00,43.00,43.00,
+"7353c108-6667-4cd5-9edc-9c2248d2fbfa","D16","MCRA","MCRA.AOS.reaeration.station.01","2016-10-12T14:33Z",8.60,43.10,43.00,43.00,43.00,43.00,
+"69f9d24a-6237-4949-bce7-30f110c045a7","D16","MCRA","MCRA.AOS.reaeration.station.03","2016-10-12T14:33Z",8.60,43.10,43.00,43.00,43.00,43.00,
+"38258dca-271e-4306-b10f-48546589869b","D16","MCRA","MCRA.AOS.reaeration.station.04","2016-10-19T12:30Z",7.00,26.20,26.10,25.90,25.90,26.10,
+"c3827bc6-4fa5-4116-9fb9-ce103a0df5e6","D16","MCRA","MCRA.AOS.reaeration.station.01","2016-10-19T12:30Z",7.00,26.20,26.10,25.90,25.90,26.10,
+"e5b93328-b3c8-49ce-9e0e-b171cc541f11","D16","MCRA","MCRA.AOS.reaeration.station.02","2016-10-19T12:30Z",7.00,26.20,26.10,25.90,25.90,26.10,
+"c0e3d7ed-0998-4655-9f1f-935b8525b9f7","D16","MCRA","MCRA.AOS.reaeration.station.03","2016-10-19T12:30Z",7.00,26.20,26.10,25.90,25.90,26.10,
+"e8affa9e-4e78-4515-a045-ec2b96090b7e","D16","MCRA","MCRA.AOS.reaeration.station.04","2016-10-26T10:07Z",7.60,28.50,28.40,28.40,28.30,28.50,
+"2ef9fa39-32fd-4642-983d-90d116aa1e1c","D16","MCRA","MCRA.AOS.reaeration.station.03","2016-10-26T10:07Z",7.60,28.50,28.40,28.40,28.30,28.50,
+"548faaee-0987-42fd-91f7-d9bf2c3949ec","D16","MCRA","MCRA.AOS.reaeration.station.01","2016-10-26T10:07Z",7.70,28.50,28.40,28.40,28.30,28.50,
+"54982799-8290-47a1-b8d1-9b69372ea804","D16","MCRA","MCRA.AOS.reaeration.station.02","2016-10-26T10:07Z",7.80,28.50,28.40,28.40,28.30,28.50,

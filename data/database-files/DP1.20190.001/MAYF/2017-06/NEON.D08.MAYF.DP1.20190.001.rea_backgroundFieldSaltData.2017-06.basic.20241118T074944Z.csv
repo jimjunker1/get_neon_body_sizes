@@ -1,0 +1,9 @@
+uid,domainID,siteID,namedLocation,collectDate,stationToInjectionDistance,specificConductanceRep1,specificConductanceRep2,specificConductanceRep3,specificConductanceRep4,sampleCollected,saltBackgroundSampleID,saltBackgroundSampleCode,remarks,incompleteExperimentQF
+"7bf65885-6d94-4b57-afd4-70ea623bdafd","D08","MAYF","MAYF.AOS.reaeration.station.01","2017-06-06T14:57Z",19.00,14.00,14.10,14.00,14.00,"Y","MAYF.B1.20170606.TCR",,,
+"046ca395-d991-4970-bbae-32e256b6c274","D08","MAYF","MAYF.AOS.reaeration.station.03","2017-06-06T14:57Z",100.00,14.20,14.10,14.10,14.10,"Y","MAYF.B3.20170606.TCR",,,
+"84a2ee7c-f783-43fd-9854-b2cb7be0a39d","D08","MAYF","MAYF.AOS.reaeration.station.02","2017-06-06T14:57Z",47.00,14.10,14.00,14.00,14.00,"Y","MAYF.B2.20170606.TCR",,"Hobo at s4 @ 9:58 at s1 @ 10:13",
+"ac2d0357-336b-496a-bed5-1ada65ffb7bf","D08","MAYF","MAYF.AOS.reaeration.station.04","2017-06-06T14:57Z",148.00,14.00,14.10,14.10,14.10,"Y","MAYF.B4.20170606.TCR",,,
+"cfd64c7e-9d2f-42cd-b3cd-3ba02da12921","D08","MAYF","MAYF.AOS.reaeration.station.03","2017-06-19T15:14Z",100.00,15.50,15.50,15.50,15.50,"Y","MAYF.B3.20170619.TCR",,,
+"896ba32c-fb85-4c6d-8f23-834542544a9c","D08","MAYF","MAYF.AOS.reaeration.station.01","2017-06-19T15:14Z",19.00,13.70,14.20,14.00,14.10,"Y","MAYF.B1.20170619.TCR",,"Hobo in at 10:19 out at 12:58",
+"43a8337b-1923-4fe6-ab5b-1fe170e02dd9","D08","MAYF","MAYF.AOS.reaeration.station.04","2017-06-19T15:14Z",148.00,15.40,15.40,15.40,15.50,"Y","MAYF.B4.20170619.TCR",,"Hobo launched at 10:38 Hobo out at 13:30",
+"45a95536-7c7d-4607-8f0c-3f01c2f1e1df","D08","MAYF","MAYF.AOS.reaeration.station.02","2017-06-19T15:14Z",47.00,15.40,15.30,15.30,15.30,"Y","MAYF.B2.20170619.TCR",,,

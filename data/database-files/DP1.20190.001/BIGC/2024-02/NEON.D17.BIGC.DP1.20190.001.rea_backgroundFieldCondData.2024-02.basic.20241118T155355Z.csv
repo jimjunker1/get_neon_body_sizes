@@ -1,0 +1,3 @@
+uid,domainID,siteID,namedLocation,startDate,stationToInjectionDistance,hoboSampleID
+"abdc506d-ad0b-4688-a019-be5520464e94","D17","BIGC","BIGC.AOS.reaeration.station.04","2024-02-26T19:30Z",254.00,"BIGC_S4_20240226"
+"9151d511-f870-4e0c-8986-46d59d35e792","D17","BIGC","BIGC.AOS.reaeration.station.01","2024-02-26T19:30Z",40.00,"BIGC_S1_20240226"

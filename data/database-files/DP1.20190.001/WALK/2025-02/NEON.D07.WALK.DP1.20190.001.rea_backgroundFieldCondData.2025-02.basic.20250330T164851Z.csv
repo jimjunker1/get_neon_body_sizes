@@ -1,0 +1,7 @@
+uid,domainID,siteID,namedLocation,startDate,stationToInjectionDistance,hoboSampleID
+"74fc5b35-0a1f-42bb-b60c-58d6de63b04f","D07","WALK","WALK.AOS.reaeration.station.04","2025-02-03T13:46Z",154.00,"WALK_S4_20250203"
+"8da7480f-c36d-4192-ac1e-57131f62e8f2","D07","WALK","WALK.AOS.reaeration.station.02","2025-02-03T13:46Z",61.00,"WALK_S2_20250203"
+"e8ff7ff5-f265-4cee-8f1f-6108fc96b853","D07","WALK","WALK.AOS.reaeration.station.03","2025-02-03T13:46Z",107.00,"WALK_S3_20250203"
+"a3f56c08-e64e-48a9-8a75-a1a5361683c6","D07","WALK","WALK.AOS.reaeration.station.02","2025-02-27T14:53Z",61.00,"WALK_S2_20250227"
+"73bf7f4c-e3d0-4d64-85a9-497144841332","D07","WALK","WALK.AOS.reaeration.station.03","2025-02-27T14:53Z",107.00,"WALK_S3_20250227"
+"258a4f9a-ddd5-4f43-800e-08dc9b65efe7","D07","WALK","WALK.AOS.reaeration.station.04","2025-02-27T14:53Z",154.00,"WALK_S4_20250227"

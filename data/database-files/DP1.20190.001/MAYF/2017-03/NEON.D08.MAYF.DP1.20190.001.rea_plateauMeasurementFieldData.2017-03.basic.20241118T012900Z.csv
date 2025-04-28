@@ -1,0 +1,5 @@
+uid,domainID,siteID,namedLocation,collectDate,waterTemp,specificConductanceRep1,specificConductanceRep2,specificConductanceRep3,specificConductanceRep4,specificConductanceRep5,remarks
+"eff03500-a7e8-425a-9048-7177fe33bd65","D08","MAYF","MAYF.AOS.reaeration.station.03","2017-03-17T15:07Z",10.80,12.40,15.00,16.50,15.80,16.30,
+"d6edc848-00dd-4c71-a87f-af8bf91fe500","D08","MAYF","MAYF.AOS.reaeration.station.02","2017-03-17T15:07Z",10.60,12.40,15.00,16.50,15.80,16.30,
+"fffcedc0-7188-4643-8803-807b1ac8c019","D08","MAYF","MAYF.AOS.reaeration.station.01","2017-03-17T15:07Z",10.60,12.40,15.00,16.50,15.80,16.30,
+"ae70eb15-78e7-42fc-a284-29b3035580d7","D08","MAYF","MAYF.AOS.reaeration.station.04","2017-03-17T15:07Z",10.70,12.40,15.00,16.50,15.80,16.30,

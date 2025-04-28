@@ -1,0 +1,2 @@
+uid,recorduid,domainID,siteID,namedLocation,hoboSampleID,startDate,downloadFileName,downloadFileUrl
+"3f5f8ca8-59e8-4a87-a437-e56d3d232426","6fa7fdb9-ae77-43fe-a516-bc3bbd72e265","D16","MCRA","MCRA.AOS.reaeration.station.01","MCRA_S1_20191114","2019-11-14T17:32Z","MCRA_S1_20191114_20231101T020115.709Z.csv","https://storage.neonscience.org/neon-os-data/data-frame/MCRA_S1_20191114_20231101T020115.709Z.csv"

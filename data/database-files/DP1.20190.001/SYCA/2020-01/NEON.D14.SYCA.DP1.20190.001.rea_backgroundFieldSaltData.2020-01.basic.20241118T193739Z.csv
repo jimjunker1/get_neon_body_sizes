@@ -1,0 +1,5 @@
+uid,domainID,siteID,namedLocation,collectDate,stationToInjectionDistance,specificConductanceRep1,specificConductanceRep2,specificConductanceRep3,specificConductanceRep4,sampleCollected,saltBackgroundSampleID,saltBackgroundSampleCode,remarks,incompleteExperimentQF
+"df02fc29-7155-4249-a0a9-2e9fcaf9a576","D14","SYCA","SYCA.AOS.reaeration.station.03","2020-01-08T14:52Z",362.90,293.90,293.60,293.40,293.50,"Y","SYCA.B3.20200108.TCR","A00000096307",,
+"fe27761b-39f6-4f22-a64f-cf5888f92461","D14","SYCA","SYCA.AOS.reaeration.station.02","2020-01-08T14:52Z",328.00,293.50,293.70,293.50,293.30,"Y","SYCA.B2.20200108.TCR","A00000096306",,
+"a9de74ee-ab53-4a59-b456-4f65d51f6717","D14","SYCA","SYCA.AOS.reaeration.station.01","2020-01-08T14:52Z",295.80,293.90,294.00,293.80,293.90,"Y","SYCA.B1.20200108.TCR","A00000096308",,
+"06003e3b-085c-461f-b2d1-e6693ecdc3a3","D14","SYCA","SYCA.AOS.reaeration.station.04","2020-01-08T14:52Z",397.70,292.30,292.50,292.70,292.20,"Y","SYCA.B4.20200108.TCR","A00000096305",,

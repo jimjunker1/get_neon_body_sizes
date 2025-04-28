@@ -1,0 +1,5 @@
+uid,domainID,siteID,namedLocation,collectDate,stationToInjectionDistance,specificConductanceRep1,specificConductanceRep2,specificConductanceRep3,specificConductanceRep4,sampleCollected,saltBackgroundSampleID,saltBackgroundSampleCode,remarks,incompleteExperimentQF
+"2950b5e8-569f-4402-91e7-a133c2bb0e44","D15","REDB","REDB.AOS.reaeration.station.02","2017-10-26T17:25Z",122.00,689.00,691.00,690.00,692.00,"Y","REDB.B2.20171026.TCR",,,
+"68fc70e8-28e5-437b-a7b4-d61ab78bdf47","D15","REDB","REDB.AOS.reaeration.station.01","2017-10-26T17:25Z",36.00,691.00,688.00,687.00,690.00,"Y","REDB.B1.20171026.TCR",,,
+"c331d448-216a-4317-992e-4b7f5c1187f4","D15","REDB","REDB.AOS.reaeration.station.04","2017-10-26T17:25Z",325.00,688.00,688.00,687.00,688.00,"Y","REDB.B4.20171026.TCR",,,
+"c587f21e-ed14-40db-9863-7526e17a1116","D15","REDB","REDB.AOS.reaeration.station.03","2017-10-26T17:25Z",216.00,689.00,690.00,690.00,690.00,"Y","REDB.B3.20171026.TCR",,,

@@ -1,0 +1,5 @@
+uid,domainID,siteID,namedLocation,collectDate,waterTemp,specificConductanceRep1,specificConductanceRep2,specificConductanceRep3,specificConductanceRep4,specificConductanceRep5,remarks
+"0a33c1c7-3272-4bb4-913f-d4b940a711df","D02","POSE","POSE.AOS.reaeration.station.01","2017-04-24T13:36Z",11.80,121.70,121.80,121.50,121.30,120.60,"value bounced around between 113 and 125"
+"1e938d60-2442-419e-ab46-f2be83a12d06","D02","POSE","POSE.AOS.reaeration.station.04","2017-04-24T13:36Z",11.80,116.50,,,,,
+"d475068d-c430-434b-b0c7-ffbd63a4747b","D02","POSE","POSE.AOS.reaeration.station.02","2017-04-24T13:36Z",11.80,111.70,,,,,
+"86c7d2b8-c559-46a6-b38b-57f185bda728","D02","POSE","POSE.AOS.reaeration.station.03","2017-04-24T13:36Z",11.80,116.40,,,,,

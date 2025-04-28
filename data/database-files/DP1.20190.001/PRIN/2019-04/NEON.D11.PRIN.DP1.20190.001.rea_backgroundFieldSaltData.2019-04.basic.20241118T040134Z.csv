@@ -1,0 +1,9 @@
+uid,domainID,siteID,namedLocation,collectDate,stationToInjectionDistance,specificConductanceRep1,specificConductanceRep2,specificConductanceRep3,specificConductanceRep4,sampleCollected,saltBackgroundSampleID,saltBackgroundSampleCode,remarks,incompleteExperimentQF
+"4a8d5b3c-6a9a-4713-a000-2df2055eba31","D11","PRIN","PRIN.AOS.reaeration.station.02","2019-04-17T14:54Z",122.80,762.00,763.00,763.00,763.00,"Y","PRIN.B2.20190417.TCR","A00000021165",,
+"d96d440a-d36b-4884-9322-8a5bd372e8d2","D11","PRIN","PRIN.AOS.reaeration.station.04","2019-04-17T14:54Z",253.60,803.00,800.00,807.00,806.00,"Y","PRIN.B4.20190417.TCR","A00000021143",,
+"6a740967-483f-4f0f-8459-33c31bac96b1","D11","PRIN","PRIN.AOS.reaeration.station.03","2019-04-17T14:54Z",186.50,807.00,808.00,808.00,808.00,"Y","PRIN.B3.20190417.TCR","A00000021162",,
+"e1e7afd9-3d19-4845-be26-7dcdddeeb9b2","D11","PRIN","PRIN.AOS.reaeration.station.01","2019-04-17T14:54Z",47.80,758.00,764.00,763.00,763.00,"Y","PRIN.B1.20190417.TCR","A00000021142",,
+"d4be558d-0c50-4189-9c8e-7e4d268643c7","D11","PRIN","PRIN.AOS.reaeration.station.03","2019-04-23T14:42Z",186.50,862.00,861.00,862.00,862.00,"Y","PRIN.B3.20190423.TCR",,,"externalLabSaltSampleDataNA"
+"f609507b-6674-4e45-8ec2-b0fc0d176dc7","D11","PRIN","PRIN.AOS.reaeration.station.01","2019-04-23T14:42Z",47.80,827.00,828.00,828.00,827.00,"Y","PRIN.B1.20190423.TCR",,,"externalLabSaltSampleDataNA"
+"f253ca93-3d6e-4147-9314-436cfff04f98","D11","PRIN","PRIN.AOS.reaeration.station.02","2019-04-23T14:42Z",122.70,826.00,826.00,826.00,826.00,"Y","PRIN.B2.20190423.TCR",,,"externalLabSaltSampleDataNA"
+"d2e7ab2e-f33b-4b84-934c-8584c9f6ec01","D11","PRIN","PRIN.AOS.reaeration.station.04","2019-04-23T14:42Z",253.60,860.00,861.00,860.00,860.00,"Y","PRIN.B4.20190423.TCR",,,"externalLabSaltSampleDataNA"

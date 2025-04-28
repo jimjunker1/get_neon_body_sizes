@@ -1,0 +1,9 @@
+uid,domainID,siteID,namedLocation,collectDate,waterTemp,specificConductanceRep1,specificConductanceRep2,specificConductanceRep3,specificConductanceRep4,specificConductanceRep5,remarks
+"b3867a45-0b3a-46ca-9bd3-c51e17cffc0c","D16","MART","MART.AOS.reaeration.station.02","2019-02-20T19:24Z",4.00,50.00,,,,,
+"f0d4957f-d6d5-4955-b5ff-a19c6b970a66","D16","MART","MART.AOS.reaeration.station.03","2019-02-20T19:24Z",4.10,46.00,,,,,
+"19a82747-a7d8-45be-b1a9-9ed9bcf36fe6","D16","MART","MART.AOS.reaeration.station.04","2019-02-20T19:24Z",4.10,45.80,,,,,
+"2d9302e2-bf74-44fe-8dc0-c1561dbae108","D16","MART","MART.AOS.reaeration.station.01","2019-02-20T19:24Z",3.80,48.60,50.60,49.10,46.70,50.70,
+"d39d86d0-5bd2-4f8b-8658-3bacbdd26840","D16","MART","MART.AOS.reaeration.station.01","2019-02-26T18:14Z",2.80,48.10,47.70,47.10,46.70,46.20,
+"f2cc9583-7860-4c60-be73-e236d0e3916d","D16","MART","MART.AOS.reaeration.station.03","2019-02-26T18:14Z",2.90,44.70,,,,,
+"9d7d0b7d-9e07-4f96-b3ee-bfd6f1ec434b","D16","MART","MART.AOS.reaeration.station.04","2019-02-26T18:14Z",3.00,44.00,,,,,
+"2c3a79e4-bb7b-4637-adc3-6dd8103b5deb","D16","MART","MART.AOS.reaeration.station.02","2019-02-26T18:14Z",2.90,45.30,,,,,

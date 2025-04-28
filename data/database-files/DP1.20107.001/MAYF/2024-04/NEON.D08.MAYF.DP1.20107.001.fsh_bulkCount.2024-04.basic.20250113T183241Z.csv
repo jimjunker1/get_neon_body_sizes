@@ -1,0 +1,3 @@
+uid,domainID,siteID,namedLocation,passStartTime,passEndTime,boutEndDate,passNumber,eventID,taxonID,scientificName,morphospeciesID,bulkFishCount,actualOrEstimated,identificationQualifier,identificationReferences,identifiedBy,remarks,identificationHistoryID,dataQF,barrierSubReach
+"6fc42735-ebbb-47cc-8942-3e330e678d74","D08","MAYF","MAYF.AOS.fish.point.01","2024-04-01T14:15Z","2024-04-01T16:00Z","2024-04-02T19:50Z",1,"MAYF.2024.spring","NOTBAI","Notropis baileyi",,17,"actual",,,"0000-0003-0910-9523",,,,
+"ba1533d0-4b9f-449d-943a-9c9fbd955008","D08","MAYF","MAYF.AOS.fish.point.02","2024-04-02T16:29Z","2024-04-02T17:29Z","2024-04-02T19:50Z",3,"MAYF.2024.spring","LAMAEP","Lampetra aepyptera",,1,"actual",,,"0000-0003-0910-9523",,,,

@@ -1,0 +1,4 @@
+uid,domainID,siteID,namedLocation,startDate,stationToInjectionDistance,hoboSampleID
+"e232ecfa-eebb-48f6-8a8c-6835ddcbb09b","D07","WALK","WALK.AOS.reaeration.station.02","2023-02-16T14:10Z",61.00,"WALK_S2_20230216"
+"2c33dc97-4fc0-4c84-870e-5148ca0c9073","D07","WALK","WALK.AOS.reaeration.station.04","2023-02-16T14:10Z",154.00,"WALK_S4_20230216"
+"8641d101-70af-4a9a-b2c5-04db0066aabe","D07","WALK","WALK.AOS.reaeration.station.03","2023-02-16T14:10Z",107.00,"WALK_S3_20230216"

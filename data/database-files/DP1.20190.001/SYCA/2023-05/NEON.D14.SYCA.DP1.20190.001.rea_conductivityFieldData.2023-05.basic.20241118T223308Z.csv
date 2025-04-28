@@ -1,0 +1,3 @@
+uid,recorduid,domainID,siteID,namedLocation,hoboSampleID,startDate,downloadFileName,downloadFileUrl
+"b3f3368a-e1a3-442a-b7d6-4a0b2bbc7112","8be94183-2fb7-4471-a059-c338873eae3b","D14","SYCA","SYCA.AOS.reaeration.station.01","SYCA_S1_20230510","2023-05-10T16:21Z","SYCA_S1_20230510_20231101T013128.653Z.csv","https://storage.neonscience.org/neon-os-data/data-frame/SYCA_S1_20230510_20231101T013128.653Z.csv"
+"b358911e-5b29-4230-9c0b-c5a9c4707f99","5ff12bea-a85d-4ed8-9324-6f9b51cf6561","D14","SYCA","SYCA.AOS.reaeration.station.04","SYCA_S4_20230510","2023-05-10T16:21Z","SYCA_S4_20230510_20231101T013126.764Z.csv","https://storage.neonscience.org/neon-os-data/data-frame/SYCA_S4_20230510_20231101T013126.764Z.csv"

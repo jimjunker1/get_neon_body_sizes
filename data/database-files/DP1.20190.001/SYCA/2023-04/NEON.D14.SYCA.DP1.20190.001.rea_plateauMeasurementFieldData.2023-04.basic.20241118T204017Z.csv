@@ -1,0 +1,9 @@
+uid,domainID,siteID,namedLocation,collectDate,waterTemp,specificConductanceRep1,specificConductanceRep2,specificConductanceRep3,specificConductanceRep4,specificConductanceRep5,remarks
+"47af78ea-750f-4def-ba4a-efa15451fb5f","D14","SYCA","SYCA.AOS.reaeration.station.04","2023-04-06T17:17Z",20.30,364.40,,,,,
+"ccfe3607-e013-48cb-815b-a3e7b3215194","D14","SYCA","SYCA.AOS.reaeration.station.01","2023-04-06T17:17Z",19.50,161.10,,,,,
+"ba524973-1dca-4640-b101-6a9bfc04602c","D14","SYCA","SYCA.AOS.reaeration.station.02","2023-04-06T17:17Z",19.70,362.70,,,,,"Equilibrated gas sample SYCA06 received 15 mL of gas"
+"803e09fc-2b2c-4ba8-a400-0149df78a118","D14","SYCA","SYCA.AOS.reaeration.station.03","2023-04-06T17:17Z",20.10,363.40,,,,,
+"24bf96e0-7f08-4b22-96b3-3044ab43f7f2","D14","SYCA","SYCA.AOS.reaeration.station.01","2023-04-18T15:13Z",20.90,421.90,,,,,
+"85ae9406-7fc6-48b2-90bc-80a9720f8175","D14","SYCA","SYCA.AOS.reaeration.station.04","2023-04-18T15:13Z",21.60,422.30,,,,,
+"093dbdce-545f-42d3-a2a6-805620011b7f","D14","SYCA","SYCA.AOS.reaeration.station.02","2023-04-18T15:13Z",21.10,422.30,,,,,
+"9bc77aef-36f5-480b-8baf-ec2adc55c0bb","D14","SYCA","SYCA.AOS.reaeration.station.03","2023-04-18T15:13Z",21.40,422.30,,,,,

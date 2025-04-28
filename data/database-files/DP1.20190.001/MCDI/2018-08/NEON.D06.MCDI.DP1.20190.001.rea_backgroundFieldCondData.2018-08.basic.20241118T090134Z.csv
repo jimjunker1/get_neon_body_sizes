@@ -1,0 +1,3 @@
+uid,domainID,siteID,namedLocation,startDate,stationToInjectionDistance,hoboSampleID
+"e6c34c94-4126-4083-8667-2a2ffd797588","D06","MCDI","MCDI.AOS.reaeration.station.01","2018-08-27T16:20Z",25.00,"MCDI_S1_20180827"
+"46bd5fcf-7d73-4741-86e0-e7c5536a2628","D06","MCDI","MCDI.AOS.reaeration.station.04","2018-08-27T16:20Z",175.70,"MCDI_S4_20180827"

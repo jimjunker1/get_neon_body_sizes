@@ -1,0 +1,5 @@
+uid,domainID,siteID,namedLocation,collectDate,stationToInjectionDistance,specificConductanceRep1,specificConductanceRep2,specificConductanceRep3,specificConductanceRep4,sampleCollected,saltBackgroundSampleID,saltBackgroundSampleCode,remarks,incompleteExperimentQF
+"88187e1f-e0f4-40ed-baa8-02a3c79dde23","D19","CARI","CARI.AOS.reaeration.station.02","2018-09-14T18:32Z",194.10,78.60,77.20,78.40,78.50,"Y","CARI.B2.20180914.TCR","A00000064792",,
+"cc4e6f39-4c02-4ae9-8841-8b7b571bf187","D19","CARI","CARI.AOS.reaeration.station.01","2018-09-14T18:32Z",31.70,77.20,78.60,79.70,79.20,"Y","CARI.B1.20180914.TCR","A00000064791",,
+"56a03a71-e1cc-4c22-b373-1d2e02bd1ca8","D19","CARI","CARI.AOS.reaeration.station.04","2018-09-14T18:32Z",369.30,79.60,79.30,78.90,79.10,"Y","CARI.B4.20180914.TCR","A00000064794",,
+"d5fb1b52-34a4-400a-a6f5-4df00c58850e","D19","CARI","CARI.AOS.reaeration.station.03","2018-09-14T18:32Z",312.60,78.90,78.40,78.60,78.70,"Y","CARI.B3.20180914.TCR","A00000064793",,

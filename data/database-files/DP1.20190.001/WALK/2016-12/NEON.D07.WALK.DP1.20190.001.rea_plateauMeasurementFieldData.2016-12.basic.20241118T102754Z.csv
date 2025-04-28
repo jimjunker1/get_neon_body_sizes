@@ -1,0 +1,7 @@
+uid,domainID,siteID,namedLocation,collectDate,waterTemp,specificConductanceRep1,specificConductanceRep2,specificConductanceRep3,specificConductanceRep4,specificConductanceRep5,remarks
+"fce069f6-312d-4e7e-91dc-bba5fdd99ddc","D07","WALK","WALK.AOS.reaeration.station.02","2016-12-01T14:30Z",11.40,278.50,278.70,280.60,277.50,279.00,
+"0facf441-c942-4769-a8d1-b8940ee862e4","D07","WALK","WALK.AOS.reaeration.station.03","2016-12-01T14:30Z",11.60,278.50,278.70,280.60,277.50,279.00,
+"180013e8-8abc-4d62-81d6-4cc92a3ff871","D07","WALK","WALK.AOS.reaeration.station.04","2016-12-01T14:30Z",11.40,278.50,278.70,280.60,277.50,279.00,"There was not a good vacuum in the container"
+"7259e7ce-cdd8-4d62-9118-7e137d336edb","D07","WALK","WALK.AOS.reaeration.station.04","2016-12-01T14:30Z",11.40,278.50,278.70,280.60,277.50,279.00,
+"1d39154d-70d8-4b05-88d8-fffc022ef877","D07","WALK","WALK.AOS.reaeration.station.04","2016-12-01T14:30Z",11.40,278.50,278.70,280.60,277.50,279.00,"Tried one vacutainer and failed; used a spare for proper collection"
+"be5fab4a-5f56-4897-85b4-15d33f5109a3","D07","WALK","WALK.AOS.reaeration.station.01","2016-12-01T14:30Z",10.90,278.50,278.70,280.60,277.50,279.00,

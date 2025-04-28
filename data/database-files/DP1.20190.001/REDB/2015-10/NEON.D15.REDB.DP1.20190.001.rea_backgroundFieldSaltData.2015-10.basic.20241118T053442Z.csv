@@ -1,0 +1,5 @@
+uid,domainID,siteID,namedLocation,collectDate,stationToInjectionDistance,specificConductanceRep1,specificConductanceRep2,specificConductanceRep3,specificConductanceRep4,sampleCollected,saltBackgroundSampleID,saltBackgroundSampleCode,remarks,incompleteExperimentQF
+"04f5f848-0dcc-4a4c-be05-b3f8131dfbb5","D15","REDB","REDB.AOS.reaeration.station.03","2015-10-22T18:28Z",214.00,647.00,648.00,648.00,645.00,"Y","REDB.B3.20151022.TCR",,"@ 8.3 celsius",
+"b35f2f09-cfcd-4fd6-8bde-99ab488efde9","D15","REDB","REDB.AOS.reaeration.station.01","2015-10-22T18:28Z",37.00,647.00,647.00,647.00,648.00,"Y","REDB.B1.20151022.TCR",,"@ 8.7 celsius",
+"8de6c9a2-6509-4077-9481-d5f0c277ff96","D15","REDB","REDB.AOS.reaeration.station.04","2015-10-22T18:28Z",308.00,647.00,647.00,637.00,642.00,"Y","REDB.B4.20151022.TCR",,"@ 8celsius",
+"5f0b8e3a-e075-48f3-a486-fe5fbc7b20d8","D15","REDB","REDB.AOS.reaeration.station.02","2015-10-22T18:28Z",130.00,648.00,647.00,649.00,648.00,"Y","REDB.B2.20151022.TCR",,"@ 8.5 celsius",

@@ -1,0 +1,5 @@
+uid,domainID,siteID,namedLocation,collectDate,stationToInjectionDistance,specificConductanceRep1,specificConductanceRep2,specificConductanceRep3,specificConductanceRep4,sampleCollected,saltBackgroundSampleID,saltBackgroundSampleCode,remarks,incompleteExperimentQF
+"cc8860c2-8de8-4630-b56a-4baf1013d828","D01","HOPB","HOPB.AOS.reaeration.station.01","2018-08-09T13:25Z",28.00,85.60,85.70,85.60,85.70,"Y","HOPB.B1.20180809.TCR",,,"externalLabSaltSampleDataNA"
+"28efc6e2-f9dc-45df-ad8a-453bfabd6e8f","D01","HOPB","HOPB.AOS.reaeration.station.02","2018-08-09T13:25Z",128.00,85.70,85.60,85.60,85.60,"Y","HOPB.B2.20180809.TCR",,,"externalLabSaltSampleDataNA"
+"8dc1a985-d6e9-49b8-8443-47bc2410d8c2","D01","HOPB","HOPB.AOS.reaeration.station.03","2018-08-09T13:25Z",222.00,85.30,85.30,85.30,85.30,"Y","HOPB.B3.20180809.TCR",,,"externalLabSaltSampleDataNA"
+"8857bb84-9225-46d8-ae4c-784f3b414d63","D01","HOPB","HOPB.AOS.reaeration.station.04","2018-08-09T13:25Z",295.00,84.90,84.90,85.00,84.90,"Y","HOPB.B4.20180809.TCR",,,"externalLabSaltSampleDataNA"

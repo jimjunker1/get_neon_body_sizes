@@ -1,0 +1,5 @@
+uid,domainID,siteID,namedLocation,collectDate,waterTemp,specificConductanceRep1,specificConductanceRep2,specificConductanceRep3,specificConductanceRep4,specificConductanceRep5,remarks
+"e4f81324-4dda-4af1-9058-696033e3b493","D15","REDB","REDB.AOS.reaeration.station.04","2017-08-03T16:18Z",13.90,578.00,,,,,"Syringe 19 was not filled with site air at the same time as other syringes (1500). Was filled and processed at same location and processing complete at 1521."
+"28c755ea-6816-40a3-9384-ca09574f2bc0","D15","REDB","REDB.AOS.reaeration.station.03","2017-08-03T16:18Z",13.90,579.00,,,,,
+"702e997c-f8d8-41a0-8952-4bc5f6c6b50b","D15","REDB","REDB.AOS.reaeration.station.02","2017-08-03T16:18Z",13.70,581.00,,,,,
+"7eb231ad-0982-4e00-a6a4-6abb872a8eea","D15","REDB","REDB.AOS.reaeration.station.01","2017-08-03T16:18Z",13.70,582.00,,,,,

@@ -1,0 +1,2 @@
+uid,domainID,siteID,namedLocation,passStartTime,passEndTime,boutEndDate,passNumber,eventID,taxonID,scientificName,morphospeciesID,bulkFishCount,actualOrEstimated,identificationQualifier,identificationReferences,identifiedBy,remarks,identificationHistoryID,dataQF,barrierSubReach
+"8670c697-79bb-4051-b0d8-d536095a2fcb","D11","PRIN","PRIN.AOS.fish.point.07","2024-03-05T20:03Z","2024-03-05T21:18Z","2024-03-05T22:28Z",2,"PRIN.2024.spring","GAMAFF","Gambusia affinis",,4,"actual",,,"0009-0001-0347-4936","Juveniles caught in leaf litter and debris.",,,

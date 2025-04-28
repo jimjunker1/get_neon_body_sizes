@@ -1,0 +1,5 @@
+uid,domainID,siteID,namedLocation,collectDate,waterTemp,specificConductanceRep1,specificConductanceRep2,specificConductanceRep3,specificConductanceRep4,specificConductanceRep5,remarks
+"f4c5fdd4-2c78-43ef-b222-af4f2167ab83","D07","WALK","WALK.AOS.reaeration.station.01","2017-01-25T14:45Z",11.20,97.50,105.10,130.90,137.50,138.70,"sample taken near confluence of east and west fork of WALK"
+"db898015-ae7c-4425-8259-ecedba353688","D07","WALK","WALK.AOS.reaeration.station.04","2017-01-25T14:45Z",11.40,97.50,105.10,130.90,137.50,138.70,
+"f42ec1d1-e242-42f2-883d-1a553303d037","D07","WALK","WALK.AOS.reaeration.station.03","2017-01-25T14:45Z",11.30,97.50,105.10,130.90,137.50,138.70,
+"c8cbc6f1-e7df-49b2-af68-cc1536d457f1","D07","WALK","WALK.AOS.reaeration.station.02","2017-01-25T14:45Z",11.40,97.50,105.10,130.90,137.50,138.70,

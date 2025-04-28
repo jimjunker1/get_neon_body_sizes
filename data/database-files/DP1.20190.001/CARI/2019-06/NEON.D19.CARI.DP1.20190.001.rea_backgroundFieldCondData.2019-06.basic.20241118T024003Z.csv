@@ -1,0 +1,7 @@
+uid,domainID,siteID,namedLocation,startDate,stationToInjectionDistance,hoboSampleID
+"1b6ff608-1e37-41e7-8155-4efdf7cf990b","D19","CARI","CARI.AOS.reaeration.station.04","2019-06-13T20:39Z",369.30,"CARI_S4_20190613"
+"b5c60c02-69da-449e-8399-3cce058bff0b","D19","CARI","CARI.AOS.reaeration.station.01","2019-06-13T20:39Z",31.70,"CARI_S1_20190613"
+"3990c9d4-35d4-40ff-af2a-ce1c71b0805c","D19","CARI","CARI.AOS.reaeration.station.01","2019-06-25T19:37Z",31.70,"CARI_S1_20190625"
+"4ae6b80d-a512-4790-b0f0-9ab0a8ccdc48","D19","CARI","CARI.AOS.reaeration.station.04","2019-06-25T19:37Z",369.30,"CARI_S4_20190625"
+"da55ab5f-0ea9-4210-abb7-a2e51cb537e6","D19","CARI","CARI.AOS.reaeration.station.03","2019-06-25T19:37Z",312.60,"CARI_S3_20190625"
+"fa8b7520-4a2c-401e-b482-37e862122335","D19","CARI","CARI.AOS.reaeration.station.02","2019-06-25T19:37Z",194.10,"CARI_S2_20190625"

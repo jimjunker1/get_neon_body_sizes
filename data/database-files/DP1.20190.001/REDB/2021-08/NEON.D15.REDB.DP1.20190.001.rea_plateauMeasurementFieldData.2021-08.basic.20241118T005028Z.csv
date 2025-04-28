@@ -1,0 +1,9 @@
+uid,domainID,siteID,namedLocation,collectDate,waterTemp,specificConductanceRep1,specificConductanceRep2,specificConductanceRep3,specificConductanceRep4,specificConductanceRep5,remarks
+"5d9058d4-b916-4260-b917-29cf0c36b028","D15","REDB","REDB.AOS.reaeration.station.02","2021-08-09T14:37Z",13.80,647.00,,,,,
+"438b92b9-fb97-495d-8101-8c980184378b","D15","REDB","REDB.AOS.reaeration.station.03","2021-08-09T14:37Z",13.80,645.00,,,,,
+"104f1515-fe2d-4cba-a485-aff45a7a7b61","D15","REDB","REDB.AOS.reaeration.station.04","2021-08-09T14:37Z",13.90,642.00,,,,,
+"f7ce2262-5a1d-4c41-9d85-8720aea25876","D15","REDB","REDB.AOS.reaeration.station.01","2021-08-09T14:37Z",13.50,648.00,,,,,
+"02683248-80bd-4e07-83ce-8277a7f4f387","D15","REDB","REDB.AOS.reaeration.station.02","2021-08-30T15:40Z",12.30,657.00,,,,,
+"f93eb492-80a1-49cb-acad-681f7d2543cd","D15","REDB","REDB.AOS.reaeration.station.01","2021-08-30T15:40Z",12.30,657.00,,,,,
+"d3801a16-ef18-47ea-b117-cbae7aedd64a","D15","REDB","REDB.AOS.reaeration.station.04","2021-08-30T15:40Z",12.70,644.00,,,,,
+"b965551d-b1a6-4ae0-bb08-1ee8d4fd0470","D15","REDB","REDB.AOS.reaeration.station.03","2021-08-30T15:40Z",12.50,607.00,,,,,

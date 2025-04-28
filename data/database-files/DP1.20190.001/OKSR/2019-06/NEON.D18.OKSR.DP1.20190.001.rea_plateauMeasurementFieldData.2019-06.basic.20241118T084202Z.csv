@@ -1,0 +1,5 @@
+uid,domainID,siteID,namedLocation,collectDate,waterTemp,specificConductanceRep1,specificConductanceRep2,specificConductanceRep3,specificConductanceRep4,specificConductanceRep5,remarks
+"befe9de2-2dc7-4042-8bd5-62e095286ae3","D18","OKSR","OKSR.AOS.reaeration.station.02","2019-06-15T18:13Z",6.80,30.50,,,,,"Samples discarded due to discharge info not saved to flowmeter"
+"b8ed58fb-a46e-4768-98f2-f56e4bc2aa91","D18","OKSR","OKSR.AOS.reaeration.station.03","2019-06-15T18:13Z",6.80,30.50,,,,,"Samples discarded due to discharge info not saved to flowmeter"
+"65f33eca-dd23-49cb-8344-fa61a1fad45e","D18","OKSR","OKSR.AOS.reaeration.station.01","2019-06-15T18:13Z",6.70,30.60,,,,,"Samples discarded due to discharge info not saved to flowmeter"
+"976e0c3c-6d3c-4621-a40a-8bde98c03218","D18","OKSR","OKSR.AOS.reaeration.station.04","2019-06-15T18:13Z",6.80,30.60,,,,,"Samples discarded due to discharge info not saved to flowmeter"

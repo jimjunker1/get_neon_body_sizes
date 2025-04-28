@@ -1,0 +1,2 @@
+uid,recorduid,domainID,siteID,namedLocation,hoboSampleID,startDate,downloadFileName,downloadFileUrl
+"22430fa1-0550-45fe-afe7-3e80f1a279b3","a7c008eb-df70-4386-9c4f-b7e549550c65","D02","POSE","POSE.AOS.reaeration.station.04","POSE_S4_20230217","2023-02-17T16:47Z","POSE_S4_20230217_20231101T021401.626Z.csv","https://storage.neonscience.org/neon-os-data/data-frame/POSE_S4_20230217_20231101T021401.626Z.csv"

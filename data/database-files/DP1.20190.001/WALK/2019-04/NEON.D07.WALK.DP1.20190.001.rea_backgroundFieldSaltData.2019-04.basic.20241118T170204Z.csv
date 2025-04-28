@@ -1,0 +1,5 @@
+uid,domainID,siteID,namedLocation,collectDate,stationToInjectionDistance,specificConductanceRep1,specificConductanceRep2,specificConductanceRep3,specificConductanceRep4,sampleCollected,saltBackgroundSampleID,saltBackgroundSampleCode,remarks,incompleteExperimentQF
+"c0bf54d7-c997-4e85-9e5c-4263c911082f","D07","WALK","WALK.AOS.reaeration.station.04","2019-04-23T12:43Z",154.00,151.70,151.40,150.70,150.70,"Y","WALK.B4.20190423.TCR","A00000045262",,
+"c0069f5f-65c6-429b-a16c-28567e429f3a","D07","WALK","WALK.AOS.reaeration.station.01","2019-04-23T12:43Z",14.50,160.30,155.70,139.30,120.90,"Y","WALK.B1.20190423.TCR","A00000045260","S1 located at confluence of 2 streams",
+"6229429a-c365-4c55-bfb2-8ae9adec5bf9","D07","WALK","WALK.AOS.reaeration.station.02","2019-04-23T12:43Z",61.00,114.70,144.90,145.20,145.50,"Y","WALK.B2.20190423.TCR","A00000045261",,
+"5c0005df-0848-43c8-ad3a-30cc13503a28","D07","WALK","WALK.AOS.reaeration.station.03","2019-04-23T12:43Z",107.00,146.10,146.50,147.10,147.70,"Y","WALK.B3.20190423.TCR","A00000045307",,

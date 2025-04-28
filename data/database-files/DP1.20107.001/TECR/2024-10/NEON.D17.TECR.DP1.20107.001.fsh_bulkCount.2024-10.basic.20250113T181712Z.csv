@@ -1,0 +1,2 @@
+uid,domainID,siteID,namedLocation,passStartTime,passEndTime,boutEndDate,passNumber,eventID,taxonID,scientificName,morphospeciesID,bulkFishCount,actualOrEstimated,identificationQualifier,identificationReferences,identifiedBy,remarks,identificationHistoryID,dataQF,barrierSubReach
+"205931a4-e92b-4d58-86d6-d9949592da0f","D17","TECR","TECR.AOS.fish.point.05","2024-10-15T17:56Z","2024-10-15T18:55Z","2024-10-15T23:52Z",1,"TECR.2024.fall","SALFON","Salvelinus fontinalis",,15,"actual",,,"0000-0001-9719-1429",,,,

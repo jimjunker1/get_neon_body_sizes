@@ -1,0 +1,5 @@
+uid,domainID,siteID,namedLocation,collectDate,stationToInjectionDistance,specificConductanceRep1,specificConductanceRep2,specificConductanceRep3,specificConductanceRep4,sampleCollected,saltBackgroundSampleID,saltBackgroundSampleCode,remarks,incompleteExperimentQF
+"c1d0e453-74e0-4bcc-8322-64549b4609d2","D04","CUPE","CUPE.AOS.reaeration.station.03","2021-10-06T12:06Z",216.00,269.10,269.00,269.10,269.00,"Y","CUPE.B3.20211006.TCR","A00000194444",,
+"6b223c24-370a-4249-b27e-4001e4becdec","D04","CUPE","CUPE.AOS.reaeration.station.02","2021-10-06T12:06Z",125.00,268.60,268.70,268.50,268.50,"Y","CUPE.B2.20211006.TCR","A00000194443",,
+"59e36ba8-9fd0-4ff1-9d7f-2744d278ba89","D04","CUPE","CUPE.AOS.reaeration.station.04","2021-10-06T12:06Z",314.00,269.70,269.50,269.50,270.50,"Y","CUPE.B4.20211006.TCR","A00000194445",,
+"8388612c-06b2-4b7d-8134-e07982a44377","D04","CUPE","CUPE.AOS.reaeration.station.01","2021-10-06T12:06Z",35.00,267.60,267.60,267.60,266.90,"Y","CUPE.B1.20211006.TCR","A00000194442",,

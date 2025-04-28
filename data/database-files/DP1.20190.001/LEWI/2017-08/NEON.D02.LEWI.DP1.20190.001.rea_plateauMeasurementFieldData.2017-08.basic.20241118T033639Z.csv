@@ -1,0 +1,9 @@
+uid,domainID,siteID,namedLocation,collectDate,waterTemp,specificConductanceRep1,specificConductanceRep2,specificConductanceRep3,specificConductanceRep4,specificConductanceRep5,remarks
+"ba459359-6e06-41ed-a5f9-ecb67ddad8be","D02","LEWI","LEWI.AOS.reaeration.station.01","2017-08-11T13:13Z",17.40,550.00,545.00,544.00,545.00,543.00,
+"dce4370a-f556-425f-a119-49ee9e8a472e","D02","LEWI","LEWI.AOS.reaeration.station.02","2017-08-11T13:13Z",17.40,543.00,,,,,
+"72166167-29c5-42f1-9c05-28a6fcf24ea2","D02","LEWI","LEWI.AOS.reaeration.station.03","2017-08-11T13:13Z",17.50,542.00,,,,,
+"f580ccbf-d371-43de-8f48-b874d22dfe9c","D02","LEWI","LEWI.AOS.reaeration.station.04","2017-08-11T13:13Z",17.60,541.00,,,,,
+"32a6d325-a965-4562-a23f-f977a0b7bbce","D02","LEWI","LEWI.AOS.reaeration.station.03","2017-08-30T12:09Z",15.40,530.00,,,,,
+"041d4962-3130-4ebc-b3e2-b6473c9fd72a","D02","LEWI","LEWI.AOS.reaeration.station.02","2017-08-30T12:09Z",15.30,531.00,,,,,
+"5df8586e-44c2-4846-8fc4-48462db2edd8","D02","LEWI","LEWI.AOS.reaeration.station.04","2017-08-30T12:09Z",15.40,532.00,,,,,
+"32ba9a12-fe17-44a5-b92a-f16db6770d47","D02","LEWI","LEWI.AOS.reaeration.station.01","2017-08-30T12:09Z",14.90,535.00,533.00,532.00,521.00,518.00,

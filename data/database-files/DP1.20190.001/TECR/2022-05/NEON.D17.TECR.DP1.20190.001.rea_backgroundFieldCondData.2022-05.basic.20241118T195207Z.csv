@@ -1,0 +1,5 @@
+uid,domainID,siteID,namedLocation,startDate,stationToInjectionDistance,hoboSampleID
+"19151955-991d-41d9-9697-60ae550165bc","D17","TECR","TECR.AOS.reaeration.station.01","2022-05-02T18:51Z",20.00,"TECR_S1_20220502"
+"bff8d829-6178-4f54-ab7c-e17177e6e230","D17","TECR","TECR.AOS.reaeration.station.04","2022-05-02T18:51Z",220.00,"TECR_S4_20220502"
+"0d301d45-1d25-46ef-a6d4-ce84c9f5e72d","D17","TECR","TECR.AOS.reaeration.station.04","2022-05-23T17:32Z",220.00,"TECR_S4_20220523"
+"7ea724c1-bd0a-44cf-a1c2-6b7b7b92b63f","D17","TECR","TECR.AOS.reaeration.station.01","2022-05-23T17:32Z",20.00,"TECR_S1_20220523"

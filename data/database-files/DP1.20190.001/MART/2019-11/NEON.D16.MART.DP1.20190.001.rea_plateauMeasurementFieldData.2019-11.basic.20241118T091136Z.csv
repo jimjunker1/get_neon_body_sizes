@@ -1,0 +1,5 @@
+uid,domainID,siteID,namedLocation,collectDate,waterTemp,specificConductanceRep1,specificConductanceRep2,specificConductanceRep3,specificConductanceRep4,specificConductanceRep5,remarks
+"0d78dcdd-3273-4826-b530-3b6ab355d9c9","D16","MART","MART.AOS.reaeration.station.03","2019-11-18T18:24Z",8.10,47.60,,,,,
+"5739c261-3713-4d9f-9f51-01b143d43cb9","D16","MART","MART.AOS.reaeration.station.04","2019-11-18T18:24Z",8.20,46.80,,,,,"Sample 18 compromised. Lost about 8 mL when stopcock became detached from syringe in transport"
+"710765aa-4fef-472d-aa57-6a699edaf091","D16","MART","MART.AOS.reaeration.station.01","2019-11-18T18:24Z",8.00,51.30,51.10,51.00,51.20,51.30,
+"47d93925-0276-4b61-8d67-8243c179bd95","D16","MART","MART.AOS.reaeration.station.02","2019-11-18T18:24Z",8.10,48.30,,,,,

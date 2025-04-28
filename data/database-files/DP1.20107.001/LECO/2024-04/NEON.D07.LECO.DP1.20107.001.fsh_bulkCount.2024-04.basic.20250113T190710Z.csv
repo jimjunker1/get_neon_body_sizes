@@ -1,0 +1,3 @@
+uid,domainID,siteID,namedLocation,passStartTime,passEndTime,boutEndDate,passNumber,eventID,taxonID,scientificName,morphospeciesID,bulkFishCount,actualOrEstimated,identificationQualifier,identificationReferences,identifiedBy,remarks,identificationHistoryID,dataQF,barrierSubReach
+"ddf696f4-89f3-4aa3-aea7-d290af671966","D07","LECO","LECO.AOS.fish.point.02","2024-04-23T13:00Z","2024-04-23T16:17Z","2024-04-24T17:38Z",1,"LECO.2024.spring","ONCMYK","Oncorhynchus mykiss",,2,"actual",,,"0000-0001-8615-3910",,,,
+"9ecb2294-0e4d-4d90-861e-04937e3717d2","D07","LECO","LECO.AOS.fish.point.05","2024-04-24T14:41Z","2024-04-24T15:22Z","2024-04-24T17:38Z",1,"LECO.2024.spring","RHIATR","Rhinichthys atratulus",,11,"actual","cf. species",,"0000-0001-8869-8172",,,,

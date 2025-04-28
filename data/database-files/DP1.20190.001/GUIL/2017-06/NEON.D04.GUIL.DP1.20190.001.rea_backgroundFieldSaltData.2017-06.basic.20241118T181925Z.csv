@@ -1,0 +1,5 @@
+uid,domainID,siteID,namedLocation,collectDate,stationToInjectionDistance,specificConductanceRep1,specificConductanceRep2,specificConductanceRep3,specificConductanceRep4,sampleCollected,saltBackgroundSampleID,saltBackgroundSampleCode,remarks,incompleteExperimentQF
+"de8eb9b4-57cc-4b3f-905f-c026b9bc6ba4","D04","GUIL","GUIL.AOS.reaeration.station.02","2017-06-07T11:39Z",86.00,230.40,230.30,230.30,230.30,"Y","GUIL.B2.20170607.TCR",,"Temperature 21.4 C",
+"ef8d58d2-8f15-407d-b259-2663e373686c","D04","GUIL","GUIL.AOS.reaeration.station.04","2017-06-07T11:39Z",320.00,236.00,236.00,236.00,235.80,"Y","GUIL.B4.20170607.TCR",,"Temperature 21.6 C",
+"518313c0-fd09-402e-b2e1-0ef249367791","D04","GUIL","GUIL.AOS.reaeration.station.01","2017-06-07T11:39Z",35.00,230.00,229.90,229.90,229.90,"Y","GUIL.B1.20170607.TCR",,"Temp. 21.2 C",
+"8cba040d-ad31-4574-8c6a-58789fb1abe7","D04","GUIL","GUIL.AOS.reaeration.station.03","2017-06-07T11:39Z",178.00,231.70,231.60,231.60,231.60,"Y","GUIL.B3.20170607.TCR",,"Temp 21.5 C",

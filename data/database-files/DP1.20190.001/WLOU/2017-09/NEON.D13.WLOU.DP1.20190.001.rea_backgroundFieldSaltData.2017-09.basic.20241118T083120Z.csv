@@ -1,0 +1,13 @@
+uid,domainID,siteID,namedLocation,collectDate,stationToInjectionDistance,specificConductanceRep1,specificConductanceRep2,specificConductanceRep3,specificConductanceRep4,sampleCollected,saltBackgroundSampleID,saltBackgroundSampleCode,remarks,incompleteExperimentQF
+"6cedaac1-4d84-4851-a8b5-0fc632c959d2","D13","WLOU","WLOU.AOS.reaeration.station.02","2017-09-07T15:45Z",145.00,96.30,96.00,95.90,96.10,"Y","WLOU.B2.20170907.TCR",,,
+"395f9e2c-5845-4bef-9b67-d107b2c5d129","D13","WLOU","WLOU.AOS.reaeration.station.01","2017-09-07T15:45Z",35.00,96.00,52.60,95.40,93.30,"Y","WLOU.B1.20170907.TCR",,,
+"38fc3972-9e0e-4dea-9431-22526c424bea","D13","WLOU","WLOU.AOS.reaeration.station.04","2017-09-07T15:45Z",363.00,95.30,96.50,96.60,92.40,"Y","WLOU.B4.20170907.TCR",,,
+"52a57658-4193-4df7-ba3b-1c9dd836e3b6","D13","WLOU","WLOU.AOS.reaeration.station.03","2017-09-07T15:45Z",254.00,97.20,96.20,82.10,96.30,"Y","WLOU.B3.20170907.TCR",,,
+"60d8b7ca-2ee6-444a-8ba2-ea29da59654e","D13","WLOU","WLOU.AOS.reaeration.station.03","2017-09-13T15:05Z",254.00,100.10,99.60,99.30,99.20,"Y","WLOU.B3.20170913.TCR",,,
+"15f91a5e-a9d0-4dc3-bd35-e603006eed0b","D13","WLOU","WLOU.AOS.reaeration.station.01","2017-09-13T15:05Z",35.00,99.60,98.10,97.90,97.80,"Y","WLOU.B1.20170913.TCR",,,
+"de5cbd9a-f872-4977-a64c-5b1f93e277b9","D13","WLOU","WLOU.AOS.reaeration.station.04","2017-09-13T15:05Z",363.00,99.50,99.10,99.50,98.20,"Y","WLOU.B4.20170913.TCR",,,
+"d3b39a5d-2680-4157-8563-7812c00d7583","D13","WLOU","WLOU.AOS.reaeration.station.02","2017-09-13T15:05Z",145.00,99.90,99.30,98.90,98.60,"Y","WLOU.B2.20170913.TCR",,,
+"c0dcff8f-d245-4fcf-a5ee-5170a5b7525e","D13","WLOU","WLOU.AOS.reaeration.station.04","2017-09-26T17:34Z",363.00,99.00,117.10,117.80,112.30,"Y","WLOU.B4.20170926.TCR",,,
+"e33a4792-6685-4e44-96a4-9e955c317902","D13","WLOU","WLOU.AOS.reaeration.station.03","2017-09-26T17:34Z",254.00,118.30,116.20,89.00,116.30,"Y","WLOU.B3.20170926.TCR",,,
+"3eef9264-33a2-43aa-98af-0409b06eaa38","D13","WLOU","WLOU.AOS.reaeration.station.02","2017-09-26T17:34Z",145.00,91.30,115.70,117.00,116.20,"Y","WLOU.B2.20170926.TCR",,,
+"33f88bdb-9db1-435a-a749-fb6081cdb363","D13","WLOU","WLOU.AOS.reaeration.station.01","2017-09-26T17:34Z",35.00,115.20,114.80,115.40,115.20,"Y","WLOU.B1.20170926.TCR",,,

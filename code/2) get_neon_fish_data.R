@@ -12,9 +12,9 @@ library(brms)
 library(neonstore)
 
 # directory
-Sys.setenv(NEONSTORE_HOME = paste(getwd(),
-                                  "/data",
-                                  sep=""))
+# Sys.setenv(NEONSTORE_HOME = paste(getwd(),
+#                                   "/data",
+#                                   sep=""))
 
 # download data (takes ~15 minutes) --------------------------------
 #stream sites
@@ -24,27 +24,51 @@ streamsites=c("HOPB", "LEWI", "POSE", "CUPE",
               "PRIN", "BLDE", "COMO", "WLOU",
               "SYCA", "REDB", "MART", "MCRA",
               "BIGC", "TECR", "OKSR", "CARI")
+update <- TRUE
+if (update) {
+  neonstore::neon_download(
+    product = "DP1.20107.001",
+    site = streamsites,
+    dir = here("data/database-files"),
+    .token = Sys.getenv("NEON_TOKEN")
+  )
+  neonstore::neon_store(
+    product = "DP1.20107.001",
+    site = streamsites,
+    dir = here("data/database-files")
+  )
+  neonstore::neon_download(
+    product = "DP1.20190.001",
+    site = streamsites,
+    type = "basic",
+    dir = here("data/database-files"),
+    .token = Sys.getenv("NEON_TOKEN")
+  )
+  neonstore::neon_store(
+    product = "DP1.20190.001",
+    site = streamsites,
+    table = "rea_widthFieldData-basic",
+    dir = here("data/database-files")
+  )
+# add a variables file. Just need one overall file. Any site will do. I've chosen ARIK b/c it's first in alphabet.
+  neonstore::neon_download(
+    product="DP1.20190.001",
+    start_date="2021-01-01", 
+    end_date="2022-01-01",
+    table = "variables",
+    type="basic",
+    site= "ARIK",
+    dir = here("data/database-files"),
+    .token = Sys.getenv("NEON_TOKEN"))
+}
 
-neon_download(product="DP1.20107.001",
-              start_date=NA,
-              end_date=NA,
-              type="basic",
-              site= NA)
-
-neon_download(product="DP1.20190.001",
-              start_date=NA,
-              end_date=NA,
-              table = "rea_widthFieldData",
-              type="basic",
-              site= streamsites)
-
-# # add a variables file. Just need one overall file. Any site will do. I've chosen ARIK b/c it's first in alphabet.
-neon_download(product="DP1.20190.001", 
-              start_date="2021-01-01", 
-              end_date="2022-01-01",
-              table = "variables",
-              type="basic",
-              site= "ARIK")
+# 1.1) check file index
+neonstore::neon_index(
+  product = "DP1.20107.001",
+  dir = here("data/database-files")
+) %>%
+  slice_sample(n = 1, by = table) %>%
+  View()
 
 # # stack data
 fish_stacked = stackFromStore(filepaths=neon_dir(),

@@ -1,0 +1,2 @@
+uid,recorduid,domainID,siteID,namedLocation,hoboSampleID,startDate,downloadFileName,downloadFileUrl
+"63f8bba8-8b49-45bb-abfb-ecee2cc630f1","250d26a7-59f4-4bd3-92f8-6a12b7a40816","D06","MCDI","MCDI.AOS.reaeration.station.01","MCDI_S1_20160614","2016-06-14T11:02Z","MCDI_S1_20160614_20231101T013931.229Z.csv","https://storage.neonscience.org/neon-os-data/data-frame/MCDI_S1_20160614_20231101T013931.229Z.csv"

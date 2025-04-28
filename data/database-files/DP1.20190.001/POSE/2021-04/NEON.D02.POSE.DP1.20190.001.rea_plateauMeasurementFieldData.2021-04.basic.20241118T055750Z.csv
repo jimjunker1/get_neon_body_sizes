@@ -1,0 +1,9 @@
+uid,domainID,siteID,namedLocation,collectDate,waterTemp,specificConductanceRep1,specificConductanceRep2,specificConductanceRep3,specificConductanceRep4,specificConductanceRep5,remarks
+"0be78c48-ae78-4081-82d1-d000322dc5b6","D02","POSE","POSE.AOS.reaeration.station.01","2021-04-19T13:04Z",10.50,119.30,118.50,117.40,117.20,113.00,
+"d656477c-c812-43b4-a4a2-7b8ad245d19d","D02","POSE","POSE.AOS.reaeration.station.03","2021-04-19T13:04Z",10.50,116.90,,,,,
+"a0c251f7-2fc3-49e5-b9cb-eb6f065780f2","D02","POSE","POSE.AOS.reaeration.station.02","2021-04-19T13:04Z",10.50,117.00,,,,,
+"7a887626-e92d-4226-a2a3-1369fa92a00d","D02","POSE","POSE.AOS.reaeration.station.04","2021-04-19T13:04Z",10.60,115.90,,,,,
+"30e5b0ef-7da6-460c-80c5-77a020ea3cb2","D02","POSE","POSE.AOS.reaeration.station.04","2021-04-26T12:37Z",9.40,118.00,,,,,
+"30a78346-71e3-4694-9f0b-10e4405662e6","D02","POSE","POSE.AOS.reaeration.station.02","2021-04-26T12:37Z",9.40,118.50,,,,,
+"467178b7-c16d-49e6-9eab-fda99e8c63db","D02","POSE","POSE.AOS.reaeration.station.01","2021-04-26T12:37Z",9.30,121.90,122.50,120.50,122.40,117.30,
+"fa0d23af-2856-4d19-a7a9-39d2c57dd2d8","D02","POSE","POSE.AOS.reaeration.station.03","2021-04-26T12:37Z",9.30,118.10,,,,,

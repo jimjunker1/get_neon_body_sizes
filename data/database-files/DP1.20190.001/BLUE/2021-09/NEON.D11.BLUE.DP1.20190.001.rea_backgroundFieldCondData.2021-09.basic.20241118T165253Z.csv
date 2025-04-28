@@ -1,0 +1,3 @@
+uid,domainID,siteID,namedLocation,startDate,stationToInjectionDistance,hoboSampleID
+"695136ab-ff5f-4e86-97bc-da123c4febdb","D11","BLUE","BLUE.AOS.reaeration.station.04","2021-09-07T18:25Z",400.43,"BLUE_S4_20210907"
+"602d3a73-b79a-4003-bdbc-346c1733d231","D11","BLUE","BLUE.AOS.reaeration.station.01","2021-09-07T18:25Z",19.63,"BLUE_S1_20210907"

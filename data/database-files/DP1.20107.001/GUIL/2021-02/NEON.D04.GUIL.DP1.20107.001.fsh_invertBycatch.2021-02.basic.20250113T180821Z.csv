@@ -1,0 +1,2 @@
+uid,domainID,siteID,namedLocation,passStartTime,passEndTime,boutEndDate,passNumber,eventID,voucherSampleID,voucherSampleCode,scientificName,taxonID,morphospeciesID,morphospeciesIDRemarks,bulkInvertCount,bulkMortality,identificationQualifier,identificationReferences,identifiedBy,remarks,dataQF
+"cafff1a7-de81-4259-8ff4-64a08cf2b3cd","D04","GUIL","GUIL.AOS.fish.point.09","2021-02-23T13:05Z","2021-02-23T14:10Z","2021-02-23T19:05Z",1,"GUIL.2021.spring",,,"Epilobocera sinuatifrons","EPISIN",,,1,,,,"0000-0002-4299-7043",,

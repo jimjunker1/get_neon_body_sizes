@@ -1,0 +1,5 @@
+uid,domainID,siteID,namedLocation,collectDate,stationToInjectionDistance,specificConductanceRep1,specificConductanceRep2,specificConductanceRep3,specificConductanceRep4,sampleCollected,saltBackgroundSampleID,saltBackgroundSampleCode,remarks,incompleteExperimentQF
+"1f1680c5-1275-4b5e-8d8b-59b9582563f3","D07","LECO","LECO.AOS.reaeration.station.03","2018-11-14T16:46Z",275.00,18.70,19.90,20.20,20.00,"Y","LECO.B3.20181114.TCR","A00000044630",,"externalLabSaltSampleDataNA"
+"e7b8e318-e80e-42ea-9016-93562b000b17","D07","LECO","LECO.AOS.reaeration.station.02","2018-11-14T16:46Z",185.00,18.80,19.70,19.40,19.80,"Y","LECO.B2.20181114.TCR","A00000045950",,"externalLabSaltSampleDataNA"
+"870f38b3-223c-4a75-89bc-747b0de1cd46","D07","LECO","LECO.AOS.reaeration.station.04","2018-11-14T16:46Z",365.00,20.20,20.20,19.80,20.20,"Y","LECO.B4.20181114.TCR","A00000044627",,"externalLabSaltSampleDataNA"
+"5d1b4485-ce59-4175-b8c2-9907d8b778d3","D07","LECO","LECO.AOS.reaeration.station.01","2018-11-14T16:46Z",90.00,20.60,20.50,20.60,20.40,"Y","LECO.B1.20181114.TCR","A00000044645",,"externalLabSaltSampleDataNA"

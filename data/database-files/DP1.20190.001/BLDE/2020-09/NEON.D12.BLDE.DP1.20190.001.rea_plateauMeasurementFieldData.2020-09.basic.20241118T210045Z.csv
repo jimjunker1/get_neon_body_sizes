@@ -1,0 +1,5 @@
+uid,domainID,siteID,namedLocation,collectDate,waterTemp,specificConductanceRep1,specificConductanceRep2,specificConductanceRep3,specificConductanceRep4,specificConductanceRep5,remarks
+"f4558e2a-bafe-4786-ad7a-446d1b680653","D12","BLDE","BLDE.AOS.reaeration.station.03","2020-09-10T15:55Z",6.70,109.50,,,,,
+"938075e1-898c-4881-923f-b18110e91972","D12","BLDE","BLDE.AOS.reaeration.station.04","2020-09-10T15:55Z",7.00,109.60,,,,,
+"1f492034-4c8c-4073-ab91-49ed02de2036","D12","BLDE","BLDE.AOS.reaeration.station.02","2020-09-10T15:55Z",6.30,107.70,,,,,
+"15a175e5-e6e4-49f5-85bb-975e1894e52b","D12","BLDE","BLDE.AOS.reaeration.station.01","2020-09-10T15:55Z",5.80,109.80,,,,,"Lost sample 2 when pulling in air all water fell out of syringe."

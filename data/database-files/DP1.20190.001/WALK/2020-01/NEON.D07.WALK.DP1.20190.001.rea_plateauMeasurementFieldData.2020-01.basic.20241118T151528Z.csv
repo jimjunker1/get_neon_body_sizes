@@ -1,0 +1,4 @@
+uid,domainID,siteID,namedLocation,collectDate,waterTemp,specificConductanceRep1,specificConductanceRep2,specificConductanceRep3,specificConductanceRep4,specificConductanceRep5,remarks
+"39d53fc9-5632-4675-a2c2-6a771a42437c","D07","WALK","WALK.AOS.reaeration.station.02","2020-01-29T14:58Z",11.10,147.00,,,,,"Seasonal side channel flowing S1 hobo placed at S2"
+"cb402b48-9f04-4b20-9795-f1e82874d231","D07","WALK","WALK.AOS.reaeration.station.03","2020-01-29T14:58Z",11.10,146.80,,,,,
+"50e2cd72-3ed0-40f3-b224-d99c3310a447","D07","WALK","WALK.AOS.reaeration.station.04","2020-01-29T14:58Z",11.30,150.10,,,,,

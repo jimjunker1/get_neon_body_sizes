@@ -1,0 +1,9 @@
+uid,domainID,siteID,namedLocation,collectDate,waterTemp,specificConductanceRep1,specificConductanceRep2,specificConductanceRep3,specificConductanceRep4,specificConductanceRep5,remarks
+"59622eb6-5e41-4f92-93b4-ae2d9266041f","D04","CUPE","CUPE.AOS.reaeration.station.04","2015-03-05T13:25Z",22.40,281.50,281.40,281.40,281.30,281.20,
+"361b3cf5-3d7c-48f8-ab23-139650034fe7","D04","CUPE","CUPE.AOS.reaeration.station.01","2015-03-05T13:25Z",22.00,281.50,281.40,281.40,281.30,281.20,
+"fb7b90e4-73d8-45a2-8825-94a5f2bcaca5","D04","CUPE","CUPE.AOS.reaeration.station.03","2015-03-05T13:25Z",22.20,281.50,281.40,281.40,281.30,281.20,
+"b3f1fb14-76ab-4d44-bee1-1f9d92d4fe8b","D04","CUPE","CUPE.AOS.reaeration.station.02","2015-03-05T13:25Z",22.10,281.50,281.40,281.40,281.30,281.20,
+"7a5dd134-2852-4f6d-bd55-8035d7645af6","D04","CUPE","CUPE.AOS.reaeration.station.03","2015-03-26T12:30Z",22.10,271.60,271.50,271.50,271.60,271.80,
+"73fe8c21-7e24-4065-a4cf-f6c20d4f6afd","D04","CUPE","CUPE.AOS.reaeration.station.04","2015-03-26T12:30Z",22.20,271.60,271.50,271.50,271.60,271.80,
+"fc71c716-f536-40eb-8872-cd194be2756b","D04","CUPE","CUPE.AOS.reaeration.station.02","2015-03-26T12:30Z",22.10,271.60,271.50,271.50,271.60,271.80,
+"42c0d7c1-dee1-4986-9b37-7bba6f45e50a","D04","CUPE","CUPE.AOS.reaeration.station.01","2015-03-26T12:30Z",22.10,271.60,271.50,271.50,271.60,271.80,

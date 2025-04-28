@@ -1,0 +1,13 @@
+uid,domainID,siteID,namedLocation,collectDate,stationToInjectionDistance,specificConductanceRep1,specificConductanceRep2,specificConductanceRep3,specificConductanceRep4,sampleCollected,saltBackgroundSampleID,saltBackgroundSampleCode,remarks,incompleteExperimentQF
+"b35dfffe-6457-44a4-aae2-6879a0eda481","D16","MCRA","MCRA.AOS.reaeration.station.01","2016-10-12T14:33Z",15.50,30.00,29.80,29.90,30.10,"Y","MCRA.B1.20161012.TCR",,,
+"c2dc0612-4e89-4de2-84e9-f307d7292c3e","D16","MCRA","MCRA.AOS.reaeration.station.04","2016-10-12T14:33Z",245.50,31.10,30.50,30.60,30.50,"Y","MCRA.B4.20161012.TCR",,,
+"e2bf1c4e-7896-4b01-907a-1d23fa93d255","D16","MCRA","MCRA.AOS.reaeration.station.02","2016-10-12T14:33Z",97.50,29.70,30.10,30.20,30.80,"Y","MCRA.B2.20161012.TCR",,,
+"e3d7dacb-28b9-4537-9423-c4b380acdbf3","D16","MCRA","MCRA.AOS.reaeration.station.03","2016-10-12T14:33Z",167.50,30.50,30.30,30.20,30.20,"Y","MCRA.B3.20161012.TCR",,,
+"55473b9f-80ab-4649-b29e-382ebfa8e38d","D16","MCRA","MCRA.AOS.reaeration.station.02","2016-10-19T12:30Z",97.50,24.30,24.20,24.30,24.40,"Y","MCRA.B2.20161019.TCR",,,
+"15d9d2ef-02f7-4d56-9c08-3ea78974b71e","D16","MCRA","MCRA.AOS.reaeration.station.03","2016-10-19T12:30Z",167.50,24.90,24.80,24.80,24.70,"Y","MCRA.B3.20161019.TCR",,,
+"64a5f4fe-92fa-46e9-9bfc-23e66cc5554e","D16","MCRA","MCRA.AOS.reaeration.station.04","2016-10-19T12:30Z",245.50,24.60,24.70,24.40,24.60,"Y","MCRA.B4.20161019.TCR",,,
+"1799d9e2-bc21-4659-bf2f-c892c070f37b","D16","MCRA","MCRA.AOS.reaeration.station.01","2016-10-19T12:30Z",15.50,24.10,24.20,24.10,24.00,"Y","MCRA.B1.20161019.TCR",,,
+"43567006-2f38-42e0-a8e7-fc9b537e4a17","D16","MCRA","MCRA.AOS.reaeration.station.03","2016-10-26T10:07Z",167.50,27.20,27.00,26.90,27.00,"Y","MCRA.B3.20161026.TCR",,,
+"d6dab514-c78e-4f84-9322-cc3ee0a1d850","D16","MCRA","MCRA.AOS.reaeration.station.04","2016-10-26T10:07Z",245.50,27.00,26.80,26.90,26.90,"Y","MCRA.B4.20161026.TCR",,,
+"a5cfd523-44c7-4324-98ef-d308658cf13e","D16","MCRA","MCRA.AOS.reaeration.station.02","2016-10-26T10:07Z",97.50,25.30,25.40,25.80,25.80,"Y","MCRA.B2.20161026.TCR",,,
+"68318f69-ded1-4454-8436-9b4c3f2e7057","D16","MCRA","MCRA.AOS.reaeration.station.01","2016-10-26T10:07Z",15.50,25.20,25.20,25.00,25.30,"Y","MCRA.B1.20161026.TCR",,,

@@ -1,0 +1,2 @@
+uid,recorduid,domainID,siteID,namedLocation,hoboSampleID,startDate,downloadFileName,downloadFileUrl
+"3e3eccbd-26c2-4e55-b6bf-17c26eadf151","a23ce8e7-43aa-4af1-a739-6795f4f70d28","D08","MAYF","MAYF.AOS.reaeration.station.01","MAYF_S1_20190226","2019-02-26T15:21Z","MAYF_S1_20190226_20231101T015347.467Z.csv","https://storage.neonscience.org/neon-os-data/data-frame/MAYF_S1_20190226_20231101T015347.467Z.csv"

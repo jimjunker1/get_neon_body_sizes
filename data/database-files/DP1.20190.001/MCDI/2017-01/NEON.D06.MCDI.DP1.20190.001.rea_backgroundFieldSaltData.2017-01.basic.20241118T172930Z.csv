@@ -1,0 +1,5 @@
+uid,domainID,siteID,namedLocation,collectDate,stationToInjectionDistance,specificConductanceRep1,specificConductanceRep2,specificConductanceRep3,specificConductanceRep4,sampleCollected,saltBackgroundSampleID,saltBackgroundSampleCode,remarks,incompleteExperimentQF
+"87b47247-7623-4f82-b05e-3e132146688e","D06","MCDI","MCDI.AOS.reaeration.station.02","2017-01-24T10:00Z",60.00,556.00,556.00,556.00,556.00,"Y","MCDI.B2.20170124.TCR",,,
+"10a65948-1757-484f-a1ef-b8469ccbd5a5","D06","MCDI","MCDI.AOS.reaeration.station.03","2017-01-24T10:00Z",90.00,555.00,555.00,555.00,556.00,"Y","MCDI.B3.20170124.TCR",,,
+"b6ca0ecb-dfb0-43f6-8f72-b38083e83f2f","D06","MCDI","MCDI.AOS.reaeration.station.04","2017-01-24T10:00Z",120.00,551.00,552.00,552.00,553.00,"Y","MCDI.B4.20170124.TCR",,,
+"8c606733-eb8b-4918-b298-400522816471","D06","MCDI","MCDI.AOS.reaeration.station.01","2017-01-24T10:00Z",30.00,555.00,555.00,556.00,555.00,"Y","MCDI.B1.20170124.TCR",,,

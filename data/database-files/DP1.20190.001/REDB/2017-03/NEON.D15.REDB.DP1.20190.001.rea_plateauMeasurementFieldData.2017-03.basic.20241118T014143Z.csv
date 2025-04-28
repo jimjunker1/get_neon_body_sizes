@@ -1,0 +1,6 @@
+uid,domainID,siteID,namedLocation,collectDate,waterTemp,specificConductanceRep1,specificConductanceRep2,specificConductanceRep3,specificConductanceRep4,specificConductanceRep5,remarks
+"d68f7be2-ba7c-436e-b38a-9ae7aa0ee6fe","D15","REDB","REDB.AOS.reaeration.station.04","2017-03-27T20:13Z",,293.80,293.90,293.50,293.60,293.80,
+"122c3a0d-42d6-4aa0-806e-4e764805f52a","D15","REDB","REDB.AOS.reaeration.station.01","2017-03-27T20:13Z",5.00,293.80,293.90,293.50,293.60,293.80,
+"f5361ebc-4081-45dd-ad2b-1b69111b1d70","D15","REDB","REDB.AOS.reaeration.station.03","2017-03-27T20:13Z",,293.80,293.90,293.50,293.60,293.80,
+"efedf829-3e3e-44ba-80c0-560d9c7428b9","D15","REDB","REDB.AOS.reaeration.station.02","2017-03-27T20:13Z",,293.80,293.90,293.50,293.60,293.80,
+"a1bec587-b902-417e-b526-1a4bbcf92c16","D15","REDB","REDB.AOS.reaeration.station.02","2017-03-27T20:13Z",,293.80,293.90,293.50,293.60,293.80,"no vacuum in vial; all spares used"

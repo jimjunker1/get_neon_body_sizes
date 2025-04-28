@@ -1,0 +1,10 @@
+uid,domainID,siteID,namedLocation,collectDate,waterTemp,specificConductanceRep1,specificConductanceRep2,specificConductanceRep3,specificConductanceRep4,specificConductanceRep5,remarks
+"9931a023-0e9f-431c-9b44-fc187c6928d6","D15","REDB","REDB.AOS.reaeration.station.02","2016-05-12T17:15Z",,487.00,488.00,487.00,487.00,487.00,
+"68587cd4-e228-493a-8163-07a45eff1af2","D15","REDB","REDB.AOS.reaeration.station.03","2016-05-12T17:15Z",,487.00,488.00,487.00,487.00,487.00,
+"4b491bf5-80e8-46bf-a53e-6c301095e76e","D15","REDB","REDB.AOS.reaeration.station.04","2016-05-12T17:15Z",,487.00,488.00,487.00,487.00,487.00,
+"82fb48f3-1c39-4c22-91d2-f5875033abd2","D15","REDB","REDB.AOS.reaeration.station.01","2016-05-12T17:15Z",9.40,487.00,488.00,487.00,487.00,487.00,
+"259c31e9-67ed-48f2-ad1c-aaed682e5a00","D15","REDB","REDB.AOS.reaeration.station.03","2016-05-19T16:57Z",,511.00,511.00,511.00,511.00,511.00,"Syringe 11 lost in stream; used spare and renumbered as 11."
+"ea1ed83a-2462-4a98-9e4e-067999876fa0","D15","REDB","REDB.AOS.reaeration.station.02","2016-05-19T16:57Z",,511.00,511.00,511.00,511.00,511.00,
+"c29f288f-9f61-45d5-8d74-f2d5a3f7279d","D15","REDB","REDB.AOS.reaeration.station.01","2016-05-19T16:57Z",10.20,511.00,511.00,511.00,511.00,511.00,
+"8823f40f-3236-4e2d-b1b1-54e4a8a3cec0","D15","REDB","REDB.AOS.reaeration.station.04","2016-05-19T16:57Z",,511.00,511.00,511.00,511.00,511.00,
+"edc15cf4-e9a5-4991-948f-bf62007565fe","D15","REDB","REDB.AOS.reaeration.station.03","2016-05-19T16:57Z",,511.00,511.00,511.00,511.00,511.00,

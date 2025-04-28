@@ -1,0 +1,5 @@
+uid,domainID,siteID,namedLocation,startDate,stationToInjectionDistance,hoboSampleID
+"786db314-3c99-44e1-a843-54cbf95147c3","D02","LEWI","LEWI.AOS.reaeration.station.04","2017-05-26T06:51Z",244.90,"LEWI_S4_20170526"
+"9424d93d-23f5-4ba8-8b7d-b62cd3f88002","D02","LEWI","LEWI.AOS.reaeration.station.01","2017-05-26T06:51Z",10.90,"LEWI_S1_20170526"
+"ff1a20fd-c848-4709-8200-a0eab84b87d1","D02","LEWI","LEWI.AOS.reaeration.station.01","2017-05-31T06:42Z",10.90,"LEWI_S1_20170531"
+"b7ea2b5f-4e98-4918-b962-268327470d51","D02","LEWI","LEWI.AOS.reaeration.station.04","2017-05-31T06:42Z",244.90,"LEWI_S4_20170531"

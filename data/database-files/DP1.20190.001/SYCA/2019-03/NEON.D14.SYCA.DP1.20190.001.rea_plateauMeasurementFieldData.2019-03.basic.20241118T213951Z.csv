@@ -1,0 +1,5 @@
+uid,domainID,siteID,namedLocation,collectDate,waterTemp,specificConductanceRep1,specificConductanceRep2,specificConductanceRep3,specificConductanceRep4,specificConductanceRep5,remarks
+"51d7766a-594a-4f8b-82b8-99290a687142","D14","SYCA","SYCA.AOS.reaeration.station.01","2019-03-06T14:28Z",17.60,269.50,,,,,
+"83593a12-b279-4f7f-a0a9-5ecabf96edfd","D14","SYCA","SYCA.AOS.reaeration.station.02","2019-03-06T14:28Z",17.50,269.50,,,,,
+"e92fa158-902d-42c8-b89e-59e0ecb51604","D14","SYCA","SYCA.AOS.reaeration.station.04","2019-03-06T14:28Z",17.30,269.30,,,,,
+"b2771e98-4170-4dc2-8e40-8462e384f566","D14","SYCA","SYCA.AOS.reaeration.station.03","2019-03-06T14:28Z",17.40,269.70,,,,,

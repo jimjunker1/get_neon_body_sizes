@@ -1,0 +1,2 @@
+uid,domainID,siteID,namedLocation,passStartTime,passEndTime,boutEndDate,passNumber,eventID,taxonID,scientificName,morphospeciesID,bulkFishCount,actualOrEstimated,identificationQualifier,identificationReferences,identifiedBy,remarks,identificationHistoryID,dataQF,barrierSubReach
+"15b47fd6-422d-4de4-9a87-9330c81321c3","D10","ARIK","ARIK.AOS.fish.point.06","2016-10-11T20:30Z","2016-10-12T00:00Z","2016-10-12T21:00Z",3,"ARIK.2016.fall","HYBHAN","Hybognathus hankinsoni",,9,"actual",,,"hschartel@battelleecology.org",,,"legacydata",

@@ -1,0 +1,9 @@
+uid,domainID,siteID,namedLocation,collectDate,waterTemp,specificConductanceRep1,specificConductanceRep2,specificConductanceRep3,specificConductanceRep4,specificConductanceRep5,remarks
+"0501da40-f30f-4e14-8f4a-cd5a76f824ff","D13","COMO","COMO.AOS.reaeration.station.01","2021-08-09T15:44Z",9.60,25.70,,,,,
+"d77fb440-c44a-41b4-bea7-0fdfe4d9092e","D13","COMO","COMO.AOS.reaeration.station.03","2021-08-09T15:44Z",9.80,25.50,,,,,
+"74bf1098-5cba-43e3-8f0d-58801a29fac3","D13","COMO","COMO.AOS.reaeration.station.04","2021-08-09T15:44Z",9.90,26.50,,,,,
+"7a271f07-1504-4dd7-ad08-1236e45f0404","D13","COMO","COMO.AOS.reaeration.station.02","2021-08-09T15:44Z",9.60,25.50,,,,,
+"53b8fef0-3873-4898-b7f9-e2eb92a13bf4","D13","COMO","COMO.AOS.reaeration.station.04","2021-08-23T15:26Z",7.80,30.10,,,,,
+"50dec71e-a5de-41ae-8769-dea4264726d3","D13","COMO","COMO.AOS.reaeration.station.03","2021-08-23T15:26Z",7.60,29.50,,,,,
+"c23ce372-09de-4395-8164-0ce3155f58e2","D13","COMO","COMO.AOS.reaeration.station.02","2021-08-23T15:26Z",7.60,29.30,,,,,
+"c0711d66-ef22-4284-a6d2-876a78a52bd8","D13","COMO","COMO.AOS.reaeration.station.01","2021-08-23T15:26Z",7.60,28.90,,,,,

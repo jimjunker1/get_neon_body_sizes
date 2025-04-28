@@ -1,0 +1,3 @@
+uid,domainID,siteID,namedLocation,startDate,stationToInjectionDistance,hoboSampleID
+"d25df4b6-51ae-4899-aae3-ca0cfd6d4979","D16","MCRA","MCRA.AOS.reaeration.station.04","2024-11-05T17:56Z",246.00,"MCRA_S4_20241105"
+"74bf146f-dd69-4bc1-babe-94701c6ef0ca","D16","MCRA","MCRA.AOS.reaeration.station.01","2024-11-05T17:56Z",42.10,"MCRA_S1_20241105"

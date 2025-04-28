@@ -1,0 +1,5 @@
+uid,domainID,siteID,namedLocation,collectDate,waterTemp,specificConductanceRep1,specificConductanceRep2,specificConductanceRep3,specificConductanceRep4,specificConductanceRep5,remarks
+"fc0e9079-d8cf-46c4-a3ae-d15991e7e407","D14","SYCA","SYCA.AOS.reaeration.station.02","2020-03-09T18:02Z",20.00,346.20,,,,,"Vial 6 only has 17ml of air"
+"d2301094-7e0a-4ca9-8a5d-6486bbe06ec5","D14","SYCA","SYCA.AOS.reaeration.station.01","2020-03-09T18:02Z",20.20,345.70,,,,,
+"523e7759-b827-4935-a85c-0822169b4417","D14","SYCA","SYCA.AOS.reaeration.station.03","2020-03-09T18:02Z",19.90,345.70,,,,,
+"a086aa5d-911f-482f-81c9-73c4b9fbabb0","D14","SYCA","SYCA.AOS.reaeration.station.04","2020-03-09T18:02Z",19.80,346.50,,,,,

@@ -1,0 +1,9 @@
+uid,domainID,siteID,namedLocation,collectDate,waterTemp,specificConductanceRep1,specificConductanceRep2,specificConductanceRep3,specificConductanceRep4,specificConductanceRep5,remarks
+"2b6f206d-4ead-4ebb-ac71-99b144f3116a","D15","REDB","REDB.AOS.reaeration.station.04","2017-05-04T16:56Z",,,,,,,
+"d55b4c0d-57be-47f1-af9a-cfc9f2e16521","D15","REDB","REDB.AOS.reaeration.station.02","2017-05-04T16:56Z",,,,,,,
+"fe3aa01e-8af0-4891-83e8-e5eae3a7ddb7","D15","REDB","REDB.AOS.reaeration.station.01","2017-05-04T16:56Z",9.30,514.00,,,,,"Many unevacuated vial from lab. Both Spares used and both spare vials unevacuated. Unevac vials used for samples 1 2 4 5 10 11 12 13 14 17 18 and 19."
+"e8fd40b2-70ad-404b-acec-88c934b362a0","D15","REDB","REDB.AOS.reaeration.station.03","2017-05-04T16:56Z",,,,,,,
+"6ba8e9e0-78c5-4fb6-88c4-391ce6bbda4c","D15","REDB","REDB.AOS.reaeration.station.02","2017-05-18T16:58Z",,,,,,,
+"fca2bed8-b75f-4bc8-b3df-0a6defb31987","D15","REDB","REDB.AOS.reaeration.station.03","2017-05-18T16:58Z",,,,,,,
+"c152cd04-1f02-4943-aaa4-5e0941a3bb21","D15","REDB","REDB.AOS.reaeration.station.01","2017-05-18T16:58Z",6.40,558.00,,,,,
+"c1218a79-928c-434f-b37d-507fff61fe4e","D15","REDB","REDB.AOS.reaeration.station.04","2017-05-18T16:58Z",,,,,,,

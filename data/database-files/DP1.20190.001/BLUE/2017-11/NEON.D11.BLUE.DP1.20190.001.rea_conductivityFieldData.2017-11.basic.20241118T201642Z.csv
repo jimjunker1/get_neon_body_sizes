@@ -1,0 +1,2 @@
+uid,recorduid,domainID,siteID,namedLocation,hoboSampleID,startDate,downloadFileName,downloadFileUrl
+"286f9ee0-47d3-4af4-99a2-ba8c4bd8bfc6","23e16f71-1877-4982-b5a9-cdde7e7789e9","D11","BLUE","BLUE.AOS.reaeration.station.01","BLUE_S1_20171128","2017-11-28T17:00Z","BLUE_S1_20171128_20231101T014453.730Z.csv","https://storage.neonscience.org/neon-os-data/data-frame/BLUE_S1_20171128_20231101T014453.730Z.csv"

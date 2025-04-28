@@ -1,0 +1,5 @@
+uid,domainID,siteID,namedLocation,startDate,stationToInjectionDistance,hoboSampleID
+"a75aa699-82bb-4728-b737-2511d93cbc83","D16","MART","MART.AOS.reaeration.station.01","2019-02-20T19:24Z",48.20,"MART_S1_20190220"
+"3c118a1f-f753-4663-8ce3-2efc298c1a65","D16","MART","MART.AOS.reaeration.station.04","2019-02-20T19:24Z",,"MART_S4_20190220"
+"8c1ff977-7e31-4f76-a431-886849d1bfa6","D16","MART","MART.AOS.reaeration.station.04","2019-02-26T18:14Z",,"MART_S4_20190226"
+"275c6e7c-a94c-469e-8e7b-31cf4ef73353","D16","MART","MART.AOS.reaeration.station.01","2019-02-26T18:14Z",48.20,"MART_S1_20190226"
