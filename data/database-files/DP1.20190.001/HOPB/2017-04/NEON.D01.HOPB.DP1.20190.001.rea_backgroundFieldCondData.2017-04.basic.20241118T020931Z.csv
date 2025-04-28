@@ -1,3 +1,0 @@
-uid,domainID,siteID,namedLocation,startDate,stationToInjectionDistance,hoboSampleID
-"a7e48bb4-efe3-499b-ab98-9d683f57f77d","D01","HOPB","HOPB.AOS.reaeration.station.01","2017-04-10T12:00Z",28.00,"HOPB_S1_20170410"
-"c53c5303-1ada-4258-8f2d-9ed30d0449cf","D01","HOPB","HOPB.AOS.reaeration.station.04","2017-04-10T12:00Z",365.00,"HOPB_S4_20170410"

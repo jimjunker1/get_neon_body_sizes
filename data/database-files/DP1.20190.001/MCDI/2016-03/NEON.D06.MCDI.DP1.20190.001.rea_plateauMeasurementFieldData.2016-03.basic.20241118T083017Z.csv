@@ -1,5 +1,0 @@
-uid,domainID,siteID,namedLocation,collectDate,waterTemp,specificConductanceRep1,specificConductanceRep2,specificConductanceRep3,specificConductanceRep4,specificConductanceRep5,remarks
-"411e34a7-ba39-43bb-b39f-4d3cbe86f596","D06","MCDI","MCDI.AOS.reaeration.station.04","2016-03-03T13:50Z",,,,,,,"malfunctioning probe soconductivity no spec. Cond"
-"5210b98f-ca5e-4994-b4db-a656e616771e","D06","MCDI","MCDI.AOS.reaeration.station.03","2016-03-03T13:50Z",,,,,,,"malfunctioning probe soconductivity no spec. Cond"
-"9f75fd9e-4697-4117-982f-7a687eb6cbcb","D06","MCDI","MCDI.AOS.reaeration.station.01","2016-03-03T13:50Z",11.70,,,,,,"malfunctioning probe soconductivity no spec. Cond"
-"4bf47a72-b218-4045-b0de-f9b4ae5679fb","D06","MCDI","MCDI.AOS.reaeration.station.02","2016-03-03T13:50Z",,,,,,,"malfunctioning probe soconductivity no spec. Cond"

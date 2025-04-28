@@ -1,5 +1,0 @@
-uid,domainID,siteID,namedLocation,collectDate,stationToInjectionDistance,specificConductanceRep1,specificConductanceRep2,specificConductanceRep3,specificConductanceRep4,sampleCollected,saltBackgroundSampleID,saltBackgroundSampleCode,remarks,incompleteExperimentQF
-"948580af-0d3b-4414-94db-aa97bc3b3633","D13","WLOU","WLOU.AOS.reaeration.station.04","2019-09-17T16:50Z",363.00,109.60,105.90,106.80,107.00,"Y","WLOU.B4.20190917.TCR","A00000092795",,
-"a31bfde4-29c9-4429-9afa-1ab811b50ca1","D13","WLOU","WLOU.AOS.reaeration.station.01","2019-09-17T16:50Z",35.00,106.90,106.80,106.30,106.40,"Y","WLOU.B1.20190917.TCR","A00000092792",,
-"5c9bd6d4-9cc8-49c1-967c-07332970409d","D13","WLOU","WLOU.AOS.reaeration.station.02","2019-09-17T16:50Z",145.00,92.60,106.10,106.40,105.50,"Y","WLOU.B2.20190917.TCR","A00000092793",,
-"b5fd2ed2-cb84-4042-a661-3a4377d38f62","D13","WLOU","WLOU.AOS.reaeration.station.03","2019-09-17T16:50Z",254.00,107.60,106.30,107.30,106.40,"Y","WLOU.B3.20190917.TCR","A00000092794",,

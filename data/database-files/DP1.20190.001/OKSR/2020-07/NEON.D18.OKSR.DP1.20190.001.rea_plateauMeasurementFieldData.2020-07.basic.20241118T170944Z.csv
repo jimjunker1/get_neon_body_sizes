@@ -1,9 +1,0 @@
-uid,domainID,siteID,namedLocation,collectDate,waterTemp,specificConductanceRep1,specificConductanceRep2,specificConductanceRep3,specificConductanceRep4,specificConductanceRep5,remarks
-"4d90b1a2-d6dd-4dea-a583-e72f954f4429","D18","OKSR","OKSR.AOS.reaeration.station.02","2020-07-21T19:46Z",8.20,63.40,,,,,
-"df0ea2ef-8089-4906-8f10-9178f81860bb","D18","OKSR","OKSR.AOS.reaeration.station.03","2020-07-21T19:46Z",8.30,63.50,,,,,
-"7bd4f09d-db36-4766-b7f6-94e3f039f703","D18","OKSR","OKSR.AOS.reaeration.station.04","2020-07-21T19:46Z",8.20,63.90,,,,,
-"62aa6fc7-015a-4727-9d99-262ac0f1649b","D18","OKSR","OKSR.AOS.reaeration.station.01","2020-07-21T19:46Z",8.20,63.50,,,,,
-"1cea7c86-2f05-4b13-8998-9d5dea3f5677","D18","OKSR","OKSR.AOS.reaeration.station.04","2020-07-25T18:58Z",9.90,64.80,,,,,
-"92e1eb3b-6321-483c-8336-47dec158b46d","D18","OKSR","OKSR.AOS.reaeration.station.01","2020-07-25T18:58Z",10.10,64.30,,,,,
-"4fbeae98-5f0b-4cb4-b84b-cffc1ba0ac81","D18","OKSR","OKSR.AOS.reaeration.station.03","2020-07-25T18:58Z",10.30,63.60,,,,,
-"3ff350a4-459c-4c00-a6f0-905e7a4b969e","D18","OKSR","OKSR.AOS.reaeration.station.02","2020-07-25T18:58Z",10.30,63.90,,,,,

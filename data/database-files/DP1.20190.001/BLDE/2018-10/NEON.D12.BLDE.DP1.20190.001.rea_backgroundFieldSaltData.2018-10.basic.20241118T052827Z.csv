@@ -1,9 +1,0 @@
-uid,domainID,siteID,namedLocation,collectDate,stationToInjectionDistance,specificConductanceRep1,specificConductanceRep2,specificConductanceRep3,specificConductanceRep4,sampleCollected,saltBackgroundSampleID,saltBackgroundSampleCode,remarks,incompleteExperimentQF
-"5872ba23-e64b-473c-9438-04d94a18a88a","D12","BLDE","BLDE.AOS.reaeration.station.01","2018-10-11T16:31Z",34.00,115.50,114.30,116.60,116.60,"Y","BLDE.B1.20181011.TCR","A00000053803",,
-"2e82cd4f-5584-49b7-874a-ece587f9a24a","D12","BLDE","BLDE.AOS.reaeration.station.02","2018-10-11T16:31Z",148.00,115.40,116.50,116.50,116.50,"Y","BLDE.B2.20181011.TCR","A00000053786",,
-"d585a96c-f64b-4ac8-8bac-20e628b1b16d","D12","BLDE","BLDE.AOS.reaeration.station.04","2018-10-11T16:31Z",405.00,116.00,115.90,116.20,116.30,"Y","BLDE.B4.20181011.TCR","A00000053752",,
-"37cac29f-e112-45f7-977b-256d2158a3aa","D12","BLDE","BLDE.AOS.reaeration.station.03","2018-10-11T16:31Z",260.00,116.40,116.50,116.40,116.50,"Y","BLDE.B3.20181011.TCR","A00000053769",,
-"5d2799d9-7f63-49bd-9121-adf3de8eac8e","D12","BLDE","BLDE.AOS.reaeration.station.04","2018-10-25T17:43Z",405.00,115.50,115.10,115.40,115.30,"Y","BLDE.B4.20181025.TCR","A00000053924",,
-"92477e86-7bf9-420b-8edb-c9511c29bae1","D12","BLDE","BLDE.AOS.reaeration.station.02","2018-10-25T17:43Z",148.00,115.60,115.60,115.40,115.30,"Y","BLDE.B2.20181025.TCR","A00000053926",,
-"04bc09dd-1e01-4946-92d0-d913d379849a","D12","BLDE","BLDE.AOS.reaeration.station.03","2018-10-25T17:43Z",260.00,115.30,115.50,115.50,115.40,"Y","BLDE.B3.20181025.TCR","A00000053923",,
-"f9719830-b12c-41f5-9a94-474ae3254bbb","D12","BLDE","BLDE.AOS.reaeration.station.01","2018-10-25T17:43Z",34.00,115.40,115.50,115.50,115.30,"Y","BLDE.B1.20181025.TCR","A00000053925",,

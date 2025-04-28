@@ -1,6 +1,0 @@
-uid,domainID,siteID,namedLocation,collectDate,waterTemp,specificConductanceRep1,specificConductanceRep2,specificConductanceRep3,specificConductanceRep4,specificConductanceRep5,remarks
-"922f9c20-a2c0-47d5-a0b2-f83c268ee1de","D06","KING","KING.AOS.reaeration.station.04","2015-09-02T15:45Z",18.70,,,,,,"bromide used as tracer"
-"6d3d525d-85d9-4b7c-b9ab-13b486d34fc7","D06","KING","KING.AOS.reaeration.station.01","2015-09-02T15:45Z",16.00,,,,,,"bromide used as tracer"
-"722e652c-f623-4904-8bc9-53a02d0fa623","D06","KING","KING.AOS.reaeration.station.02","2015-09-02T15:45Z",18.40,,,,,,"bromide used as tracer"
-"1eb95742-55a2-4d7e-9d89-6fba2c4ed83b","D06","KING","KING.AOS.reaeration.station.03","2015-09-02T15:45Z",18.50,,,,,,"bromide used as tracer"
-"ff540505-1f69-48bc-b094-59fd9a13bb87","D06","KING","KING.AOS.reaeration.station.01","2015-09-02T15:45Z",15.40,,,,,,

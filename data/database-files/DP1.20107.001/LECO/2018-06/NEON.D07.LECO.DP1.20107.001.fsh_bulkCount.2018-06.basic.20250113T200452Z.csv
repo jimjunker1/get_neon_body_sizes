@@ -1,2 +1,0 @@
-uid,domainID,siteID,namedLocation,passStartTime,passEndTime,boutEndDate,passNumber,eventID,taxonID,scientificName,morphospeciesID,bulkFishCount,actualOrEstimated,identificationQualifier,identificationReferences,identifiedBy,remarks,identificationHistoryID,dataQF,barrierSubReach
-"96d95674-7947-4e8a-8e71-92d41615ed12","D07","LECO","LECO.AOS.fish.point.01","2018-06-05T16:37Z","2018-06-05T17:55Z","2018-06-07T17:20Z",1,"LECO.2018.spring","RHIATR","Rhinichthys atratulus",,9,"actual",,,"pharnage@battelleecology.org",,,,

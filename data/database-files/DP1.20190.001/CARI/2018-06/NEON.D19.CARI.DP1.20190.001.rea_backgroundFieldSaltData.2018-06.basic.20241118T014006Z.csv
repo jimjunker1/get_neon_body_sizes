@@ -1,9 +1,0 @@
-uid,domainID,siteID,namedLocation,collectDate,stationToInjectionDistance,specificConductanceRep1,specificConductanceRep2,specificConductanceRep3,specificConductanceRep4,sampleCollected,saltBackgroundSampleID,saltBackgroundSampleCode,remarks,incompleteExperimentQF
-"0a6a2068-577e-47d0-8b26-d2fc60099ffe","D19","CARI","CARI.AOS.reaeration.station.02","2018-06-20T20:41Z",194.10,82.30,81.70,81.20,80.60,"Y","CARI.B2.20180620.TCR","A00000027690",,
-"4d95e286-f355-4453-96bb-8311ec14e6e9","D19","CARI","CARI.AOS.reaeration.station.04","2018-06-20T20:41Z",369.30,80.30,80.80,79.90,80.70,"Y","CARI.B4.20180620.TCR","A00000027576",,
-"237b429f-efa4-4221-bdf8-e6c67127d6a2","D19","CARI","CARI.AOS.reaeration.station.01","2018-06-20T20:41Z",31.70,81.20,80.00,79.90,80.10,"Y","CARI.B1.20180620.TCR","A00000027722",,
-"5eadc7b4-9a74-4a87-88bc-3ae6b436865b","D19","CARI","CARI.AOS.reaeration.station.03","2018-06-20T20:41Z",312.60,81.30,79.30,80.70,80.60,"Y","CARI.B3.20180620.TCR","A00000027797",,
-"8ea3f6b1-5885-4e3f-8afa-37ac96ed249d","D19","CARI","CARI.AOS.reaeration.station.02","2018-06-28T20:42Z",194.10,76.20,76.10,76.10,76.30,"Y","CARI.B2.20180628.TCR","A00000027661",,
-"eb59653f-5210-442f-94f9-7111e88ebb80","D19","CARI","CARI.AOS.reaeration.station.03","2018-06-28T20:42Z",312.60,76.10,75.60,75.50,75.50,"Y","CARI.B3.20180628.TCR","A00000027545",,
-"8b1b3d48-872b-4210-9ad0-fcd99b5b5542","D19","CARI","CARI.AOS.reaeration.station.04","2018-06-28T20:42Z",369.30,76.20,74.80,75.80,75.80,"Y","CARI.B4.20180628.TCR","A00000027582",,
-"1df72662-cd36-4a48-bc08-c4cd181ea177","D19","CARI","CARI.AOS.reaeration.station.01","2018-06-28T20:42Z",31.70,76.50,74.90,75.00,75.00,"Y","CARI.B1.20180628.TCR","A00000027637",,

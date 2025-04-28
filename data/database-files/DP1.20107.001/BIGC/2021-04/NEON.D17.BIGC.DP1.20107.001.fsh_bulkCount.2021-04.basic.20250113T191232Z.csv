@@ -1,5 +1,0 @@
-uid,domainID,siteID,namedLocation,passStartTime,passEndTime,boutEndDate,passNumber,eventID,taxonID,scientificName,morphospeciesID,bulkFishCount,actualOrEstimated,identificationQualifier,identificationReferences,identifiedBy,remarks,identificationHistoryID,dataQF,barrierSubReach
-"70656481-4519-4b10-bf87-53fbad768fe7","D17","BIGC","BIGC.AOS.fish.point.01","2021-04-19T22:05Z","2021-04-19T22:40Z","2021-04-22T17:10Z",3,"BIGC.2021.spring","SALTRU","Salmo trutta",,8,"actual",,,"0000-0002-5454-7533",,,,
-"b47b3204-1914-4654-953f-20df7611089f","D17","BIGC","BIGC.AOS.fish.point.07","2021-04-21T21:45Z","2021-04-21T22:30Z","2021-04-22T17:10Z",2,"BIGC.2021.spring","SALTRU","Salmo trutta",,11,"actual",,,"0000-0002-5454-7533",,,,
-"c667c086-b145-458d-9ffb-1a2938878499","D17","BIGC","BIGC.AOS.fish.point.07","2021-04-21T23:20Z","2021-04-22T00:05Z","2021-04-22T17:10Z",3,"BIGC.2021.spring","SALTRU","Salmo trutta",,12,"actual",,,"0000-0002-5454-7533",,,,
-"892de456-68a7-4744-8101-e342d4d6f830","D17","BIGC","BIGC.AOS.fish.point.09","2021-04-22T16:20Z","2021-04-22T17:10Z","2021-04-22T17:10Z",1,"BIGC.2021.spring","SALTRU","Salmo trutta",,20,,,,"0000-0002-5454-7533",,,,

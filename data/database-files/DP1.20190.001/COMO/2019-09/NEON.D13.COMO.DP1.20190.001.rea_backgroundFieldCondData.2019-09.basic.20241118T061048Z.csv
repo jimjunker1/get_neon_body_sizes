@@ -1,5 +1,0 @@
-uid,domainID,siteID,namedLocation,startDate,stationToInjectionDistance,hoboSampleID
-"e0eb5d4c-0e0f-4012-bd65-93c73905c2c8","D13","COMO","COMO.AOS.reaeration.station.04","2019-09-16T16:44Z",93.00,"COMO_S4_20190916"
-"31971c06-44fc-445d-a639-6f87b2d99f2a","D13","COMO","COMO.AOS.reaeration.station.01","2019-09-16T16:44Z",10.00,"COMO_S1_20190916"
-"2107aa02-a705-4b97-a057-6a5fe80b6f78","D13","COMO","COMO.AOS.reaeration.station.04","2019-09-30T16:29Z",101.60,"COMO_S4_20190930"
-"d4beef87-75ac-4fa4-a1f8-bb090b34a142","D13","COMO","COMO.AOS.reaeration.station.01","2019-09-30T16:29Z",18.60,"COMO_S1_20190930"

@@ -1,5 +1,0 @@
-uid,domainID,siteID,namedLocation,collectDate,waterTemp,specificConductanceRep1,specificConductanceRep2,specificConductanceRep3,specificConductanceRep4,specificConductanceRep5,remarks
-"2b09f7b8-adbd-4934-b030-74d2f4cf7faf","D08","MAYF","MAYF.AOS.reaeration.station.04","2022-04-06T14:54Z",16.50,18.20,,,,,
-"24efd25c-ce04-4205-972d-c48ed4f6e12e","D08","MAYF","MAYF.AOS.reaeration.station.02","2022-04-06T14:54Z",16.50,18.00,,,,,
-"a94f8e89-b268-4dcc-9f28-fb6608edd1b4","D08","MAYF","MAYF.AOS.reaeration.station.03","2022-04-06T14:54Z",16.50,18.10,,,,,
-"53782c41-759a-4dbd-ac21-a22183c534c6","D08","MAYF","MAYF.AOS.reaeration.station.01","2022-04-06T14:54Z",16.60,18.40,18.00,18.10,18.10,18.10,"Did not shake SF6 gas 1-5 for 5 minutes"

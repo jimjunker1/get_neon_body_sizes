@@ -1,9 +1,0 @@
-uid,domainID,siteID,namedLocation,collectDate,waterTemp,specificConductanceRep1,specificConductanceRep2,specificConductanceRep3,specificConductanceRep4,specificConductanceRep5,remarks
-"2dddf890-7903-47af-9a22-fac9ea6616ce","D13","WLOU","WLOU.AOS.reaeration.station.03","2021-06-14T18:05Z",8.50,60.40,,,,,"sample 15 had too much water after gas was sampled"
-"00aad51e-6ac3-480a-98ee-e8d96be83675","D13","WLOU","WLOU.AOS.reaeration.station.02","2021-06-14T18:05Z",8.40,60.40,,,,,
-"fbcf44e9-0ce0-4bd2-97b7-d99c42b233e8","D13","WLOU","WLOU.AOS.reaeration.station.04","2021-06-14T18:05Z",8.50,60.70,,,,,
-"61725edd-3d25-4ee8-bbe7-c04bcdbfa89f","D13","WLOU","WLOU.AOS.reaeration.station.01","2021-06-14T18:05Z",8.40,57.70,,,,,
-"d85e053c-e9b6-4738-843e-9b9af9bda7b8","D13","WLOU","WLOU.AOS.reaeration.station.02","2021-06-23T15:57Z",7.10,66.20,,,,,
-"a33d7a33-28df-4502-9fa6-271c8189e4b6","D13","WLOU","WLOU.AOS.reaeration.station.04","2021-06-23T15:57Z",7.40,66.60,,,,,
-"f3c175b7-a58f-4f2e-b398-7e9a19534d86","D13","WLOU","WLOU.AOS.reaeration.station.03","2021-06-23T15:57Z",7.30,66.30,,,,,
-"728626fe-9dd8-453f-b855-0521f1ff8cd7","D13","WLOU","WLOU.AOS.reaeration.station.01","2021-06-23T15:57Z",7.00,65.90,,,,,

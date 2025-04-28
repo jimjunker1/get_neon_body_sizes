@@ -1,5 +1,0 @@
-uid,domainID,siteID,namedLocation,startDate,stationToInjectionDistance,hoboSampleID
-"f67d6144-b7ab-423c-bd7d-6778ca7c7b47","D12","BLDE","BLDE.AOS.reaeration.station.04","2018-10-11T16:31Z",405.00,"BLDE_S4_20181011"
-"7c5c1c33-e0c8-4fa0-afc6-f05350dff336","D12","BLDE","BLDE.AOS.reaeration.station.01","2018-10-11T16:31Z",34.00,"BLDE_S1_20181011"
-"6dbaf1b4-e345-44d4-b9c3-623077f96bf1","D12","BLDE","BLDE.AOS.reaeration.station.04","2018-10-25T17:43Z",405.00,"BLDE_S4_20181025"
-"6bd74f48-d601-4534-ad1e-f9bd18d7b0d3","D12","BLDE","BLDE.AOS.reaeration.station.01","2018-10-25T17:43Z",34.00,"BLDE_S1_20181025"

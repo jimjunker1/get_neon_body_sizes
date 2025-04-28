@@ -1,5 +1,0 @@
-uid,domainID,siteID,namedLocation,collectDate,stationToInjectionDistance,specificConductanceRep1,specificConductanceRep2,specificConductanceRep3,specificConductanceRep4,sampleCollected,saltBackgroundSampleID,saltBackgroundSampleCode,remarks,incompleteExperimentQF
-"32e97f2e-ce73-49fa-b51e-cbe247a67f92","D08","MAYF","MAYF.AOS.reaeration.station.02","2018-06-11T15:28Z",47.00,14.00,13.50,13.40,13.50,"Y","MAYF.B2.20180611.TCR","A00000014127",,
-"98e1f340-0a1d-47d4-b317-2764bf987dcd","D08","MAYF","MAYF.AOS.reaeration.station.04","2018-06-11T15:28Z",148.00,13.20,13.80,13.60,13.70,"Y","MAYF.B4.20180611.TCR","A00000014129","Hobo removed from water and replaced within 1 minute at 12:28",
-"a9623be7-7d8e-4199-8701-25c415ae2da6","D08","MAYF","MAYF.AOS.reaeration.station.01","2018-06-11T15:28Z",19.00,13.50,13.50,13.40,13.40,"Y","MAYF.B1.20180611.TCR","A00000014126",,
-"04db64f5-8691-4659-8252-28a83efd091d","D08","MAYF","MAYF.AOS.reaeration.station.03","2018-06-11T15:28Z",100.00,13.50,13.60,13.60,13.60,"Y","MAYF.B3.20180611.TCR","A00000014128",,

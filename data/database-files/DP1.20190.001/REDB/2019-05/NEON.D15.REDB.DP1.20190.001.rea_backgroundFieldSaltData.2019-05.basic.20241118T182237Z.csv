@@ -1,9 +1,0 @@
-uid,domainID,siteID,namedLocation,collectDate,stationToInjectionDistance,specificConductanceRep1,specificConductanceRep2,specificConductanceRep3,specificConductanceRep4,sampleCollected,saltBackgroundSampleID,saltBackgroundSampleCode,remarks,incompleteExperimentQF
-"e296bf2f-ddf4-4201-9e5b-9ea55acc637e","D15","REDB","REDB.AOS.reaeration.station.02","2019-05-14T16:57Z",122.00,520.00,520.00,521.00,521.00,"Y","REDB.B2.20190514.TCR","A00000057745",,
-"f141c0ca-53a4-493f-a539-99aae1bc75d3","D15","REDB","REDB.AOS.reaeration.station.03","2019-05-14T16:57Z",216.00,521.00,521.00,521.00,521.00,"Y","REDB.B3.20190514.TCR","A00000057744",,
-"1acb49fa-7f91-4f0c-85e6-77aa7e6a8a6b","D15","REDB","REDB.AOS.reaeration.station.04","2019-05-14T16:57Z",325.00,519.00,520.00,520.00,520.00,"Y","REDB.B4.20190514.TCR","A00000057743",,
-"c0c58aa7-3503-493f-a9ae-bdc7560045bb","D15","REDB","REDB.AOS.reaeration.station.01","2019-05-14T16:57Z",36.00,520.00,521.00,520.00,521.00,"Y","REDB.B1.20190514.TCR","A00000057746",,
-"41d46726-ccfe-4b4f-a10e-9cb883a32b49","D15","REDB","REDB.AOS.reaeration.station.04","2019-05-29T17:36Z",325.00,,,,,"Y","REDB.B4.20190529.TCR","A00000057846","Incorrect conductivity type recorded_deleted from record for clarity",
-"4c7584e5-eae5-41b6-8a05-dcb00f5fa099","D15","REDB","REDB.AOS.reaeration.station.02","2019-05-29T17:36Z",122.00,,,,,"Y","REDB.B2.20190529.TCR","A00000057848","Incorrect conductivity type recorded_deleted from record for clarity",
-"4c657236-28fb-4c8b-849c-3ee8d537cc85","D15","REDB","REDB.AOS.reaeration.station.01","2019-05-29T17:36Z",36.00,,,,,"Y","REDB.B1.20190529.TCR","A00000057849","Incorrect conductivity type recorded_deleted from record for clarity",
-"a1e0810f-e3d0-4b11-99f7-72dca8a03937","D15","REDB","REDB.AOS.reaeration.station.03","2019-05-29T17:36Z",216.00,,,,,"Y","REDB.B3.20190529.TCR","A00000057847","Incorrect conductivity type recorded_deleted from record for clarity",

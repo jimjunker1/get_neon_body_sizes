@@ -1,3 +1,0 @@
-uid,recorduid,domainID,siteID,namedLocation,hoboSampleID,startDate,downloadFileName,downloadFileUrl
-"ff5ffe1f-4729-41d3-8beb-3aa76fb8fa52","c6d94be9-6e73-4a95-b35e-ff63e9ce6637","D02","LEWI","LEWI.AOS.reaeration.station.01","LEWI_S1_20230809","2023-08-09T13:51Z","LEWI_S1_20230809_20231115T221452.418Z.csv","https://storage.neonscience.org/neon-os-data/data-frame/LEWI_S1_20230809_20231115T221452.418Z.csv"
-"e38fc6a6-aefd-4026-9cb6-a31e93bbfbda","3f90640c-6297-425f-b707-b7838451e8ef","D02","LEWI","LEWI.AOS.reaeration.station.04","LEWI_S4_20230809","2023-08-09T13:51Z","LEWI_S4_20230809_20231101T021515.496Z.csv","https://storage.neonscience.org/neon-os-data/data-frame/LEWI_S4_20230809_20231101T021515.496Z.csv"

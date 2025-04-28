@@ -1,2 +1,0 @@
-uid,domainID,siteID,namedLocation,passStartTime,passEndTime,boutEndDate,passNumber,eventID,taxonID,scientificName,morphospeciesID,bulkFishCount,actualOrEstimated,identificationQualifier,identificationReferences,identifiedBy,remarks,identificationHistoryID,dataQF,barrierSubReach
-"0ed08f78-cc4a-4c5c-86d1-6a9e3a7b2f22","D07","WALK","WALK.AOS.fish.point.05","2021-03-24T12:56Z","2021-03-24T14:11Z","2021-03-24T17:54Z",1,"WALK.2021.spring","RHIATR","Rhinichthys atratulus",,2,"actual",,,"0000-0002-6187-2510",,,,

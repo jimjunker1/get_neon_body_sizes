@@ -1,5 +1,0 @@
-uid,domainID,siteID,namedLocation,collectDate,waterTemp,specificConductanceRep1,specificConductanceRep2,specificConductanceRep3,specificConductanceRep4,specificConductanceRep5,remarks
-"b1929c37-fae9-4f26-a4d8-886ec9543a30","D06","MCDI","MCDI.AOS.reaeration.station.02","2016-08-11T08:30Z",,,,,,,"YSI malfuntioning no field measurements"
-"d867719f-6a4f-471b-b2ca-872fcadb6819","D06","MCDI","MCDI.AOS.reaeration.station.01","2016-08-11T08:30Z",,,,,,,"YSI malfuntioning no field measurements"
-"beccad51-1094-4770-a451-3a8bba0f239c","D06","MCDI","MCDI.AOS.reaeration.station.03","2016-08-11T08:30Z",,,,,,,"YSI malfuntioning no field measurements"
-"c7d911ec-9c0f-43b0-8eab-89d774367741","D06","MCDI","MCDI.AOS.reaeration.station.04","2016-08-11T08:30Z",,,,,,,"YSI malfuntioning no field measurements"

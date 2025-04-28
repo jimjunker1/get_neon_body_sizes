@@ -1,5 +1,0 @@
-uid,domainID,siteID,namedLocation,collectDate,stationToInjectionDistance,specificConductanceRep1,specificConductanceRep2,specificConductanceRep3,specificConductanceRep4,sampleCollected,saltBackgroundSampleID,saltBackgroundSampleCode,remarks,incompleteExperimentQF
-"6ce688a9-9284-47fa-8ed6-8eaf768142bc","D06","MCDI","MCDI.AOS.reaeration.station.02","2016-03-03T13:50Z",60.00,,,,,"Y","MCDI.B2.20160303.TCR",,"riffle; not spec. Cond due to malfuntioning probe","externalLabSaltSampleDataNA"
-"033fa5df-dc91-4b64-9948-c6250837d023","D06","MCDI","MCDI.AOS.reaeration.station.01","2016-03-03T13:50Z",30.00,,,,,"Y","MCDI.B1.20160303.TCR",,"riffle; not spec. Cond due to malfuntioning probe","externalLabSaltSampleDataNA"
-"a89b9552-94e0-4854-a43d-febfb8685337","D06","MCDI","MCDI.AOS.reaeration.station.04","2016-03-03T13:50Z",120.00,,,,,"Y","MCDI.B4.20160303.TCR",,"riffle; not spec. Cond due to malfuntioning probe","externalLabSaltSampleDataNA"
-"76d11e63-b62e-4e25-bf47-e660b834dcdf","D06","MCDI","MCDI.AOS.reaeration.station.03","2016-03-03T13:50Z",90.00,,,,,"Y","MCDI.B3.20160303.TCR",,"riffle; not spec. Cond due to malfuntioning probe","externalLabSaltSampleDataNA"

@@ -1,3 +1,0 @@
-uid,recorduid,domainID,siteID,namedLocation,hoboSampleID,startDate,downloadFileName,downloadFileUrl
-"754f9e76-4ff7-44ea-a88f-6c3203c55bcb","7338f161-8eea-432c-b19a-8c1f661aa5c7","D10","ARIK","ARIK.AOS.reaeration.station.01","ARIK_S1_20190604","2019-06-04T23:30Z","ARIK_S1_20190604_20231101T015837.425Z.csv","https://storage.neonscience.org/neon-os-data/data-frame/ARIK_S1_20190604_20231101T015837.425Z.csv"
-"49188170-bb47-4969-9f6a-52973cfc38fa","9effed0e-7f8b-4bb4-bc87-358df325083c","D10","ARIK","ARIK.AOS.reaeration.station.04","ARIK_S4_20190604","2019-06-04T23:30Z","ARIK_S4_20190604_20231101T015835.508Z.csv","https://storage.neonscience.org/neon-os-data/data-frame/ARIK_S4_20190604_20231101T015835.508Z.csv"

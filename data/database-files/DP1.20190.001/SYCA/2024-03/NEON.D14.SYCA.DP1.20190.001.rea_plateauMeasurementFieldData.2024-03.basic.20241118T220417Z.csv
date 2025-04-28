@@ -1,9 +1,0 @@
-uid,domainID,siteID,namedLocation,collectDate,waterTemp,specificConductanceRep1,specificConductanceRep2,specificConductanceRep3,specificConductanceRep4,specificConductanceRep5,remarks
-"567efbb4-16ad-431f-a436-d813ce848416","D14","SYCA","SYCA.AOS.reaeration.station.02","2024-03-13T15:54Z",20.20,448.50,,,,,
-"6e5d676b-e9aa-46bb-abef-35b304a43470","D14","SYCA","SYCA.AOS.reaeration.station.03","2024-03-13T15:54Z",20.50,447.40,,,,,
-"d581a94c-b58f-471f-9dd5-084255928139","D14","SYCA","SYCA.AOS.reaeration.station.01","2024-03-13T15:54Z",19.80,448.30,,,,,
-"b2550bef-8a7f-4b60-8429-30446031aff2","D14","SYCA","SYCA.AOS.reaeration.station.04","2024-03-13T15:54Z",20.60,447.80,,,,,
-"893f0996-510f-4207-b05c-2675ed9c23ea","D14","SYCA","SYCA.AOS.reaeration.station.01","2024-03-19T16:29Z",17.20,290.00,,,,,
-"cefd7c2b-9eda-477e-8da8-11c896c0f4c5","D14","SYCA","SYCA.AOS.reaeration.station.02","2024-03-19T16:29Z",17.70,292.90,,,,,
-"c320f380-05d1-45b4-8db0-f09ad4de18a5","D14","SYCA","SYCA.AOS.reaeration.station.03","2024-03-19T16:29Z",18.10,293.90,,,,,
-"6f9375db-c14a-437e-b8b2-7457be1d9018","D14","SYCA","SYCA.AOS.reaeration.station.04","2024-03-19T16:29Z",18.50,294.50,,,,,"Vial 18 had slight liquid intrusion"

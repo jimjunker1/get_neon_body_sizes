@@ -1,5 +1,0 @@
-uid,domainID,siteID,namedLocation,startDate,stationToInjectionDistance,hoboSampleID
-"00031651-41a8-40a3-a6c0-359011726efb","D04","GUIL","GUIL.AOS.reaeration.station.01","2015-01-08T13:50Z",,"GUIL_S1_20150108"
-"b034224d-f8b6-4121-a47a-ec75926e680b","D04","GUIL","GUIL.AOS.reaeration.station.04","2015-01-08T13:50Z",,"GUIL_S4_20150108"
-"f69ec10a-69be-4f91-afa2-009d32bfb208","D04","GUIL","GUIL.AOS.reaeration.station.01","2015-01-29T14:15Z",,"GUIL_S1_20150129"
-"0b862066-f977-4999-94e8-d076254346e1","D04","GUIL","GUIL.AOS.reaeration.station.04","2015-01-29T14:15Z",,"GUIL_S4_20150129"

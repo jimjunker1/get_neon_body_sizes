@@ -1,5 +1,0 @@
-uid,domainID,siteID,namedLocation,collectDate,waterTemp,specificConductanceRep1,specificConductanceRep2,specificConductanceRep3,specificConductanceRep4,specificConductanceRep5,remarks
-"a339bf0e-b1b3-4b64-80f7-e38c956e97ed","D16","MCRA","MCRA.AOS.reaeration.station.04","2017-05-01T18:00Z",4.40,28.30,,,,,
-"e8f788b2-09a3-4a49-8ff6-5b449745c5dd","D16","MCRA","MCRA.AOS.reaeration.station.02","2017-05-01T18:00Z",4.30,28.00,,,,,
-"1d107292-a6fa-4cf2-b7e3-a9c24317443e","D16","MCRA","MCRA.AOS.reaeration.station.03","2017-05-01T18:00Z",4.40,28.10,,,,,
-"a69fd9ca-ff8a-499f-80cb-19b4e0927839","D16","MCRA","MCRA.AOS.reaeration.station.01","2017-05-01T18:00Z",4.30,31.80,29.70,29.50,29.00,26.70,"Poor mixing. Drip station moved for next bout."

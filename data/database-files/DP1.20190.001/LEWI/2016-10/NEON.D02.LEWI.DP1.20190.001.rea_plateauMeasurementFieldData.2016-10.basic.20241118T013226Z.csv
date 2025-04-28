@@ -1,6 +1,0 @@
-uid,domainID,siteID,namedLocation,collectDate,waterTemp,specificConductanceRep1,specificConductanceRep2,specificConductanceRep3,specificConductanceRep4,specificConductanceRep5,remarks
-"937b8f2b-3394-452b-a8b6-30ac3cde59b9","D02","LEWI","LEWI.AOS.reaeration.station.03","2016-10-11T08:11Z",10.40,628.00,629.00,625.00,622.00,624.00,
-"04584f2a-52dc-42c6-9cba-d8c791d0f167","D02","LEWI","LEWI.AOS.reaeration.station.04","2016-10-11T08:11Z",10.40,628.00,629.00,625.00,622.00,624.00,
-"12eee397-15d0-48fe-8b6a-f98c30ee1a36","D02","LEWI","LEWI.AOS.reaeration.station.01","2016-10-11T08:11Z",10.40,628.00,629.00,625.00,622.00,624.00,"drip rate slowed because some leaf debris clogged the pump inlet tubing. It looked like about half of the 40L was used."
-"029a526f-690e-474a-bf86-c5ff30ac6515","D02","LEWI","LEWI.AOS.reaeration.station.01","2016-10-11T08:11Z",10.40,628.00,629.00,625.00,622.00,624.00,
-"67d38a56-fe7b-4e4e-8d99-9f97538f593b","D02","LEWI","LEWI.AOS.reaeration.station.02","2016-10-11T08:11Z",10.40,628.00,629.00,625.00,622.00,624.00,

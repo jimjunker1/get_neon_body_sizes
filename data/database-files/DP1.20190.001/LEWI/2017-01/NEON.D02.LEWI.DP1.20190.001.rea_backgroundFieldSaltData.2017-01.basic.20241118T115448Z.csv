@@ -1,5 +1,0 @@
-uid,domainID,siteID,namedLocation,collectDate,stationToInjectionDistance,specificConductanceRep1,specificConductanceRep2,specificConductanceRep3,specificConductanceRep4,sampleCollected,saltBackgroundSampleID,saltBackgroundSampleCode,remarks,incompleteExperimentQF
-"ff153308-7f66-40f8-9dce-da58c8388c5d","D02","LEWI","LEWI.AOS.reaeration.station.01","2017-01-19T08:21Z",10.90,521.00,516.00,523.00,526.00,"Y","LEWI.B1.20170119.TCR",,"this sample was spilled. Only a few mL remain and probably is not enough to run at the lab",
-"09989e7a-9401-4a82-8c0e-9f9903aeec03","D02","LEWI","LEWI.AOS.reaeration.station.02","2017-01-19T08:21Z",85.90,526.00,524.00,526.00,525.00,"Y","LEWI.B2.20170119.TCR",,,
-"f846c4bb-178a-4bac-850e-ac4f529a7cd0","D02","LEWI","LEWI.AOS.reaeration.station.04","2017-01-19T08:21Z",244.90,525.00,525.00,526.00,526.00,"Y","LEWI.B4.20170119.TCR",,,
-"46dcc7b6-e93e-4fa9-88e4-3a7236a1f6d7","D02","LEWI","LEWI.AOS.reaeration.station.03","2017-01-19T08:21Z",160.90,526.00,524.00,526.00,526.00,"Y","LEWI.B3.20170119.TCR",,,

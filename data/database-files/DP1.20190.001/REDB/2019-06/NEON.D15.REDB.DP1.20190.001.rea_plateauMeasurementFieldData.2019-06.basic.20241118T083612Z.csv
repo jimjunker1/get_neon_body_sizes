@@ -1,9 +1,0 @@
-uid,domainID,siteID,namedLocation,collectDate,waterTemp,specificConductanceRep1,specificConductanceRep2,specificConductanceRep3,specificConductanceRep4,specificConductanceRep5,remarks
-"1d39bf7f-5b1c-45aa-b62a-c166be2c8c0e","D15","REDB","REDB.AOS.reaeration.station.03","2019-06-03T16:43Z",9.30,527.00,,,,,"Sample 12 leaked gas when syringe stuck in vial."
-"71b2fbe3-e487-44cf-86f8-9bdf1d96255f","D15","REDB","REDB.AOS.reaeration.station.02","2019-06-03T16:43Z",9.20,527.00,,,,,
-"183f69d9-0002-471d-a0c8-d7e4682e8349","D15","REDB","REDB.AOS.reaeration.station.01","2019-06-03T16:43Z",9.10,527.00,,,,,
-"1dd06cc9-4b5c-424f-ba79-c35a6ae9009c","D15","REDB","REDB.AOS.reaeration.station.04","2019-06-03T16:43Z",9.40,526.00,,,,,
-"6d3d28b9-bda3-476f-af23-80ddd4a9b2a9","D15","REDB","REDB.AOS.reaeration.station.01","2019-06-17T16:20Z",9.80,563.00,,,,,
-"a7d845c4-1f94-43ea-970f-173639edcc14","D15","REDB","REDB.AOS.reaeration.station.04","2019-06-17T16:20Z",10.20,560.00,,,,,
-"da5e30ed-5fae-4cb6-b989-631e1366a801","D15","REDB","REDB.AOS.reaeration.station.03","2019-06-17T16:20Z",10.10,562.00,,,,,
-"a1b8a02f-04a5-4598-8d67-48dd53446aee","D15","REDB","REDB.AOS.reaeration.station.02","2019-06-17T16:20Z",10.00,564.00,,,,,

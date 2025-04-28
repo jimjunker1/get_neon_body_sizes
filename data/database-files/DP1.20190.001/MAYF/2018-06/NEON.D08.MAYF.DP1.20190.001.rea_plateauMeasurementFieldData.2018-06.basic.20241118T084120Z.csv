@@ -1,5 +1,0 @@
-uid,domainID,siteID,namedLocation,collectDate,waterTemp,specificConductanceRep1,specificConductanceRep2,specificConductanceRep3,specificConductanceRep4,specificConductanceRep5,remarks
-"f9cf1de5-f86f-4565-95d6-9e152223a6a5","D08","MAYF","MAYF.AOS.reaeration.station.01","2018-06-11T15:28Z",22.80,38.20,38.40,25.10,18.60,18.90,"Hose came out of injectate after plateau and was repositioned. Later the bucket with injectate tipped over after station 1 samples were taken. Plateau samples were collected at each station immediately afterwards"
-"9ee37e59-42fc-4cef-b1ac-e89fb8b1b4ea","D08","MAYF","MAYF.AOS.reaeration.station.02","2018-06-11T15:28Z",35.30,34.90,,,,,
-"d96a8ae5-999e-4ea5-9ce5-d7ff23f5e4a1","D08","MAYF","MAYF.AOS.reaeration.station.04","2018-06-11T15:28Z",22.90,32.90,,,,,
-"3d937a84-23d8-4e19-9aea-b8fcae285393","D08","MAYF","MAYF.AOS.reaeration.station.03","2018-06-11T15:28Z",22.80,34.00,,,,,

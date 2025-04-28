@@ -1,5 +1,0 @@
-uid,domainID,siteID,namedLocation,collectDate,stationToInjectionDistance,specificConductanceRep1,specificConductanceRep2,specificConductanceRep3,specificConductanceRep4,sampleCollected,saltBackgroundSampleID,saltBackgroundSampleCode,remarks,incompleteExperimentQF
-"2117ef09-e80d-444a-a733-3f7f8f0f1004","D07","WALK","WALK.AOS.reaeration.station.01","2017-04-24T12:19Z",29.00,76.60,74.70,72.10,72.10,"Y","WALK.B1.20170424.TCR",,"Not mixed from two streams",
-"b0dba0cb-b4d7-4466-b088-0d53e556707b","D07","WALK","WALK.AOS.reaeration.station.04","2017-04-24T12:19Z",139.00,77.10,76.50,76.70,76.60,"Y","WALK.B4.20170424.TCR",,,
-"eee65afe-b2bc-4b4f-849e-5f896442db72","D07","WALK","WALK.AOS.reaeration.station.03","2017-04-24T12:19Z",99.00,75.70,75.10,75.20,75.20,"Y","WALK.B3.20170424.TCR",,,
-"803c0a39-c831-49f5-aa73-8c9504123d27","D07","WALK","WALK.AOS.reaeration.station.02","2017-04-24T12:19Z",68.00,77.80,76.10,74.30,74.90,"Y","WALK.B2.20170424.TCR",,"Very high flows",

@@ -1,3 +1,0 @@
-uid,recorduid,domainID,siteID,namedLocation,hoboSampleID,startDate,downloadFileName,downloadFileUrl
-"17236851-5aea-4191-ad01-1edac952bf61","fa16f4c4-be66-4b19-9225-e5267a5c61b8","D08","MAYF","MAYF.AOS.reaeration.station.01","MAYF_S1_20150121","2015-01-21T16:55Z","MAYF_S1_20150121_20231101T013812.237Z.csv","https://storage.neonscience.org/neon-os-data/data-frame/MAYF_S1_20150121_20231101T013812.237Z.csv"
-"f515cec2-6a40-409c-a8ad-a99b01e10b64","1b085fa5-c155-4c95-bfb6-e1d99ad00098","D08","MAYF","MAYF.AOS.reaeration.station.04","MAYF_S4_20150121","2015-01-21T16:55Z","MAYF_S4_20150121_20231101T013617.341Z.csv","https://storage.neonscience.org/neon-os-data/data-frame/MAYF_S4_20150121_20231101T013617.341Z.csv"

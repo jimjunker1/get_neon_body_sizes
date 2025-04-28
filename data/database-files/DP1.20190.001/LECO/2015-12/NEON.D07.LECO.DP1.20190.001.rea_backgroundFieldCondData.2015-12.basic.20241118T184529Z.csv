@@ -1,5 +1,0 @@
-uid,domainID,siteID,namedLocation,startDate,stationToInjectionDistance,hoboSampleID
-"eda18e2a-44fb-40c1-9af2-1ccb76ad1ca4","D07","LECO","LECO.AOS.reaeration.station.04","2015-12-07T17:20Z",,"LECO_S4_20151207"
-"3c3a128c-510e-404e-97ef-b67b10d7e3ed","D07","LECO","LECO.AOS.reaeration.station.01","2015-12-07T17:20Z",,"LECO_S1_20151207"
-"1cd53979-0fd4-45cf-96eb-dcfa2a128456","D07","LECO","LECO.AOS.reaeration.station.01","2015-12-15T15:50Z",,"LECO_S1_20151215"
-"5ebdb6a7-4950-4834-b8de-5a1662552e9a","D07","LECO","LECO.AOS.reaeration.station.04","2015-12-15T15:50Z",,"LECO_S4_20151215"

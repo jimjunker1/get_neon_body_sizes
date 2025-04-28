@@ -1,9 +1,0 @@
-uid,domainID,siteID,namedLocation,collectDate,waterTemp,specificConductanceRep1,specificConductanceRep2,specificConductanceRep3,specificConductanceRep4,specificConductanceRep5,remarks
-"61e7f459-c365-4533-a768-4fb769dfc0d1","D14","SYCA","SYCA.AOS.reaeration.station.04","2019-04-17T14:55Z",22.70,433.60,,,,,
-"414cb080-5f7f-4007-aa58-ac38ad31d8cd","D14","SYCA","SYCA.AOS.reaeration.station.03","2019-04-17T14:55Z",22.50,435.10,,,,,
-"ff0c1d64-a281-45a0-9f82-c524c3f8e2ff","D14","SYCA","SYCA.AOS.reaeration.station.02","2019-04-17T14:55Z",22.40,435.00,,,,,
-"f449e9b3-b68a-47e1-9b46-a1476dc45802","D14","SYCA","SYCA.AOS.reaeration.station.01","2019-04-17T14:55Z",22.00,436.00,,,,,
-"feb0dc2e-0168-4405-bcad-0d0e79b6c19a","D14","SYCA","SYCA.AOS.reaeration.station.02","2019-04-30T15:57Z",22.20,493.00,,,,,
-"ddc5218f-e9ee-4aea-998d-1c33e4205c0e","D14","SYCA","SYCA.AOS.reaeration.station.03","2019-04-30T15:57Z",21.90,493.00,,,,,
-"f93301f8-9679-40a3-806e-bce015f984b7","D14","SYCA","SYCA.AOS.reaeration.station.01","2019-04-30T15:57Z",22.20,491.00,,,,,
-"e675e06a-a02f-47b2-8197-47334965063e","D14","SYCA","SYCA.AOS.reaeration.station.04","2019-04-30T15:57Z",21.60,493.00,,,,,

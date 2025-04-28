@@ -1,9 +1,0 @@
-uid,domainID,siteID,namedLocation,collectDate,waterTemp,specificConductanceRep1,specificConductanceRep2,specificConductanceRep3,specificConductanceRep4,specificConductanceRep5,remarks
-"df46b3c6-bba4-4dbd-a56e-2a9ab499d1d7","D16","MCRA","MCRA.AOS.reaeration.station.03","2020-02-06T17:41Z",4.10,20.60,,,,,
-"699a2a34-bbc1-4a73-a2d0-76e44c3ac583","D16","MCRA","MCRA.AOS.reaeration.station.02","2020-02-06T17:41Z",4.00,20.20,,,,,
-"0a772c4c-dbd2-4db8-aed0-5e7abd459463","D16","MCRA","MCRA.AOS.reaeration.station.01","2020-02-06T17:41Z",4.00,20.10,,,,,
-"15ea261b-d830-4c3b-a0bd-4785c3a69fce","D16","MCRA","MCRA.AOS.reaeration.station.04","2020-02-06T17:41Z",4.10,20.70,,,,,
-"9c906e83-18db-4fff-9b5c-b6f6634d902c","D16","MCRA","MCRA.AOS.reaeration.station.04","2020-02-14T17:27Z",3.70,22.10,,,,,
-"d42d6437-499f-46f6-bd48-cf1e18e0b562","D16","MCRA","MCRA.AOS.reaeration.station.02","2020-02-14T17:27Z",3.60,22.20,,,,,
-"9f64f736-46ff-4577-bf6d-fa5c40719947","D16","MCRA","MCRA.AOS.reaeration.station.01","2020-02-14T17:27Z",3.60,21.80,,,,,
-"ec054971-72f9-4721-a049-0a9e6624cc92","D16","MCRA","MCRA.AOS.reaeration.station.03","2020-02-14T17:27Z",3.80,23.10,,,,,

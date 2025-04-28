@@ -1,5 +1,0 @@
-uid,domainID,siteID,namedLocation,collectDate,stationToInjectionDistance,specificConductanceRep1,specificConductanceRep2,specificConductanceRep3,specificConductanceRep4,sampleCollected,saltBackgroundSampleID,saltBackgroundSampleCode,remarks,incompleteExperimentQF
-"835ad115-eb39-462e-9ee4-5fe6ae676d76","D17","TECR","TECR.AOS.reaeration.station.02","2019-08-19T20:22Z",86.00,27.70,27.60,27.70,27.60,"Y","TECR.B2.20190819.TCR","A00000097258",,
-"a292e284-d2f3-483f-9c47-64090ddcc1a4","D17","TECR","TECR.AOS.reaeration.station.03","2019-08-19T20:22Z",161.00,27.60,27.50,27.60,27.70,"Y","TECR.B3.20190819.TCR","A00000097259",,
-"c891eb1d-3bd1-4918-8311-d62fbcd91643","D17","TECR","TECR.AOS.reaeration.station.04","2019-08-19T20:22Z",220.00,27.50,27.60,27.50,27.70,"Y","TECR.B4.20190819.TCR","A00000097260",,
-"918a6b91-71d4-4807-9070-ab2dbe2e54d6","D17","TECR","TECR.AOS.reaeration.station.01","2019-08-19T20:22Z",20.00,27.50,27.60,27.60,27.40,"Y","TECR.B1.20190819.TCR","A00000097257",,

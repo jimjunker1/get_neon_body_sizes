@@ -1,3 +1,0 @@
-uid,domainID,siteID,namedLocation,passStartTime,passEndTime,boutEndDate,passNumber,eventID,taxonID,scientificName,morphospeciesID,bulkFishCount,actualOrEstimated,identificationQualifier,identificationReferences,identifiedBy,remarks,identificationHistoryID,dataQF,barrierSubReach
-"3590f0eb-a5a1-41af-a4a7-3a1187a493e3","D17","BIGC","BIGC.AOS.fish.point.04","2018-10-17T16:03Z","2018-10-17T17:15Z","2018-10-18T21:03Z",1,"BIGC.2018.fall","SALTRU","Salmo trutta",,12,"actual",,,"ecrandall@battelleecology.org",,,,
-"3f4ff92f-2e88-46ca-9756-29a612892f52","D17","BIGC","BIGC.AOS.fish.point.07","2018-10-18T15:35Z","2018-10-18T16:45Z","2018-10-18T21:03Z",1,"BIGC.2018.fall","SALTRU","Salmo trutta",,11,"actual",,,"ecrandall@battelleecology.org",,,,

@@ -1,5 +1,0 @@
-uid,domainID,siteID,namedLocation,startDate,stationToInjectionDistance,hoboSampleID
-"0fd26a07-13e1-4e81-869d-4f5bae93f083","D02","POSE","POSE.AOS.reaeration.station.01","2024-10-07T17:10Z",12.10,"POSE_S1_20241007"
-"74c7544f-c2f0-4d58-9f92-8bfe271d0b5b","D02","POSE","POSE.AOS.reaeration.station.04","2024-10-07T17:10Z",110.00,"POSE_S4_20241007"
-"28746559-a53b-4b95-907f-82296ebbc766","D02","POSE","POSE.AOS.reaeration.station.04","2024-10-08T13:59Z",110.00,"POSE_S4_20241008"
-"d348efad-964d-46da-abdf-e7f729e4d5ef","D02","POSE","POSE.AOS.reaeration.station.01","2024-10-08T13:59Z",12.10,"POSE_S1_20241008"

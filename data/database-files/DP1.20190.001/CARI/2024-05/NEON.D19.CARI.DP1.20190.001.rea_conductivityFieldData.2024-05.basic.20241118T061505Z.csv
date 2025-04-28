@@ -1,3 +1,0 @@
-uid,recorduid,domainID,siteID,namedLocation,hoboSampleID,startDate,downloadFileName,downloadFileUrl
-"1126c965-5c40-4d08-b47f-6e639441a4c2","306afe11-1a53-4bd5-9e50-d8753b66248d","D19","CARI","CARI.AOS.reaeration.station.01","CARI_S1_20240524","2024-05-24T19:58Z","CARI_S1_20240524_20240622T010355.599Z.csv","https://storage.neonscience.org/neon-os-data/data-frame/CARI_S1_20240524_20240622T010355.599Z.csv"
-"ff3db6f4-cddf-4a55-8871-dced397751c9","54ffe27a-25e1-4ee0-a480-56590af33a28","D19","CARI","CARI.AOS.reaeration.station.04","CARI_S4_20240524","2024-05-24T19:58Z","CARI_S4_20240524_20240622T010357.358Z.csv","https://storage.neonscience.org/neon-os-data/data-frame/CARI_S4_20240524_20240622T010357.358Z.csv"

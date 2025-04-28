@@ -1,5 +1,0 @@
-uid,domainID,siteID,namedLocation,collectDate,waterTemp,specificConductanceRep1,specificConductanceRep2,specificConductanceRep3,specificConductanceRep4,specificConductanceRep5,remarks
-"312696fa-f293-45c5-816b-157650d93f55","D08","MAYF","MAYF.AOS.reaeration.station.01","2023-08-29T15:24Z",24.20,21.70,21.30,21.20,21.50,21.40,"Note the pump battery was changed at 12:22 and at that time the pump rate was 60"
-"4f8d03f5-40e6-4aae-b133-569a75f4b9b2","D08","MAYF","MAYF.AOS.reaeration.station.03","2023-08-29T15:24Z",24.30,22.00,22.10,22.00,22.00,22.00,
-"99a02ebb-c48f-46d6-ba57-a2b2a5bd2611","D08","MAYF","MAYF.AOS.reaeration.station.02","2023-08-29T15:24Z",24.20,22.20,22.10,22.10,22.10,22.20,
-"3273ed0a-ac7b-4fd7-bade-9eab58fc7709","D08","MAYF","MAYF.AOS.reaeration.station.04","2023-08-29T15:24Z",24.30,21.90,22.00,22.20,22.00,22.20,

@@ -1,7 +1,0 @@
-uid,domainID,siteID,namedLocation,collectDate,waterTemp,specificConductanceRep1,specificConductanceRep2,specificConductanceRep3,specificConductanceRep4,specificConductanceRep5,remarks
-"ec210095-9bd7-4b2b-bf37-e4fe1f144e52","D11","PRIN","PRIN.AOS.reaeration.station.01","2016-02-18T11:20Z",16.40,1000.00,1013.00,1005.00,1007.00,1000.00,"Possibly compromised due to twisted cap on vial"
-"35d2f33d-bcba-447d-88a8-310c5fe8b5fd","D11","PRIN","PRIN.AOS.reaeration.station.04","2016-02-18T11:20Z",16.10,1000.00,1013.00,1005.00,1007.00,1000.00,
-"63feecb2-e6cb-46dd-b6ae-966131d4bdaa","D11","PRIN","PRIN.AOS.reaeration.station.02","2016-02-18T11:20Z",16.00,1000.00,1013.00,1005.00,1007.00,1000.00,
-"bce3a636-56e4-4c2b-b435-e1c7a2257102","D11","PRIN","PRIN.AOS.reaeration.station.01","2016-02-18T11:20Z",16.40,1000.00,1013.00,1005.00,1007.00,1000.00,
-"a8db5484-1b20-400b-884d-76b697c660f6","D11","PRIN","PRIN.AOS.reaeration.station.03","2016-02-18T11:20Z",16.10,1000.00,1013.00,1005.00,1007.00,1000.00,
-"6364fd13-4bd1-4cfd-960b-08d1c4e88429","D11","PRIN","PRIN.AOS.reaeration.station.01","2016-02-18T11:20Z",16.40,1000.00,1013.00,1005.00,1007.00,1000.00,"Some water sample in vacutainer vial"

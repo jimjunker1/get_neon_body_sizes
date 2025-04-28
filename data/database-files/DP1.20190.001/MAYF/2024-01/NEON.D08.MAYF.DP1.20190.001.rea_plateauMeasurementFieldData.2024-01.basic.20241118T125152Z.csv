@@ -1,5 +1,0 @@
-uid,domainID,siteID,namedLocation,collectDate,waterTemp,specificConductanceRep1,specificConductanceRep2,specificConductanceRep3,specificConductanceRep4,specificConductanceRep5,remarks
-"7afc539d-0754-42f7-95d8-78d1afc3fdbc","D08","MAYF","MAYF.AOS.reaeration.station.01","2024-01-22T17:17Z",3.50,30.70,30.80,31.60,29.50,31.10,"Pump Battery changed at 12:45"
-"5ff83d96-0d00-4994-ab0d-65dfb191681b","D08","MAYF","MAYF.AOS.reaeration.station.03","2024-01-22T17:17Z",0.60,29.40,29.50,29.50,29.40,29.40,
-"c786f127-ea52-4861-bd1a-207936fe1710","D08","MAYF","MAYF.AOS.reaeration.station.02","2024-01-22T17:17Z",3.60,29.50,29.60,29.50,29.70,29.60,
-"aa1648ad-5b6d-4e08-8548-684a782300c0","D08","MAYF","MAYF.AOS.reaeration.station.04","2024-01-22T17:17Z",3.70,28.90,29.00,29.20,29.10,29.20,"Salt bucket was tipped over when returning from collecting plateau samples 1:41"

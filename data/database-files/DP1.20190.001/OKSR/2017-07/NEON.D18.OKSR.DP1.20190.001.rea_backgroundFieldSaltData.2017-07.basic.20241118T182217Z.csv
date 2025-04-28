@@ -1,9 +1,0 @@
-uid,domainID,siteID,namedLocation,collectDate,stationToInjectionDistance,specificConductanceRep1,specificConductanceRep2,specificConductanceRep3,specificConductanceRep4,sampleCollected,saltBackgroundSampleID,saltBackgroundSampleCode,remarks,incompleteExperimentQF
-"53e5613d-293c-49fb-82ae-8a03e29d20f6","D18","OKSR","OKSR.AOS.reaeration.station.02","2017-07-07T20:11Z",108.00,51.20,51.30,51.10,51.10,"Y","OKSR.B2.20170707.TCR",,,
-"43f1f986-1753-4913-9da3-8862da573f10","D18","OKSR","OKSR.AOS.reaeration.station.01","2017-07-07T20:11Z",18.00,51.30,51.30,51.20,51.20,"Y","OKSR.B1.20170707.TCR",,,
-"c9d6d51c-c0b0-4949-b4c3-daef990ace52","D18","OKSR","OKSR.AOS.reaeration.station.03","2017-07-07T20:11Z",207.50,51.00,51.00,51.20,51.10,"Y","OKSR.B3.20170707.TCR",,,
-"4ceac124-4638-4dbe-b83a-5d0a2aeae558","D18","OKSR","OKSR.AOS.reaeration.station.04","2017-07-07T20:11Z",382.00,51.70,51.50,51.80,51.80,"Y","OKSR.B4.20170707.TCR",,,
-"8e37cd56-eb0d-48ba-9f29-f09a7247def6","D18","OKSR","OKSR.AOS.reaeration.station.03","2017-07-21T19:19Z",232.50,32.60,32.90,33.00,32.80,"Y","OKSR.B3.20170721.TCR",,,
-"04097def-309c-453f-afe5-6d2a6df34984","D18","OKSR","OKSR.AOS.reaeration.station.02","2017-07-21T19:19Z",148.00,33.30,33.50,33.20,33.30,"Y","OKSR.B2.20170721.TCR",,,
-"38eb482b-699c-4594-af35-d66c0d1fcdac","D18","OKSR","OKSR.AOS.reaeration.station.04","2017-07-21T19:19Z",380.40,33.20,33.30,32.30,33.20,"Y","OKSR.B4.20170721.TCR",,,
-"f76c035f-a75e-447c-8ad7-202a182e223f","D18","OKSR","OKSR.AOS.reaeration.station.01","2017-07-21T19:19Z",48.90,33.40,33.30,33.30,33.40,"Y","OKSR.B1.20170721.TCR",,"Injection point moved from prior bouts due to high flow and realigned sampling stations to in stream sensor now that they have been installed",

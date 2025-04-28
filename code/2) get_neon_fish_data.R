@@ -10,7 +10,8 @@ library(lubridate)
 library(tidybayes)
 library(brms)
 library(neonstore)
-
+NEON_db_dir = sprintf("C:/Users/%s/OneDrive - UNT System/Projects/database-files",
+                      Sys.info()[['user']])
 # directory
 # Sys.setenv(NEONSTORE_HOME = paste(getwd(),
 #                                   "/data",
@@ -29,26 +30,26 @@ if (update) {
   neonstore::neon_download(
     product = "DP1.20107.001",
     site = streamsites,
-    dir = here("data/database-files"),
+    dir = NEON_db_dir ,
     .token = Sys.getenv("NEON_TOKEN")
   )
   neonstore::neon_store(
     product = "DP1.20107.001",
     site = streamsites,
-    dir = here("data/database-files")
+    dir = NEON_db_dir 
   )
   neonstore::neon_download(
     product = "DP1.20190.001",
     site = streamsites,
     type = "basic",
-    dir = here("data/database-files"),
+    dir = NEON_db_dir ,
     .token = Sys.getenv("NEON_TOKEN")
   )
   neonstore::neon_store(
     product = "DP1.20190.001",
     site = streamsites,
     table = "rea_widthFieldData-basic",
-    dir = here("data/database-files")
+    dir = NEON_db_dir 
   )
 # add a variables file. Just need one overall file. Any site will do. I've chosen ARIK b/c it's first in alphabet.
   neonstore::neon_download(
@@ -58,14 +59,14 @@ if (update) {
     table = "variables",
     type="basic",
     site= "ARIK",
-    dir = here("data/database-files"),
+    dir = NEON_db_dir ,
     .token = Sys.getenv("NEON_TOKEN"))
 }
 
 # 1.1) check file index
 neonstore::neon_index(
   product = "DP1.20107.001",
-  dir = here("data/database-files")
+  dir = NEON_db_dir 
 ) %>%
   slice_sample(n = 1, by = table) %>%
   View()

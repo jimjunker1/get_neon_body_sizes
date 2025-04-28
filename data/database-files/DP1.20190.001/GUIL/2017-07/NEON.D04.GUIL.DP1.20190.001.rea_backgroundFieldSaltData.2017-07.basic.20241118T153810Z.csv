@@ -1,5 +1,0 @@
-uid,domainID,siteID,namedLocation,collectDate,stationToInjectionDistance,specificConductanceRep1,specificConductanceRep2,specificConductanceRep3,specificConductanceRep4,sampleCollected,saltBackgroundSampleID,saltBackgroundSampleCode,remarks,incompleteExperimentQF
-"c58f3e91-1c51-4e70-82d7-f82ee4d9a468","D04","GUIL","GUIL.AOS.reaeration.station.02","2017-07-27T11:25Z",86.00,203.20,203.00,203.00,203.00,"Y","GUIL.B2.20170727.TCR",,,
-"c832cb82-8ecd-42d1-bf4a-455c6d7d0353","D04","GUIL","GUIL.AOS.reaeration.station.03","2017-07-27T11:25Z",178.00,205.30,205.20,205.00,204.90,"Y","GUIL.B3.20170727.TCR",,,
-"062a263f-23fe-46e4-981e-850adb7f6a40","D04","GUIL","GUIL.AOS.reaeration.station.01","2017-07-27T11:25Z",0.35,201.60,201.30,201.20,201.10,"Y","GUIL.B1.20170727.TCR",,"Geomorphology upstream spill of salt solution",
-"95ed8dd7-0a74-4cbc-8991-12e05abb6f9e","D04","GUIL","GUIL.AOS.reaeration.station.04","2017-07-27T11:25Z",320.00,209.70,209.60,209.40,209.40,"Y","GUIL.B4.20170727.TCR",,"Hobo had a programming problem",

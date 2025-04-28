@@ -1,6 +1,0 @@
-uid,domainID,siteID,namedLocation,collectDate,waterTemp,specificConductanceRep1,specificConductanceRep2,specificConductanceRep3,specificConductanceRep4,specificConductanceRep5,remarks
-"3817ae6e-ba11-426f-a34f-fed2fc71a5dd","D07","LECO","LECO.AOS.reaeration.station.04","2017-02-08T16:15Z",9.50,29.60,27.90,27.40,26.60,27.00,
-"14ff28ea-79b2-403e-998c-9bf951876584","D07","LECO","LECO.AOS.reaeration.station.02","2017-02-08T16:15Z",9.40,29.60,27.90,27.40,26.60,27.00,
-"b588190c-331b-47ba-ac58-6bba7a077b00","D07","LECO","LECO.AOS.reaeration.station.01","2017-02-08T16:15Z",9.40,29.60,27.90,27.40,26.60,27.00,
-"2b949cf9-cb2c-4b91-805f-a725f4a796c6","D07","LECO","LECO.AOS.reaeration.station.03","2017-02-08T16:15Z",9.50,29.60,27.90,27.40,26.60,27.00,
-"28f58de0-fe25-44f6-8392-048bb5d26854","D07","LECO","LECO.AOS.reaeration.station.03","2017-02-08T16:15Z",9.50,29.60,27.90,27.40,26.60,27.00,"Stopcock on syringe was broken and could not be sealed shut"

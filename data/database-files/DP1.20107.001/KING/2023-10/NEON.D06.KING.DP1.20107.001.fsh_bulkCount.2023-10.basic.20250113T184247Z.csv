@@ -1,3 +1,0 @@
-uid,domainID,siteID,namedLocation,passStartTime,passEndTime,boutEndDate,passNumber,eventID,taxonID,scientificName,morphospeciesID,bulkFishCount,actualOrEstimated,identificationQualifier,identificationReferences,identifiedBy,remarks,identificationHistoryID,dataQF,barrierSubReach
-"5cffdfb2-324c-4120-99f0-8482b0b3426c","D06","KING","KING.AOS.fish.point.01","2023-10-16T13:57Z","2023-10-16T14:53Z","2023-10-16T14:53Z",1,"KING.2023.fall","CHRERY","Chrosomus erythrogaster",,455,"estimated",,,"0000-0002-1491-0369",,,,
-"592934a2-1277-4b73-8cee-3f3e9f753263","D06","KING","KING.AOS.fish.point.01","2023-10-16T13:57Z","2023-10-16T14:53Z","2023-10-16T14:53Z",1,"KING.2023.fall","CAMANO","Campostoma anomalum",,53,"estimated",,,"0000-0002-1491-0369",,,,

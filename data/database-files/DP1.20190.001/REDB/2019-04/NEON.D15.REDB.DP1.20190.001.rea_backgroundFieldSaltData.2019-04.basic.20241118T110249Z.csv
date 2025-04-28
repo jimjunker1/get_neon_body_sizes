@@ -1,5 +1,0 @@
-uid,domainID,siteID,namedLocation,collectDate,stationToInjectionDistance,specificConductanceRep1,specificConductanceRep2,specificConductanceRep3,specificConductanceRep4,sampleCollected,saltBackgroundSampleID,saltBackgroundSampleCode,remarks,incompleteExperimentQF
-"51dcc0b4-4f09-4549-b0b2-5ee55ab7413d","D15","REDB","REDB.AOS.reaeration.station.02","2019-04-29T22:45Z",122.00,464.00,465.00,466.00,466.00,"Y","REDB.B2.20190429.TCR","A00000056959",,
-"ca5cf1e4-76ea-4bd8-aaa6-2d7a0593faea","D15","REDB","REDB.AOS.reaeration.station.01","2019-04-29T22:45Z",36.00,466.00,466.00,466.00,466.00,"Y","REDB.B1.20190429.TCR","A00000056960","event remarks. streambed obscured_no ability to judge percent leaf cover. event transcribed from paper data. wetted widths aborted due to high flow_unsafe wading conditions.",
-"15427e4d-3e2f-4453-a3c3-6b77dc3c5e82","D15","REDB","REDB.AOS.reaeration.station.04","2019-04-29T22:45Z",325.00,464.00,465.00,466.00,466.00,"Y","REDB.B4.20190429.TCR","A00000056961",,
-"9513c571-1516-45ca-a8f9-3074fe16056f","D15","REDB","REDB.AOS.reaeration.station.03","2019-04-29T22:45Z",216.00,465.00,462.00,463.00,452.00,"Y","REDB.B3.20190429.TCR","A00000057136",,

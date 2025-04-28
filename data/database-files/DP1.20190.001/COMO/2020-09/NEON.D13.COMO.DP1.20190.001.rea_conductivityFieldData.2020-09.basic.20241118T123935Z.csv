@@ -1,3 +1,0 @@
-uid,recorduid,domainID,siteID,namedLocation,hoboSampleID,startDate,downloadFileName,downloadFileUrl
-"4029402d-704c-47d6-abfd-4e2bc3e94c99","5341d76d-4b75-4a41-8d7f-c528fa05485a","D13","COMO","COMO.AOS.reaeration.station.04","COMO_S4_20200909","2020-09-09T17:31Z","COMO_S4_20200909_20231101T020541.943Z.csv","https://storage.neonscience.org/neon-os-data/data-frame/COMO_S4_20200909_20231101T020541.943Z.csv"
-"a7bc4a39-8c8d-406f-831b-c89f12e6e1b2","438e2fd8-4906-4f46-9edb-4e8cb3df9dd4","D13","COMO","COMO.AOS.reaeration.station.01","COMO_S1_20200909","2020-09-09T17:31Z","COMO_S1_20200909_20231101T020540.445Z.csv","https://storage.neonscience.org/neon-os-data/data-frame/COMO_S1_20200909_20231101T020540.445Z.csv"

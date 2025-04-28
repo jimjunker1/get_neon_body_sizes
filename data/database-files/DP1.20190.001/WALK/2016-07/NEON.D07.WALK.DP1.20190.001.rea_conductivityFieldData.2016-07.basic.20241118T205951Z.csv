@@ -1,3 +1,0 @@
-uid,recorduid,domainID,siteID,namedLocation,hoboSampleID,startDate,downloadFileName,downloadFileUrl
-"7d3f6d2a-17c1-475c-82eb-cfe501da690a","61bb0b87-1799-4877-b59e-498734d0bc50","D07","WALK","WALK.AOS.reaeration.station.04","WALK_S4_20160726","2016-07-26T12:30Z","WALK_S4_20160726_20231101T013826.133Z.csv","https://storage.neonscience.org/neon-os-data/data-frame/WALK_S4_20160726_20231101T013826.133Z.csv"
-"17562195-4726-454c-ae73-d1b1e9f8025b","b5030362-5c78-4df0-84fa-659059ad1594","D07","WALK","WALK.AOS.reaeration.station.01","WALK_S1_20160726","2016-07-26T12:30Z","WALK_S1_20160726_20231101T013624.747Z.csv","https://storage.neonscience.org/neon-os-data/data-frame/WALK_S1_20160726_20231101T013624.747Z.csv"

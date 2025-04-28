@@ -1,5 +1,0 @@
-uid,domainID,siteID,namedLocation,collectDate,waterTemp,specificConductanceRep1,specificConductanceRep2,specificConductanceRep3,specificConductanceRep4,specificConductanceRep5,remarks
-"f37a9f71-3540-4c40-a2e5-063764c7d61c","D14","SYCA","SYCA.AOS.reaeration.station.01","2024-04-15T17:45Z",22.80,401.10,,,,,
-"8e87c5d1-129e-4b10-b8a7-f023cdc95543","D14","SYCA","SYCA.AOS.reaeration.station.02","2024-04-15T17:45Z",22.80,402.30,,,,,"Gas vile 8 had leaky stopcock. Gas sample may be comprised"
-"97d0223a-a9e4-41cc-8f42-1ba503412a44","D14","SYCA","SYCA.AOS.reaeration.station.04","2024-04-15T17:45Z",23.00,403.40,,,,,"Gas vial 18 had leaky stopcock. Gas sample may be compromised"
-"e1b414b3-b7d1-4608-902a-c2823b34ba21","D14","SYCA","SYCA.AOS.reaeration.station.03","2024-04-15T17:45Z",22.90,403.60,,,,,"Three of five syringes did not have rinse water fully expelled before taking in sample. Approximately 20mL of rinse water remained in syringe."

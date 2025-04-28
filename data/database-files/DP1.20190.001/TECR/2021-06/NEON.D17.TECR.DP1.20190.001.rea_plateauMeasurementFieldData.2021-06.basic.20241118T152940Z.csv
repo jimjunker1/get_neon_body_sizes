@@ -1,5 +1,0 @@
-uid,domainID,siteID,namedLocation,collectDate,waterTemp,specificConductanceRep1,specificConductanceRep2,specificConductanceRep3,specificConductanceRep4,specificConductanceRep5,remarks
-"e3037022-9356-45c4-8850-7724e09bf9c8","D17","TECR","TECR.AOS.reaeration.station.01","2021-06-14T19:22Z",15.00,37.20,,,,,
-"85ebe67b-4054-4c28-b40b-376007d2018b","D17","TECR","TECR.AOS.reaeration.station.02","2021-06-14T19:22Z",14.90,37.20,,,,,
-"a98058b7-0154-4e03-9fc5-c9556839e4c9","D17","TECR","TECR.AOS.reaeration.station.03","2021-06-14T19:22Z",14.50,37.60,,,,,
-"1e99e9b9-fc1e-490b-bcb5-bd219ac135b5","D17","TECR","TECR.AOS.reaeration.station.04","2021-06-14T19:22Z",14.40,36.70,,,,,

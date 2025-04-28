@@ -1,6 +1,0 @@
-uid,domainID,siteID,namedLocation,collectDate,waterTemp,specificConductanceRep1,specificConductanceRep2,specificConductanceRep3,specificConductanceRep4,specificConductanceRep5,remarks
-"de6437c8-2faa-4210-990c-1ceffb5ebc80","D02","LEWI","LEWI.AOS.reaeration.station.02","2016-07-15T09:43Z",19.50,658.00,652.00,651.00,654.00,652.00,
-"206a559d-8068-49eb-9a3b-6583aad4e7ac","D02","LEWI","LEWI.AOS.reaeration.station.01","2016-07-15T09:43Z",19.30,658.00,652.00,651.00,654.00,652.00,"conductivity at S4 went down for about an hour after starting salt drip. We had to start collection before plateau so we did not run out of injectate"
-"e1b67c4e-dd4d-4247-a635-5edd8f487a37","D02","LEWI","LEWI.AOS.reaeration.station.03","2016-07-15T09:43Z",19.70,658.00,652.00,651.00,654.00,652.00,
-"b924383d-2263-4273-a7e6-97970d71f8c0","D02","LEWI","LEWI.AOS.reaeration.station.04","2016-07-15T09:43Z",19.90,658.00,652.00,651.00,654.00,652.00,
-"abe67af2-abd5-46f3-9e43-4b95b626b392","D02","LEWI","LEWI.AOS.reaeration.station.01","2016-07-15T09:43Z",19.30,658.00,652.00,651.00,654.00,652.00,

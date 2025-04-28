@@ -1,5 +1,0 @@
-uid,domainID,siteID,namedLocation,collectDate,stationToInjectionDistance,specificConductanceRep1,specificConductanceRep2,specificConductanceRep3,specificConductanceRep4,sampleCollected,saltBackgroundSampleID,saltBackgroundSampleCode,remarks,incompleteExperimentQF
-"96c2b1b7-d761-440d-aa0f-0fd255ee1c7b","D02","POSE","POSE.AOS.reaeration.station.04","2021-08-09T11:54Z",110.00,151.70,151.50,153.60,155.20,"Y","POSE.B4.20210809.TCR",,,"externalLabSaltSampleDataNA"
-"98351bd1-2e5a-4ade-9373-4db63846b224","D02","POSE","POSE.AOS.reaeration.station.03","2021-08-09T11:54Z",81.70,156.60,156.40,156.10,156.30,"Y","POSE.B3.20210809.TCR",,,"externalLabSaltSampleDataNA"
-"9c1f4ffc-2965-41d6-8e21-5e702221785a","D02","POSE","POSE.AOS.reaeration.station.01","2021-08-09T11:54Z",12.10,153.50,153.00,153.30,153.40,"Y","POSE.B1.20210809.TCR",,,"externalLabSaltSampleDataNA"
-"5e1d461c-55a8-4704-b20e-a5bea5dac602","D02","POSE","POSE.AOS.reaeration.station.02","2021-08-09T11:54Z",46.70,152.90,153.00,152.80,153.00,"Y","POSE.B2.20210809.TCR",,,"externalLabSaltSampleDataNA"

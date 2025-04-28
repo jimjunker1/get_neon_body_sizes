@@ -1,5 +1,0 @@
-uid,domainID,siteID,namedLocation,collectDate,waterTemp,specificConductanceRep1,specificConductanceRep2,specificConductanceRep3,specificConductanceRep4,specificConductanceRep5,remarks
-"19443dc1-f0be-41de-bafa-2321f3e23cc0","D14","SYCA","SYCA.AOS.reaeration.station.02","2019-12-18T16:22Z",12.40,370.50,,,,,"Multiple channels in reach. Sampled from channel with stream sensors for all plateau samples."
-"deae08f4-ec9e-41df-93a9-eddda9386b7e","D14","SYCA","SYCA.AOS.reaeration.station.03","2019-12-18T16:22Z",12.40,369.80,,,,,"Multiple channels in reach. Sampled from channel with stream sensors for all plateau samples."
-"b222688b-9783-464a-a323-8be4340b9437","D14","SYCA","SYCA.AOS.reaeration.station.04","2019-12-18T16:22Z",12.30,368.40,,,,,"Single channel at station 4 / S2."
-"ceeaad2e-f31f-4372-ab3b-eb3fccc7d52e","D14","SYCA","SYCA.AOS.reaeration.station.01","2019-12-18T16:22Z",12.20,368.30,,,,,"Multiple channels in reach. Sampled from channel with stream sensors for all plateau samples."

@@ -1,3 +1,0 @@
-uid,domainID,siteID,namedLocation,passStartTime,passEndTime,boutEndDate,passNumber,eventID,taxonID,scientificName,morphospeciesID,bulkFishCount,actualOrEstimated,identificationQualifier,identificationReferences,identifiedBy,remarks,identificationHistoryID,dataQF,barrierSubReach
-"6c58a177-54f5-4fe3-ad5b-52d81c81815f","D18","OKSR","OKSR.AOS.fish.point.03","2024-08-15T00:40Z","2024-08-15T00:56Z","2024-08-15T21:40Z",2,"OKSR.2024.fall","THYARC","Thymallus arcticus",,21,"actual",,,"0000-0003-3756-1381",,,,
-"76ae7d86-856f-4125-b62f-cbdbafd2d7bb","D18","OKSR","OKSR.AOS.fish.point.03","2024-08-15T01:30Z","2024-08-15T01:51Z","2024-08-15T21:40Z",3,"OKSR.2024.fall","THYARC","Thymallus arcticus",,31,"actual",,,"0000-0003-3756-1381",,,,

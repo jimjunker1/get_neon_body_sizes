@@ -1,6 +1,0 @@
-uid,domainID,siteID,namedLocation,collectDate,waterTemp,specificConductanceRep1,specificConductanceRep2,specificConductanceRep3,specificConductanceRep4,specificConductanceRep5,remarks
-"0d86367b-6e63-409c-a067-6ddd59091fab","D02","POSE","POSE.AOS.reaeration.station.04","2014-10-07T14:07Z",13.90,143.30,146.40,150.30,150.50,155.10,"didn't have enough syringe filters for all 20 syringes and background Cl-; so we used some multiple times for background and a few gas syringes. Ran out of salt water before plateau at S4. we began sapling for SF6 when we ran out of salt water."
-"383d10c7-c86e-4f16-808d-fdddd2549879","D02","POSE","POSE.AOS.reaeration.station.01","2014-10-07T14:07Z",13.60,143.30,146.40,150.30,150.50,155.10,
-"e373ec9d-be4d-4f9e-8147-1fa16795fdf1","D02","POSE","POSE.AOS.reaeration.station.04","2014-10-07T14:07Z",13.90,143.30,146.40,150.30,150.50,155.10,
-"79a41c38-b5ee-48de-a374-dfde29df3eae","D02","POSE","POSE.AOS.reaeration.station.02","2014-10-07T14:07Z",13.80,143.30,146.40,150.30,150.50,155.10,
-"cb68af5e-a8ba-4931-9110-e01cc52198a7","D02","POSE","POSE.AOS.reaeration.station.03","2014-10-07T14:07Z",14.00,143.30,146.40,150.30,150.50,155.10,

@@ -1,7 +1,0 @@
-uid,domainID,siteID,namedLocation,collectDate,waterTemp,specificConductanceRep1,specificConductanceRep2,specificConductanceRep3,specificConductanceRep4,specificConductanceRep5,remarks
-"a9d2f8c4-cfa8-4ce0-93bc-e5b2b516651e","D07","WALK","WALK.AOS.reaeration.station.01","2016-10-04T13:45Z",16.10,290.10,293.70,292.50,291.70,292.00,
-"249e35d8-f7ac-48c4-a5c2-1341d4bb997d","D07","WALK","WALK.AOS.reaeration.station.02","2016-10-04T13:45Z",16.20,290.10,293.70,292.50,291.70,292.00,
-"0d92c146-719d-43a7-a847-451497bfa57b","D07","WALK","WALK.AOS.reaeration.station.04","2016-10-04T13:45Z",16.10,290.10,293.70,292.50,291.70,292.00,
-"f2f80683-dc4f-4000-9463-5543dcefb600","D07","WALK","WALK.AOS.reaeration.station.02","2016-10-04T13:45Z",16.20,290.10,293.70,292.50,291.70,292.00,"Measured at 11:18 to be 305.8; measured later to be 291.3"
-"f504a1c1-8ec3-4e0f-900f-93cad213115e","D07","WALK","WALK.AOS.reaeration.station.03","2016-10-04T13:45Z",16.10,290.10,293.70,292.50,291.70,292.00,
-"1e319c9d-d73b-4989-981b-f1371aa21db0","D07","WALK","WALK.AOS.reaeration.station.02","2016-10-04T13:45Z",16.20,290.10,293.70,292.50,291.70,292.00,"Re-measured at 11:18 and found to be 291.3. Please see HOBO graph; conductivity values had an initial spike that moved downstream as a pulse before stabilizing."

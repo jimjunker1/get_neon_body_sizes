@@ -1,5 +1,0 @@
-uid,domainID,siteID,namedLocation,collectDate,waterTemp,specificConductanceRep1,specificConductanceRep2,specificConductanceRep3,specificConductanceRep4,specificConductanceRep5,remarks
-"6ad3ffd7-820d-4412-bd76-31dbda6182fe","D08","MAYF","MAYF.AOS.reaeration.station.04","2018-08-30T17:06Z",23.20,23.30,,,,,
-"e70b4ab2-84a4-4f6a-a63b-5af43a5c3c22","D08","MAYF","MAYF.AOS.reaeration.station.02","2018-08-30T17:06Z",23.30,22.00,,,,,
-"d3d4586d-0328-4134-be15-3d5512ba2e60","D08","MAYF","MAYF.AOS.reaeration.station.03","2018-08-30T17:06Z",23.20,23.10,,,,,
-"874e7510-3476-4c18-aec1-5d47b804737e","D08","MAYF","MAYF.AOS.reaeration.station.01","2018-08-30T17:06Z",23.20,17.60,32.90,18.70,19.00,17.70,"SF6 started flowing at 12:48 pm"

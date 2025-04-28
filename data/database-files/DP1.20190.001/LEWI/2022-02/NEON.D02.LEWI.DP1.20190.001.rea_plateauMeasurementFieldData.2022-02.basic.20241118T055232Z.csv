@@ -1,5 +1,0 @@
-uid,domainID,siteID,namedLocation,collectDate,waterTemp,specificConductanceRep1,specificConductanceRep2,specificConductanceRep3,specificConductanceRep4,specificConductanceRep5,remarks
-"8401f806-c5a2-483e-8c2c-06b92f783e6b","D02","LEWI","LEWI.AOS.reaeration.station.01","2022-02-16T13:26Z",4.60,656.00,661.00,645.00,640.00,638.00,
-"007d651a-27f3-4402-9230-45750626072f","D02","LEWI","LEWI.AOS.reaeration.station.03","2022-02-16T13:26Z",5.40,647.00,,,,,
-"2190f5f4-0b3b-4344-9917-739daf904d7d","D02","LEWI","LEWI.AOS.reaeration.station.04","2022-02-16T13:26Z",5.60,649.00,,,,,
-"51ae1d0c-dedc-495c-8cf6-5b3b77f55331","D02","LEWI","LEWI.AOS.reaeration.station.02","2022-02-16T13:26Z",4.80,648.00,,,,,

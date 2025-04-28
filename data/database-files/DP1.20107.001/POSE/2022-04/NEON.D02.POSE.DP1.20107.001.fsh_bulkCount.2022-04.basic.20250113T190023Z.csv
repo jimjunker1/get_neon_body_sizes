@@ -1,2 +1,0 @@
-uid,domainID,siteID,namedLocation,passStartTime,passEndTime,boutEndDate,passNumber,eventID,taxonID,scientificName,morphospeciesID,bulkFishCount,actualOrEstimated,identificationQualifier,identificationReferences,identifiedBy,remarks,identificationHistoryID,dataQF,barrierSubReach
-"710ddd9e-2f73-4459-b219-decfde58ddd2","D02","POSE","POSE.AOS.fish.point.05","2022-04-05T11:51Z","2022-04-05T13:35Z","2022-04-06T17:18Z",1,"POSE.2022.spring","RHIATR","Rhinichthys atratulus",,19,"actual",,,"0000-0003-3114-5862",,,,

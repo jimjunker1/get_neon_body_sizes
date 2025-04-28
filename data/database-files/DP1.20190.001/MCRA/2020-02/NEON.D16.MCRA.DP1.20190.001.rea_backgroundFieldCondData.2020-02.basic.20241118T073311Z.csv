@@ -1,5 +1,0 @@
-uid,domainID,siteID,namedLocation,startDate,stationToInjectionDistance,hoboSampleID
-"05ebbf91-82ea-4800-a6bc-15dc8e464bc5","D16","MCRA","MCRA.AOS.reaeration.station.04","2020-02-06T17:41Z",268.00,"MCRA_S4_20200206"
-"5855fe4c-f3b8-47ae-a1f1-3abbdabb3177","D16","MCRA","MCRA.AOS.reaeration.station.01","2020-02-06T17:41Z",38.00,"MCRA_S1_20200206"
-"ee4c0925-510c-4ffd-8564-190efbc66cd9","D16","MCRA","MCRA.AOS.reaeration.station.04","2020-02-14T17:27Z",268.00,"MCRA_S4_20200214"
-"a43fa16b-f2ec-448e-abc9-0fbe97d42091","D16","MCRA","MCRA.AOS.reaeration.station.01","2020-02-14T17:27Z",30.00,"MCRA_S1_20200214"

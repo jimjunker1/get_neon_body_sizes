@@ -1,5 +1,0 @@
-uid,domainID,siteID,namedLocation,collectDate,stationToInjectionDistance,specificConductanceRep1,specificConductanceRep2,specificConductanceRep3,specificConductanceRep4,sampleCollected,saltBackgroundSampleID,saltBackgroundSampleCode,remarks,incompleteExperimentQF
-"120ddd40-e2b9-4dc4-bd5c-1e8a25bfd677","D07","WALK","WALK.AOS.reaeration.station.01","2017-01-25T14:45Z",14.50,99.20,96.50,127.00,129.90,"Y","WALK.B1.20170125.TCR",,"confluence of E and W forks",
-"37997a6f-b52d-4081-8b0e-4e811cd5f541","D07","WALK","WALK.AOS.reaeration.station.02","2017-01-25T14:45Z",61.00,113.50,115.50,116.00,117.70,"Y","WALK.B2.20170125.TCR",,,
-"3c0bbc9b-1d39-4a02-9299-36f4898eda42","D07","WALK","WALK.AOS.reaeration.station.04","2017-01-25T14:45Z",154.00,124.90,123.10,122.10,121.60,"Y","WALK.B4.20170125.TCR",,,
-"88304e99-94f1-448d-96ec-d5fc76319695","D07","WALK","WALK.AOS.reaeration.station.03","2017-01-25T14:45Z",107.00,118.90,117.90,118.20,119.00,"Y","WALK.B3.20170125.TCR",,,

@@ -1,9 +1,0 @@
-uid,domainID,siteID,namedLocation,collectDate,waterTemp,specificConductanceRep1,specificConductanceRep2,specificConductanceRep3,specificConductanceRep4,specificConductanceRep5,remarks
-"257761bf-c51b-40cb-9c88-b60ef68089c9","D19","CARI","CARI.AOS.reaeration.station.03","2020-07-10T19:31Z",5.20,77.60,,,,,
-"0151780d-0a01-4758-87a0-0b3925b86143","D19","CARI","CARI.AOS.reaeration.station.04","2020-07-10T19:31Z",5.30,76.70,,,,,
-"c0b28766-d795-4f99-92b2-d39f76cf7e5e","D19","CARI","CARI.AOS.reaeration.station.02","2020-07-10T19:31Z",5.20,77.70,,,,,
-"5321a3db-caf2-423e-a40f-14b8bcd569f8","D19","CARI","CARI.AOS.reaeration.station.01","2020-07-10T19:31Z",5.10,77.00,,,,,
-"e7a7276b-e2e5-4874-9dbb-11e34d2bb3d1","D19","CARI","CARI.AOS.reaeration.station.04","2020-07-29T19:00Z",4.50,73.70,,,,,
-"6274224d-1308-4258-b55d-669552d17b2b","D19","CARI","CARI.AOS.reaeration.station.03","2020-07-29T19:00Z",4.50,72.90,,,,,"number 14 stopcock was not closed. still collected sample."
-"5ba193e7-0171-4e81-a11f-8d0618d1f88d","D19","CARI","CARI.AOS.reaeration.station.02","2020-07-29T19:00Z",4.40,73.20,,,,,
-"1fef4700-de79-4104-8098-e94f31ec9381","D19","CARI","CARI.AOS.reaeration.station.01","2020-07-29T19:00Z",4.40,73.50,,,,,

@@ -1,3 +1,0 @@
-uid,recorduid,domainID,siteID,namedLocation,hoboSampleID,startDate,downloadFileName,downloadFileUrl
-"53fdf8ad-76e7-46f9-ae9e-3a2c990884e8","620f3aee-2c05-4da8-a4df-30a565f72582","D16","MCRA","MCRA.AOS.reaeration.station.04","MCRA_S4_20180809","2018-08-09T22:49Z","MCRA_S4_20180809_20231101T014851.055Z.csv","https://storage.neonscience.org/neon-os-data/data-frame/MCRA_S4_20180809_20231101T014851.055Z.csv"
-"fb8d8616-355c-4f35-a224-87d1f3703004","72cd158c-ae0b-42ad-803b-e82e3e63e68a","D16","MCRA","MCRA.AOS.reaeration.station.01","MCRA_S1_20180809","2018-08-09T22:49Z","MCRA_S1_20180809_20231101T014849.270Z.csv","https://storage.neonscience.org/neon-os-data/data-frame/MCRA_S1_20180809_20231101T014849.270Z.csv"

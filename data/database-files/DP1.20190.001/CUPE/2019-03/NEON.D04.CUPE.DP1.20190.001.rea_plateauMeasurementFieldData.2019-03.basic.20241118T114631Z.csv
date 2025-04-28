@@ -1,5 +1,0 @@
-uid,domainID,siteID,namedLocation,collectDate,waterTemp,specificConductanceRep1,specificConductanceRep2,specificConductanceRep3,specificConductanceRep4,specificConductanceRep5,remarks
-"9f290481-f16b-44a3-94ce-f5042a6ba7a0","D04","CUPE","CUPE.AOS.reaeration.station.04","2019-03-19T11:51Z",21.80,295.80,,,,,
-"3cda5959-bbbd-4fd0-83fc-2fddc8c9d25a","D04","CUPE","CUPE.AOS.reaeration.station.01","2019-03-19T11:51Z",21.50,298.70,298.90,299.00,298.80,299.00,
-"0ae76cf4-366f-4d03-9285-3069cc0e916b","D04","CUPE","CUPE.AOS.reaeration.station.02","2019-03-19T11:51Z",21.70,298.80,,,,,
-"c7419634-7c10-4905-9954-a36cb3a65f63","D04","CUPE","CUPE.AOS.reaeration.station.03","2019-03-19T11:51Z",21.60,297.60,,,,,

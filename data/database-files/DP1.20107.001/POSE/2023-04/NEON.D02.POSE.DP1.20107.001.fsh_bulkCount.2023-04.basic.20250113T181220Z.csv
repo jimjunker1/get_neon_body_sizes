@@ -1,3 +1,0 @@
-uid,domainID,siteID,namedLocation,passStartTime,passEndTime,boutEndDate,passNumber,eventID,taxonID,scientificName,morphospeciesID,bulkFishCount,actualOrEstimated,identificationQualifier,identificationReferences,identifiedBy,remarks,identificationHistoryID,dataQF,barrierSubReach
-"ae1b5c6a-447b-44a4-a9a6-aae3f3f97607","D02","POSE","POSE.AOS.fish.point.06","2023-04-05T12:26Z","2023-04-05T13:50Z","2023-04-06T13:38Z",1,"POSE.2023.spring","RHIATR","Rhinichthys atratulus",,87,"actual",,,"0000-0001-7904-875X",,,,
-"3cca82d4-e72b-4a96-b0da-97fb7a1dd332","D02","POSE","POSE.AOS.fish.point.07","2023-04-05T15:54Z","2023-04-05T16:21Z","2023-04-06T13:38Z",1,"POSE.2023.spring","RHIATR","Rhinichthys atratulus",,9,"actual",,,"0000-0001-7904-875X",,,,

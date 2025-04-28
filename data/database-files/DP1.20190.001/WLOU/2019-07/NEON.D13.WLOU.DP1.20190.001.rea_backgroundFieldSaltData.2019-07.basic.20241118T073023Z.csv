@@ -1,9 +1,0 @@
-uid,domainID,siteID,namedLocation,collectDate,stationToInjectionDistance,specificConductanceRep1,specificConductanceRep2,specificConductanceRep3,specificConductanceRep4,sampleCollected,saltBackgroundSampleID,saltBackgroundSampleCode,remarks,incompleteExperimentQF
-"934ae01e-081c-439b-af7b-f7f62cbbcbdc","D13","WLOU","WLOU.AOS.reaeration.station.03","2019-07-08T17:22Z",254.00,72.80,72.60,72.80,72.60,"Y","WLOU.B3.20190708.TCR","A00000090934",,
-"30017d6e-946f-49c7-af25-9e7ec37e76b3","D13","WLOU","WLOU.AOS.reaeration.station.02","2019-07-08T17:22Z",145.00,71.60,72.90,72.80,72.40,"Y","WLOU.B2.20190708.TCR","A00000090917",,
-"fd4f7422-5af8-41f1-8f98-111597d8d6f6","D13","WLOU","WLOU.AOS.reaeration.station.04","2019-07-08T17:22Z",363.00,72.50,72.50,72.20,71.30,"Y","WLOU.B4.20190708.TCR","A00000090933",,
-"63d4cc46-8d71-4c87-86c8-40402c2955ac","D13","WLOU","WLOU.AOS.reaeration.station.01","2019-07-08T17:22Z",35.00,73.20,73.00,71.70,71.90,"Y","WLOU.B1.20190708.TCR","A00000090918","rep 4 had 39 mL instead of 40",
-"f6f90b26-5749-48e4-805e-ed4ac42413eb","D13","WLOU","WLOU.AOS.reaeration.station.04","2019-07-29T17:42Z",363.00,88.60,89.00,89.10,88.80,"Y","WLOU.B4.20190729.TCR","A00000091623",,
-"c01c123b-2fc9-432f-b92d-75990dc8c90c","D13","WLOU","WLOU.AOS.reaeration.station.01","2019-07-29T17:42Z",35.00,87.80,87.20,88.10,87.50,"Y","WLOU.B1.20190729.TCR","A00000091572",,
-"57447108-c5c1-4e33-bf9f-8db88de772e3","D13","WLOU","WLOU.AOS.reaeration.station.03","2019-07-29T17:42Z",254.00,89.30,88.80,88.40,88.30,"Y","WLOU.B3.20190729.TCR","A00000091606",,
-"c7c7b085-ab65-49e3-9421-dc01d2b8758d","D13","WLOU","WLOU.AOS.reaeration.station.02","2019-07-29T17:42Z",145.00,88.10,87.90,87.50,87.60,"Y","WLOU.B2.20190729.TCR","A00000091589",,

@@ -1,9 +1,0 @@
-uid,domainID,siteID,namedLocation,collectDate,waterTemp,specificConductanceRep1,specificConductanceRep2,specificConductanceRep3,specificConductanceRep4,specificConductanceRep5,remarks
-"0d5561fa-2049-491d-ae4b-0717e70d09c4","D13","WLOU","WLOU.AOS.reaeration.station.01","2018-10-09T16:39Z",2.60,115.80,,,,,
-"b8c895bb-bbe3-4d5e-b9e3-67be75fdafcc","D13","WLOU","WLOU.AOS.reaeration.station.02","2018-10-09T16:39Z",2.60,115.60,,,,,
-"455d8390-ab28-47ee-a737-69e8b98cc2ad","D13","WLOU","WLOU.AOS.reaeration.station.04","2018-10-09T16:39Z",2.60,116.50,,,,,
-"3ebdbd50-edc9-450c-b0fa-545804e1ffe7","D13","WLOU","WLOU.AOS.reaeration.station.03","2018-10-09T16:39Z",2.60,115.90,,,,,
-"f86bb45f-abf4-43e7-9ee1-cfbd4e742de7","D13","WLOU","WLOU.AOS.reaeration.station.02","2018-10-22T16:38Z",1.50,111.20,,,,,"Used .45 filter and there was 15% ice coverage at the site."
-"a44cde4b-f8c2-4957-a5c5-bbc8030eb2ba","D13","WLOU","WLOU.AOS.reaeration.station.03","2018-10-22T16:38Z",1.40,114.00,,,,,"Used .45 filter and there was 15% ice coverage at the site."
-"5b6e4c8d-820e-4fdc-84ca-54f49cd2e23e","D13","WLOU","WLOU.AOS.reaeration.station.04","2018-10-22T16:38Z",1.40,111.10,,,,,"Used .45 filter and there was 15% ice coverage at the site."
-"34ceaabb-47f6-436c-92da-81477ce5b789","D13","WLOU","WLOU.AOS.reaeration.station.01","2018-10-22T16:38Z",1.50,110.10,,,,,"Used .45 filter and there was 15% ice coverage at the site."

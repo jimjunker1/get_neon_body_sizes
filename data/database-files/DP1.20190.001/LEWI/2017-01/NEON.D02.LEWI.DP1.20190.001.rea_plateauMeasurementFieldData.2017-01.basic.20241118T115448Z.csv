@@ -1,6 +1,0 @@
-uid,domainID,siteID,namedLocation,collectDate,waterTemp,specificConductanceRep1,specificConductanceRep2,specificConductanceRep3,specificConductanceRep4,specificConductanceRep5,remarks
-"1da6047d-9da7-413e-a84f-3b258b30dac0","D02","LEWI","LEWI.AOS.reaeration.station.02","2017-01-19T08:21Z",8.70,533.00,539.00,539.00,540.00,541.00,
-"6375d167-b6d1-4d46-ac15-39d1cd2d12b2","D02","LEWI","LEWI.AOS.reaeration.station.04","2017-01-19T08:21Z",8.50,533.00,539.00,539.00,540.00,541.00,
-"53ff8134-4004-43da-8bc4-f4219158be5c","D02","LEWI","LEWI.AOS.reaeration.station.01","2017-01-19T08:21Z",8.80,533.00,539.00,539.00,540.00,541.00,
-"08651fa8-4fc2-4fa2-8c26-f0c6f354a59d","D02","LEWI","LEWI.AOS.reaeration.station.03","2017-01-19T08:21Z",8.60,533.00,539.00,539.00,540.00,541.00,
-"e6e8adb5-8168-4f5e-be53-e4112835e654","D02","LEWI","LEWI.AOS.reaeration.station.01","2017-01-19T08:21Z",8.80,533.00,539.00,539.00,540.00,541.00,"water pump slowed during bout. Not sure why as it was not touched after setting the initial drip rate"

@@ -1,7 +1,0 @@
-uid,domainID,siteID,namedLocation,startDate,stationToInjectionDistance,hoboSampleID
-"85e006fa-23ed-4279-a80a-1126f853fc25","D15","REDB","REDB.AOS.reaeration.station.01","2017-06-01T16:41Z",36.00,"REDB_S1_20170601"
-"7d684097-b331-4db6-951f-d75db737d8d7","D15","REDB","REDB.AOS.reaeration.station.04","2017-06-01T16:41Z",325.00,"REDB_S4_20170601"
-"37dffd5c-f209-4b1f-b369-7a813d22d95e","D15","REDB","REDB.AOS.reaeration.station.01","2017-06-15T17:59Z",36.00,"REDB_S1_20170615"
-"4693da12-9ea2-4144-b8b9-eb054a6a9002","D15","REDB","REDB.AOS.reaeration.station.04","2017-06-15T17:59Z",325.00,"REDB_S4_20170615"
-"5426dd96-83a0-4265-bdbf-08ed26ea8f81","D15","REDB","REDB.AOS.reaeration.station.04","2017-06-28T17:27Z",325.00,"REDB_S4_20170628"
-"8f4a5fb1-b429-4ea7-915d-4f6d67843d87","D15","REDB","REDB.AOS.reaeration.station.01","2017-06-28T17:27Z",36.00,"REDB_S1_20170628"

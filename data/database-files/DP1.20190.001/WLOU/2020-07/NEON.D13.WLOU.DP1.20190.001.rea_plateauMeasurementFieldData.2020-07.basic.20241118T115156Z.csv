@@ -1,9 +1,0 @@
-uid,domainID,siteID,namedLocation,collectDate,waterTemp,specificConductanceRep1,specificConductanceRep2,specificConductanceRep3,specificConductanceRep4,specificConductanceRep5,remarks
-"8bda032c-08bb-4a47-9cb8-d86724c78470","D13","WLOU","WLOU.AOS.reaeration.station.03","2020-07-01T14:16Z",4.90,87.20,,,,,
-"d4ff1b83-6742-44fb-badb-93309201e68a","D13","WLOU","WLOU.AOS.reaeration.station.02","2020-07-01T14:16Z",4.80,87.20,,,,,
-"e1026da6-be33-4610-8019-89507c24df41","D13","WLOU","WLOU.AOS.reaeration.station.04","2020-07-01T14:16Z",5.10,87.70,,,,,
-"61e1f3f2-7e30-49fb-9cdc-cf5815dbf8bc","D13","WLOU","WLOU.AOS.reaeration.station.01","2020-07-01T14:16Z",4.80,87.30,,,,,
-"385e10eb-d5f4-46cf-8648-f7f6613350a8","D13","WLOU","WLOU.AOS.reaeration.station.02","2020-07-22T17:17Z",9.20,95.10,,,,,
-"908aeef0-8bd3-46de-a5ca-61bf04925ad9","D13","WLOU","WLOU.AOS.reaeration.station.04","2020-07-22T17:17Z",9.10,95.90,,,,,
-"89265ee4-9c50-484e-900e-87f01a72d047","D13","WLOU","WLOU.AOS.reaeration.station.03","2020-07-22T17:17Z",9.20,95.50,,,,,
-"b96ca365-345d-4c09-8c38-5f65e6a046c7","D13","WLOU","WLOU.AOS.reaeration.station.01","2020-07-22T17:17Z",9.30,94.70,,,,,

@@ -1,9 +1,0 @@
-uid,domainID,siteID,namedLocation,collectDate,stationToInjectionDistance,specificConductanceRep1,specificConductanceRep2,specificConductanceRep3,specificConductanceRep4,sampleCollected,saltBackgroundSampleID,saltBackgroundSampleCode,remarks,incompleteExperimentQF
-"583e8d1b-17de-40b1-8a6e-fdd13fe2c5d4","D06","MCDI","MCDI.AOS.reaeration.station.02","2019-09-06T14:53Z",55.00,438.90,439.60,439.50,439.20,"Y","MCDI.B2.20190906.TCR","A00000080320",,
-"cc7f6038-bbcf-4b36-9ad2-a0ca75e5e0fa","D06","MCDI","MCDI.AOS.reaeration.station.01","2019-09-06T14:53Z",13.00,439.30,439.10,439.20,439.10,"Y","MCDI.B1.20190906.TCR","A00000137363",,
-"93ad50d6-1d88-4da8-8200-cb9f91bc995d","D06","MCDI","MCDI.AOS.reaeration.station.03","2019-09-06T14:53Z",113.00,439.40,439.50,439.70,439.40,"Y","MCDI.B3.20190906.TCR","A00000080321",,
-"437a16ef-eb0e-47fc-b74a-e4e3d391abc2","D06","MCDI","MCDI.AOS.reaeration.station.04","2019-09-06T14:53Z",121.00,444.30,444.10,443.80,444.10,"Y","MCDI.B4.20190906.TCR","A00000080322",,
-"b69d8556-344f-4bd9-9c27-ea8480afc83f","D06","MCDI","MCDI.AOS.reaeration.station.01","2019-09-23T15:09Z",13.00,570.00,572.00,570.00,570.00,"Y","MCDI.B1.20190923.TCR","A00000137426",,
-"7eeebff8-3022-44b4-90a7-69d47a96a6fd","D06","MCDI","MCDI.AOS.reaeration.station.02","2019-09-23T15:09Z",55.00,567.00,568.00,567.00,565.00,"Y","MCDI.B2.20190923.TCR","A00000137427",,
-"427e6d33-15ef-42fd-97fb-06a18a28386a","D06","MCDI","MCDI.AOS.reaeration.station.04","2019-09-23T15:09Z",121.00,574.00,574.00,573.00,572.00,"Y","MCDI.B4.20190923.TCR","A00000137429",,
-"2365a1dd-a754-426b-9489-53fe73e02c0c","D06","MCDI","MCDI.AOS.reaeration.station.03","2019-09-23T15:09Z",113.00,566.00,567.00,567.00,567.00,"Y","MCDI.B3.20190923.TCR","A00000137428",,

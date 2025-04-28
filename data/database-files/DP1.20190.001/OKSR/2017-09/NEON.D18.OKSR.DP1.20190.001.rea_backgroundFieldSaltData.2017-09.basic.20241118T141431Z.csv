@@ -1,5 +1,0 @@
-uid,domainID,siteID,namedLocation,collectDate,stationToInjectionDistance,specificConductanceRep1,specificConductanceRep2,specificConductanceRep3,specificConductanceRep4,sampleCollected,saltBackgroundSampleID,saltBackgroundSampleCode,remarks,incompleteExperimentQF
-"53955d28-34f7-4622-beef-197e6114ee6b","D18","OKSR","OKSR.AOS.reaeration.station.04","2017-09-13T19:15Z",380.40,49.20,49.00,49.10,49.00,"Y","OKSR.B4.20170913.TCR",,,
-"c72a0758-aefb-4ab5-9264-d40a3ab42ba8","D18","OKSR","OKSR.AOS.reaeration.station.02","2017-09-13T19:15Z",148.00,49.00,49.10,49.20,49.10,"Y","OKSR.B2.20170913.TCR",,,
-"15f6caa8-ebe5-47a3-bfbf-d3c1738311f1","D18","OKSR","OKSR.AOS.reaeration.station.01","2017-09-13T19:15Z",48.90,49.10,49.20,49.10,49.20,"Y","OKSR.B1.20170913.TCR",,,
-"223bf0b9-372e-4127-a409-76dc1dc161c7","D18","OKSR","OKSR.AOS.reaeration.station.03","2017-09-13T19:15Z",232.50,49.00,49.10,49.00,49.10,"Y","OKSR.B3.20170913.TCR",,,

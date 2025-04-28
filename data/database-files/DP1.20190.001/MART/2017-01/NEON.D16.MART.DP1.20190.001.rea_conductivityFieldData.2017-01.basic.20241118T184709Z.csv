@@ -1,3 +1,0 @@
-uid,recorduid,domainID,siteID,namedLocation,hoboSampleID,startDate,downloadFileName,downloadFileUrl
-"bfabc8d4-e5ad-4a95-9a85-976a7816588a","a5a6dfbc-7199-4a6d-9956-932baacdf3c5","D16","MART","MART.AOS.reaeration.station.01","MART_S1_20170126","2017-01-26T10:00Z","MART_S1_20170126_20231101T013807.777Z.csv","https://storage.neonscience.org/neon-os-data/data-frame/MART_S1_20170126_20231101T013807.777Z.csv"
-"82dd9991-3a3c-4a16-b547-e0453e96458a","dab41197-c4ff-4cba-8fa4-462455834020","D16","MART","MART.AOS.reaeration.station.04","MART_S4_20170126","2017-01-26T10:00Z","MART_S4_20170126_20231101T013727.754Z.csv","https://storage.neonscience.org/neon-os-data/data-frame/MART_S4_20170126_20231101T013727.754Z.csv"

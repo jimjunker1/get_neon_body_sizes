@@ -1,5 +1,0 @@
-uid,domainID,siteID,namedLocation,startDate,stationToInjectionDistance,hoboSampleID
-"5e8aeb2e-b2df-4ffe-8d65-756ab17f367d","D14","SYCA","SYCA.AOS.reaeration.station.01","2017-04-18T10:24Z",,"SYCA_S1_20170418"
-"4b0a06dd-e8a7-41bf-9c10-d4b1c1514d3e","D14","SYCA","SYCA.AOS.reaeration.station.04","2017-04-18T10:24Z",,"SYCA_S4_20170418"
-"8cd7e5b7-58ab-4f35-aa0a-572200860b0a","D14","SYCA","SYCA.AOS.reaeration.station.04","2017-04-25T10:45Z",119.00,"SYCA_S4_20170425"
-"14022efa-f06c-4341-98ab-eb02abc5019a","D14","SYCA","SYCA.AOS.reaeration.station.01","2017-04-25T10:45Z",38.00,"SYCA_S1_20170425"

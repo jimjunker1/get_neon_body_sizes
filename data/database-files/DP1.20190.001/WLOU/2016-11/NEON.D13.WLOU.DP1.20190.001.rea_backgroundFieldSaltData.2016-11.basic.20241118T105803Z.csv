@@ -1,5 +1,0 @@
-uid,domainID,siteID,namedLocation,collectDate,stationToInjectionDistance,specificConductanceRep1,specificConductanceRep2,specificConductanceRep3,specificConductanceRep4,sampleCollected,saltBackgroundSampleID,saltBackgroundSampleCode,remarks,incompleteExperimentQF
-"b7b81ace-6270-464a-a292-06666b1a788b","D13","WLOU","WLOU.AOS.reaeration.station.01","2016-11-16T08:42Z",35.00,115.20,115.60,115.50,115.20,"Y","WLOU.B1.20161116.TCR",,,"externalLabSaltSampleDataNA"
-"e1e48b4d-5a07-4bdd-a80d-f5b2173dcfea","D13","WLOU","WLOU.AOS.reaeration.station.04","2016-11-16T08:42Z",363.00,16.60,116.70,116.50,116.60,"Y","WLOU.B4.20161116.TCR",,,"externalLabSaltSampleDataNA"
-"278fb038-d2f4-4b96-8115-b8916357bd60","D13","WLOU","WLOU.AOS.reaeration.station.03","2016-11-16T08:42Z",254.00,118.70,115.70,115.70,116.20,"Y","WLOU.B3.20161116.TCR",,,"externalLabSaltSampleDataNA"
-"bd7ce6aa-c5c4-42de-994d-de3168f03a9c","D13","WLOU","WLOU.AOS.reaeration.station.02","2016-11-16T08:42Z",144.00,116.10,116.00,115.80,116.00,"Y","WLOU.B2.20161116.TCR",,,"externalLabSaltSampleDataNA"

@@ -1,6 +1,0 @@
-uid,domainID,siteID,namedLocation,collectDate,waterTemp,specificConductanceRep1,specificConductanceRep2,specificConductanceRep3,specificConductanceRep4,specificConductanceRep5,remarks
-"560b257c-7110-4a29-9ccf-7b2095959c4c","D06","MCDI","MCDI.AOS.reaeration.station.04","2016-05-12T09:00Z",17.00,425.90,426.40,425.90,425.00,424.90,
-"daa3bf57-231b-44b7-baf5-1b83d0db3080","D06","MCDI","MCDI.AOS.reaeration.station.02","2016-05-12T09:00Z",,425.90,426.40,425.90,425.00,424.90,
-"c8c9dc37-e319-42eb-b5de-c58b0a626762","D06","MCDI","MCDI.AOS.reaeration.station.03","2016-05-12T09:00Z",16.90,425.90,426.40,425.90,425.00,424.90,
-"72d24340-5819-4166-8986-2e7c1ef998d6","D06","MCDI","MCDI.AOS.reaeration.station.01","2016-05-12T09:00Z",16.40,425.90,426.40,425.90,425.00,424.90,
-"76e8a45f-3732-42c1-90f0-7d40b54d44a2","D06","MCDI","MCDI.AOS.reaeration.station.01","2016-05-12T09:00Z",16.40,425.90,426.40,425.90,425.00,424.90,"carboy empty so no drip rate end taken"

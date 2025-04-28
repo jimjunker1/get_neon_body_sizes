@@ -1,5 +1,0 @@
-uid,domainID,siteID,namedLocation,collectDate,waterTemp,specificConductanceRep1,specificConductanceRep2,specificConductanceRep3,specificConductanceRep4,specificConductanceRep5,remarks
-"75a90ccf-135a-42ec-8f62-0f553afc7082","D19","CARI","CARI.AOS.reaeration.station.02","2019-08-09T18:50Z",4.40,65.50,,,,,
-"d3c4192b-9926-4031-ad20-0ddefc85bc0e","D19","CARI","CARI.AOS.reaeration.station.04","2019-08-09T18:50Z",4.40,64.70,,,,,
-"0320d962-46bf-45d4-82bd-3d622b59dee1","D19","CARI","CARI.AOS.reaeration.station.03","2019-08-09T18:50Z",4.40,66.20,,,,,
-"ed3f3a1a-f108-4a5c-bed6-4264eeb2093f","D19","CARI","CARI.AOS.reaeration.station.01","2019-08-09T18:50Z",4.30,65.50,,,,,

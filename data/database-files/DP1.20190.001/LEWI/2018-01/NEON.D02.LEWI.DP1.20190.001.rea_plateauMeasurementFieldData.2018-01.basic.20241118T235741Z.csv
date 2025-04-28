@@ -1,5 +1,0 @@
-uid,domainID,siteID,namedLocation,collectDate,waterTemp,specificConductanceRep1,specificConductanceRep2,specificConductanceRep3,specificConductanceRep4,specificConductanceRep5,remarks
-"9c290c8a-2f3a-4d21-b8d1-53fb2fb612d7","D02","LEWI","LEWI.AOS.reaeration.station.02","2018-01-31T13:17Z",3.70,623.00,,,,,
-"f189eac6-ccc4-4437-a0f7-8be38077c9b8","D02","LEWI","LEWI.AOS.reaeration.station.04","2018-01-31T13:17Z",3.70,629.00,,,,,
-"0a4f802e-22cb-426d-88fc-e7364bc48fb5","D02","LEWI","LEWI.AOS.reaeration.station.01","2018-01-31T13:17Z",3.90,613.00,614.00,616.00,613.00,618.00,"Tracer pump batteries started to die before we sampled at S1 so conductivity is low"
-"1417fdfd-719a-4d6b-823d-bf4c67c168de","D02","LEWI","LEWI.AOS.reaeration.station.03","2018-01-31T13:17Z",3.70,628.00,,,,,

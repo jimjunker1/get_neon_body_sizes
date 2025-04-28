@@ -1,4 +1,0 @@
-uid,domainID,siteID,namedLocation,startDate,stationToInjectionDistance,hoboSampleID
-"e4853fa6-7aae-4688-85b5-4892770c31bd","D17","TECR","TECR.AOS.reaeration.station.04","2021-06-14T19:22Z",220.00,"TECR_S4_20210614"
-"15cb509a-ddbe-4032-8138-8fe5d03ed375","D17","TECR","TECR.AOS.reaeration.station.03","2021-06-14T19:22Z",161.00,"TECR_S3_20210614"
-"2dc6fc0a-f856-48ce-97e3-3cffea61265f","D17","TECR","TECR.AOS.reaeration.station.01","2021-06-14T19:22Z",20.00,"TECR_S1_20210614"

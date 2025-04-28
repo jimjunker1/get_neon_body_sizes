@@ -1,5 +1,0 @@
-uid,domainID,siteID,namedLocation,startDate,stationToInjectionDistance,hoboSampleID
-"26fc0100-1b22-48ff-86f6-aa236f14d679","D01","HOPB","HOPB.AOS.reaeration.station.04","2016-05-12T10:23Z",,"HOPB_S4_20160512"
-"6b29588b-7e27-4e16-86fa-be99b568d759","D01","HOPB","HOPB.AOS.reaeration.station.01","2016-05-12T10:23Z",,"HOPB_S1_20160512"
-"1c7bf206-17d5-403f-9184-7168de8d0e01","D01","HOPB","HOPB.AOS.reaeration.station.04","2016-05-26T10:20Z",,"HOPB_S4_20160526"
-"294a96f3-c753-416a-b42e-c990abbe5b9f","D01","HOPB","HOPB.AOS.reaeration.station.01","2016-05-26T10:20Z",,"HOPB_S1_20160526"

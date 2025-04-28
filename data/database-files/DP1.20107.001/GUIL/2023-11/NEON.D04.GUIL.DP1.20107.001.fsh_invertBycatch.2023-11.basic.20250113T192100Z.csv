@@ -1,4 +1,0 @@
-uid,domainID,siteID,namedLocation,passStartTime,passEndTime,boutEndDate,passNumber,eventID,voucherSampleID,voucherSampleCode,scientificName,taxonID,morphospeciesID,morphospeciesIDRemarks,bulkInvertCount,bulkMortality,identificationQualifier,identificationReferences,identifiedBy,remarks,dataQF
-"9001592e-9817-408a-a118-c922bceb1bc5","D04","GUIL","GUIL.AOS.fish.point.09","2023-11-27T14:01Z","2023-11-27T16:01Z","2023-11-28T16:35Z",1,"GUIL.2023.fall",,,"Epilobocera sinuatifrons","EPISIN",,,2,,,,"0000-0003-1220-2331",,
-"c43a200f-8663-499e-a556-6b38a40ecb8c","D04","GUIL","GUIL.AOS.fish.point.01","2023-11-28T14:58Z","2023-11-28T16:35Z","2023-11-28T16:35Z",1,"GUIL.2023.fall",,,"Xiphocaris elongata","XIPELO",,,48,,,,"0000-0003-1220-2331",,
-"b4f5295d-57da-4d96-b5a8-89e01dd9ec84","D04","GUIL","GUIL.AOS.fish.point.01","2023-11-28T14:58Z","2023-11-28T16:35Z","2023-11-28T16:35Z",1,"GUIL.2023.fall",,,"Epilobocera sinuatifrons","EPISIN",,,4,,,,"0000-0003-1220-2331",,

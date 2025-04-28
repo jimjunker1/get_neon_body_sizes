@@ -1,5 +1,0 @@
-uid,domainID,siteID,namedLocation,collectDate,waterTemp,specificConductanceRep1,specificConductanceRep2,specificConductanceRep3,specificConductanceRep4,specificConductanceRep5,remarks
-"a1c18d56-8eec-4eef-bbee-501408469e06","D06","MCDI","MCDI.AOS.reaeration.station.02","2016-07-15T08:45Z",22.90,578.00,580.00,578.00,577.00,578.00,
-"7e42e4a1-5b53-440e-b951-a83cdf5a1048","D06","MCDI","MCDI.AOS.reaeration.station.04","2016-07-15T08:45Z",24.20,578.00,580.00,578.00,577.00,578.00,
-"530f05f8-bec6-4541-9216-83588c0102ba","D06","MCDI","MCDI.AOS.reaeration.station.03","2016-07-15T08:45Z",23.90,578.00,580.00,578.00,577.00,578.00,
-"04483908-164d-4429-97f1-77807e24062d","D06","MCDI","MCDI.AOS.reaeration.station.01","2016-07-15T08:45Z",21.60,578.00,580.00,578.00,577.00,578.00,

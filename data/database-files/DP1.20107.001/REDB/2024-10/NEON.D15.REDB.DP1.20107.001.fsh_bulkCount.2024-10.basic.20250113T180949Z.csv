@@ -1,2 +1,0 @@
-uid,domainID,siteID,namedLocation,passStartTime,passEndTime,boutEndDate,passNumber,eventID,taxonID,scientificName,morphospeciesID,bulkFishCount,actualOrEstimated,identificationQualifier,identificationReferences,identifiedBy,remarks,identificationHistoryID,dataQF,barrierSubReach
-"68bedbc6-6e6a-4266-b1d0-1d3fe3c6897b","D15","REDB","REDB.AOS.fish.point.08","2024-10-16T16:12Z","2024-10-16T18:08Z","2024-10-16T21:56Z",1,"REDB.2024.fall","ONCCLA6","Oncorhynchus clarkii utah",,7,"actual",,,"0009-0003-7102-6750",,,,

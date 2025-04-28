@@ -1,8 +1,0 @@
-uid,domainID,siteID,namedLocation,collectDate,waterTemp,specificConductanceRep1,specificConductanceRep2,specificConductanceRep3,specificConductanceRep4,specificConductanceRep5,remarks
-"8f88f883-1a48-4747-88fe-6b6622eee2cb","D11","PRIN","PRIN.AOS.reaeration.station.03","2016-03-14T13:00Z",19.20,822.00,832.00,830.00,830.00,830.00,"0.5 m shift d.s. Due to bank shift"
-"53365be2-7795-4c4a-8089-2a3b17778a2d","D11","PRIN","PRIN.AOS.reaeration.station.04","2016-03-14T13:00Z",19.40,822.00,832.00,830.00,830.00,830.00,
-"88649710-b5c0-4ab3-ad90-94065efc9f94","D11","PRIN","PRIN.AOS.reaeration.station.01","2016-03-14T13:00Z",19.20,822.00,832.00,830.00,830.00,830.00,"injection distance moved up due to bank shift"
-"be4cf5f4-0c5d-45dd-a5e8-5e1bedb9ec05","D11","PRIN","PRIN.AOS.reaeration.station.02","2016-03-14T13:00Z",19.10,822.00,832.00,830.00,830.00,830.00,"Distance same relative to bout 1"
-"f9ab1650-0597-4530-83e6-c776571e3199","D11","PRIN","PRIN.AOS.reaeration.station.02","2016-03-14T13:00Z",19.10,822.00,832.00,830.00,830.00,830.00,
-"4e38f155-fa21-4979-b67e-fff619975bed","D11","PRIN","PRIN.AOS.reaeration.station.03","2016-03-14T13:00Z",19.20,822.00,832.00,830.00,830.00,830.00,
-"4da520a5-7430-43fa-81a2-2c9573b773ea","D11","PRIN","PRIN.AOS.reaeration.station.01","2016-03-14T13:00Z",19.20,822.00,832.00,830.00,830.00,830.00,

@@ -1,3 +1,0 @@
-uid,recorduid,domainID,siteID,namedLocation,hoboSampleID,startDate,downloadFileName,downloadFileUrl
-"cc161a6e-6267-47ad-bad1-6d08a1bb25ef","2886b38a-e5f7-43e1-b4fc-280a5a955ead","D06","KING","KING.AOS.reaeration.station.04","KING_S4_20190918","2019-09-18T16:00Z","KING_S4_20190918_20231101T020001.895Z.csv","https://storage.neonscience.org/neon-os-data/data-frame/KING_S4_20190918_20231101T020001.895Z.csv"
-"ce3b5c53-f410-43f3-878a-aab3ef68867f","06790ca6-bb24-40a7-a9a4-1c179542538e","D06","KING","KING.AOS.reaeration.station.01","KING_S1_20190918","2019-09-18T16:00Z","KING_S1_20190918_20231101T020004.005Z.csv","https://storage.neonscience.org/neon-os-data/data-frame/KING_S1_20190918_20231101T020004.005Z.csv"

@@ -1,5 +1,0 @@
-uid,domainID,siteID,namedLocation,collectDate,stationToInjectionDistance,specificConductanceRep1,specificConductanceRep2,specificConductanceRep3,specificConductanceRep4,sampleCollected,saltBackgroundSampleID,saltBackgroundSampleCode,remarks,incompleteExperimentQF
-"c60c34e2-c813-49cf-97fe-290140ec1f3d","D02","LEWI","LEWI.AOS.reaeration.station.04","2016-06-21T09:35Z",244.90,633.00,633.00,631.00,632.00,"Y","LEWI.B4.20160621.TCR",,,
-"89dc8752-169c-4445-9aac-ca8df3ababcd","D02","LEWI","LEWI.AOS.reaeration.station.03","2016-06-21T09:35Z",160.90,632.00,629.00,632.00,632.00,"Y","LEWI.B3.20160621.TCR",,,
-"f725ba9f-4712-4a80-93eb-76ebb27a4f2c","D02","LEWI","LEWI.AOS.reaeration.station.01","2016-06-21T09:35Z",10.90,633.00,629.00,628.00,629.00,"Y","LEWI.B1.20160621.TCR",,"YSI conductivity readings odd - after measuring background; turned ysi off. When turned back on; readings dropped from 630 to about 610. so conductivity during sample collection was less then background",
-"e1de1e06-d1e8-4ef5-90de-9cd7a7990c27","D02","LEWI","LEWI.AOS.reaeration.station.02","2016-06-21T09:35Z",85.90,632.00,633.00,630.00,631.00,"Y","LEWI.B2.20160621.TCR",,,

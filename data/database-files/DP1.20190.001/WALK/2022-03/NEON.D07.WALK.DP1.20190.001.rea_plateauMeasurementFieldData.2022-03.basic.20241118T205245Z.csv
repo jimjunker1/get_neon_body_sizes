@@ -1,4 +1,0 @@
-uid,domainID,siteID,namedLocation,collectDate,waterTemp,specificConductanceRep1,specificConductanceRep2,specificConductanceRep3,specificConductanceRep4,specificConductanceRep5,remarks
-"a20daa1c-efaa-4e87-97c3-75cc3915d73b","D07","WALK","WALK.AOS.reaeration.station.03","2022-03-02T14:02Z",11.60,142.50,144.30,145.30,145.20,145.80,
-"2f2dc1be-8001-4586-a1af-b3e9faee2bd4","D07","WALK","WALK.AOS.reaeration.station.04","2022-03-02T14:02Z",11.80,145.10,146.90,147.00,146.90,146.00,"conductivity readings for the tributary: #1 170.0, #2 171.7, #3 171.1, #4 171.0, and #5 168.2."
-"76826d3d-32b3-46e4-a8fa-f747ef8cd705","D07","WALK","WALK.AOS.reaeration.station.02","2022-03-02T14:02Z",11.60,137.60,142.20,145.00,145.40,145.00,

@@ -1,5 +1,0 @@
-uid,domainID,siteID,namedLocation,collectDate,waterTemp,specificConductanceRep1,specificConductanceRep2,specificConductanceRep3,specificConductanceRep4,specificConductanceRep5,remarks
-"9c4e09b8-429f-44a9-a350-c3e797bb53fa","D07","LECO","LECO.AOS.reaeration.station.04","2017-12-07T17:18Z",7.60,27.30,,,,,
-"49196e1e-4edb-422e-9958-81a929340d23","D07","LECO","LECO.AOS.reaeration.station.01","2017-12-07T17:18Z",7.50,28.40,28.10,27.90,28.40,28.00,
-"cefe14b3-5505-4be0-acce-9e2a18917e6a","D07","LECO","LECO.AOS.reaeration.station.02","2017-12-07T17:18Z",7.60,27.40,,,,,
-"09d15166-6d2e-4a4c-8314-195972cd934b","D07","LECO","LECO.AOS.reaeration.station.03","2017-12-07T17:18Z",7.60,27.30,,,,,

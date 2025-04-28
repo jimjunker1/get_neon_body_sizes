@@ -1,5 +1,0 @@
-uid,domainID,siteID,namedLocation,startDate,stationToInjectionDistance,hoboSampleID
-"9752e0db-06fb-4d2d-ad95-bd70e1ee437b","D08","MAYF","MAYF.AOS.reaeration.station.01","2017-06-06T14:57Z",19.00,"MAYF_S1_20170606"
-"c0aee21a-721b-4fac-a871-d69625daae20","D08","MAYF","MAYF.AOS.reaeration.station.04","2017-06-06T14:57Z",148.00,"MAYF_S4_20170606"
-"b820f400-63f5-477e-9920-3ec33a5f1988","D08","MAYF","MAYF.AOS.reaeration.station.04","2017-06-19T15:14Z",148.00,"MAYF_S4_20170619"
-"871b250a-6e04-400d-8351-fb9bebc5fca2","D08","MAYF","MAYF.AOS.reaeration.station.01","2017-06-19T15:14Z",19.00,"MAYF_S1_20170619"

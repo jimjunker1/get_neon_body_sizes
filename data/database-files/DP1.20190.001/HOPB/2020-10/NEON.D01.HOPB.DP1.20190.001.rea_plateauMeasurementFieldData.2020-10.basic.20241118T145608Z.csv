@@ -1,9 +1,0 @@
-uid,domainID,siteID,namedLocation,collectDate,waterTemp,specificConductanceRep1,specificConductanceRep2,specificConductanceRep3,specificConductanceRep4,specificConductanceRep5,remarks
-"b062aabd-8c06-47a2-b910-42b36a6835c1","D01","HOPB","HOPB.AOS.reaeration.station.03","2020-10-14T17:02Z",11.50,148.70,,,,,
-"d670eb67-3620-447f-9146-1c34e0db1e97","D01","HOPB","HOPB.AOS.reaeration.station.02","2020-10-14T17:02Z",11.60,149.10,,,,,
-"566475e5-eca7-4979-b34a-b44e931a7bca","D01","HOPB","HOPB.AOS.reaeration.station.04","2020-10-14T17:02Z",11.50,148.60,,,,,
-"7d9d4b65-ff77-4963-b1c8-ec560d303f39","D01","HOPB","HOPB.AOS.reaeration.station.01","2020-10-14T17:02Z",11.60,149.20,,,,,"Vial 01 needle popped out."
-"f7830ff4-6c01-4a6e-a6db-7a1aa9ee845f","D01","HOPB","HOPB.AOS.reaeration.station.02","2020-10-21T13:22Z",13.30,144.90,,,,,
-"efc02924-ca1a-4a74-8eba-ed23389d4bb5","D01","HOPB","HOPB.AOS.reaeration.station.01","2020-10-21T13:22Z",13.20,145.00,,,,,
-"610fe783-c5e3-4a2c-b7ba-7a2cc23cb38c","D01","HOPB","HOPB.AOS.reaeration.station.04","2020-10-21T13:22Z",13.50,143.50,,,,,
-"394e507e-0c6b-4e84-9758-4a9f3aa98d39","D01","HOPB","HOPB.AOS.reaeration.station.03","2020-10-21T13:22Z",13.30,143.90,,,,,

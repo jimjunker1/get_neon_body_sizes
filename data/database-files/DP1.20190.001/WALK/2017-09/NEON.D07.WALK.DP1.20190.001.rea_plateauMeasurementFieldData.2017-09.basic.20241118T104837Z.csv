@@ -1,5 +1,0 @@
-uid,domainID,siteID,namedLocation,collectDate,waterTemp,specificConductanceRep1,specificConductanceRep2,specificConductanceRep3,specificConductanceRep4,specificConductanceRep5,remarks
-"959e1453-e285-4bcc-a38d-cd1070c87089","D07","WALK","WALK.AOS.reaeration.station.03","2017-09-20T14:02Z",17.30,293.10,,,,,
-"54b88ccc-8fa9-43c3-870b-86ccc08674f7","D07","WALK","WALK.AOS.reaeration.station.02","2017-09-20T14:02Z",16.90,293.90,,,,,
-"5c8a170a-9a39-431f-9ae3-0a6a6a4be4d8","D07","WALK","WALK.AOS.reaeration.station.01","2017-09-20T14:02Z",17.00,308.20,305.60,301.20,300.40,306.70,
-"52c152de-dc06-4f8e-a4c0-834150e0611e","D07","WALK","WALK.AOS.reaeration.station.04","2017-09-20T14:02Z",17.30,291.80,,,,,

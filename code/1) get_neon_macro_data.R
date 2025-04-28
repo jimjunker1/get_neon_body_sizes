@@ -7,26 +7,28 @@ library(janitor)
 
 source(here("code/inverts_dw-functions.R"))
 source(here("code/update_data_products.R"))
+NEON_db_dir = sprintf("C:/Users/%s/OneDrive - UNT System/Projects/database-files",
+                      Sys.info()[['user']])
 # 1) Download data ---------------------------------------------------------
 
 update <- TRUE
 if (update) {
   neonstore::neon_download(
     product = "DP1.20120.001",
-    dir = here("data/database-files"),
+    dir = NEON_db_dir,
     .token = Sys.getenv("NEON_TOKEN")
   )
   neonstore::neon_store(
     product = "DP1.20120.001",
     table = "inv_taxonomyProcessed-basic",
-    dir = here("data/database-files")
+    dir = NEON_db_dir
   )
 }
 
 # 1.1) check file index
 neonstore::neon_index(
   product = "DP1.20120.001",
-  dir = here("data/database-files")
+  dir = NEON_db_dir
 ) %>%
   slice_sample(n = 1, by = table) %>%
   View()

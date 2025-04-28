@@ -1,5 +1,0 @@
-uid,domainID,siteID,namedLocation,startDate,stationToInjectionDistance,hoboSampleID
-"b19a3dcf-5283-4662-9d9f-5af78bc2fbcf","D18","OKSR","OKSR.AOS.reaeration.station.01","2017-07-07T20:11Z",18.00,"OKSR_S1_20170707"
-"a3de69b6-f32a-4156-b054-504742ba2024","D18","OKSR","OKSR.AOS.reaeration.station.04","2017-07-07T20:11Z",382.00,"OKSR_S4_20170707"
-"178b308c-c428-47d9-a574-aeae8c669f93","D18","OKSR","OKSR.AOS.reaeration.station.04","2017-07-21T19:19Z",380.40,"OKSR_S4_20170721"
-"ea6d521f-42ea-407d-ae20-fe237b1741c0","D18","OKSR","OKSR.AOS.reaeration.station.01","2017-07-21T19:19Z",48.90,"OKSR_S1_20170721"

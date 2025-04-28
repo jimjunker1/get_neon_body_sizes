@@ -1,9 +1,0 @@
-uid,domainID,siteID,namedLocation,collectDate,waterTemp,specificConductanceRep1,specificConductanceRep2,specificConductanceRep3,specificConductanceRep4,specificConductanceRep5,remarks
-"970a0089-c795-4c6d-b3e0-97c198b0b9f3","D18","OKSR","OKSR.AOS.reaeration.station.03","2018-08-11T19:10Z",7.10,46.90,,,,,
-"e661aba5-935b-4fa3-98fe-e94f16674e1e","D18","OKSR","OKSR.AOS.reaeration.station.01","2018-08-11T19:10Z",6.90,47.00,,,,,
-"2384e052-2274-4954-b035-71ea00e00950","D18","OKSR","OKSR.AOS.reaeration.station.04","2018-08-11T19:10Z",7.10,46.80,,,,,"10min 02sec salt slug travel time; salt slug conductance 53.9 at 6.9 degrees"
-"a42cb2a3-d1ef-493e-a779-f60edeba51ee","D18","OKSR","OKSR.AOS.reaeration.station.02","2018-08-11T19:10Z",7.00,46.80,,,,,
-"600889df-967c-4c32-8ba4-dc8a1b626297","D18","OKSR","OKSR.AOS.reaeration.station.01","2018-08-24T17:34Z",6.30,50.50,,,,,
-"7f87c2b2-3307-4bc5-9387-8d36724f9c08","D18","OKSR","OKSR.AOS.reaeration.station.04","2018-08-24T17:34Z",6.50,50.50,,,,,"11:43 slug travel time - temp 6.2 conductance 64.9 at 11:17 at slug plateau"
-"7d8286bc-1250-452d-8916-ba18a441a5ca","D18","OKSR","OKSR.AOS.reaeration.station.03","2018-08-24T17:34Z",6.50,50.10,,,,,
-"0cb170e6-beeb-418d-96f7-1c4750328e2d","D18","OKSR","OKSR.AOS.reaeration.station.02","2018-08-24T17:34Z",6.40,50.40,,,,,

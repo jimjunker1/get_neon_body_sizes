@@ -1,5 +1,0 @@
-uid,domainID,siteID,namedLocation,collectDate,waterTemp,specificConductanceRep1,specificConductanceRep2,specificConductanceRep3,specificConductanceRep4,specificConductanceRep5,remarks
-"84f2a6cf-4657-4cae-bf00-3bd936826e36","D04","CUPE","CUPE.AOS.reaeration.station.01","2017-09-11T12:24Z",24.20,280.40,280.50,280.40,280.60,280.40,"CUPE.05.20170911.TCR has only 20mL."
-"2e5e85c7-c7f8-4100-b88a-2579238f36ed","D04","CUPE","CUPE.AOS.reaeration.station.04","2017-09-11T12:24Z",24.40,281.30,,,,,
-"4754c83e-8abe-49d3-a307-77edcb08a9ca","D04","CUPE","CUPE.AOS.reaeration.station.03","2017-09-11T12:24Z",24.30,281.50,,,,,
-"44ea1f1c-a4ce-4772-8ed4-e5293a0636c8","D04","CUPE","CUPE.AOS.reaeration.station.02","2017-09-11T12:24Z",24.30,280.70,,,,,

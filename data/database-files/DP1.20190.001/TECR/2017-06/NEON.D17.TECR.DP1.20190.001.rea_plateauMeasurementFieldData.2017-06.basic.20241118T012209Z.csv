@@ -1,9 +1,0 @@
-uid,domainID,siteID,namedLocation,collectDate,waterTemp,specificConductanceRep1,specificConductanceRep2,specificConductanceRep3,specificConductanceRep4,specificConductanceRep5,remarks
-"45a3215c-7547-4f9f-8f3c-3642b4dd3b1c","D17","TECR","TECR.AOS.reaeration.station.02","2017-06-07T22:28Z",11.50,23.70,,,,,"NaCl samples were filtered with 33mm/ 0.2 micrometer filters"
-"fc8ffc32-e3a1-4b85-ae18-cf2618b1a184","D17","TECR","TECR.AOS.reaeration.station.01","2017-06-07T22:28Z",11.50,23.60,23.40,22.40,22.80,24.10,"NaCl samples were filtered with 33mm/ 0.2 micrometer filters"
-"c45a034a-e827-4495-a939-70a270af26df","D17","TECR","TECR.AOS.reaeration.station.03","2017-06-07T22:28Z",11.50,23.80,,,,,"NaCl samples were filtered with 33mm/ 0.2 micrometer filters. NaCl sample 11 was filtered in lab 14 hours later due to losing the bottle cap."
-"01eb0357-ab68-4b12-bf41-003f6e144415","D17","TECR","TECR.AOS.reaeration.station.04","2017-06-07T22:28Z",11.40,23.60,,,,,"NaCl samples were filtered with 33mm/ 0.2 micrometer filters"
-"b68e260e-7c0a-447d-85a0-52d27c995bf8","D17","TECR","TECR.AOS.reaeration.station.02","2017-06-21T17:41Z",12.10,23.70,,,,,
-"44d131aa-1ac3-42b3-9f9b-94fd5e46345f","D17","TECR","TECR.AOS.reaeration.station.01","2017-06-21T17:41Z",12.00,25.00,24.70,23.80,24.40,24.90,
-"2a06e174-3fe4-4476-8d2d-40d1e814280d","D17","TECR","TECR.AOS.reaeration.station.03","2017-06-21T17:41Z",12.10,24.50,,,,,
-"ee08e67e-3395-4b13-a8d0-be30d6368334","D17","TECR","TECR.AOS.reaeration.station.04","2017-06-21T17:41Z",12.20,24.80,,,,,

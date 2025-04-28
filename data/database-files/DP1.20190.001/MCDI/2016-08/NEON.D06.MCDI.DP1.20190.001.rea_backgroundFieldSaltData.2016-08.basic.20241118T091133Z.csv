@@ -1,5 +1,0 @@
-uid,domainID,siteID,namedLocation,collectDate,stationToInjectionDistance,specificConductanceRep1,specificConductanceRep2,specificConductanceRep3,specificConductanceRep4,sampleCollected,saltBackgroundSampleID,saltBackgroundSampleCode,remarks,incompleteExperimentQF
-"9460720e-6f0b-483b-a277-2ae46468c4a9","D06","MCDI","MCDI.AOS.reaeration.station.03","2016-08-11T08:30Z",90.00,540.00,540.00,540.00,540.00,"Y","MCDI.B3.20160811.TCR",,"measurement takn using HOBO",
-"41f2aba4-2fa9-4dc5-8c31-25c02be145e6","D06","MCDI","MCDI.AOS.reaeration.station.01","2016-08-11T08:30Z",30.00,521.00,522.00,521.00,522.00,"Y","MCDI.B1.20160811.TCR",,"measurement takn using HOBO",
-"1b08a0c8-c8cc-470b-b78e-407e46430e1c","D06","MCDI","MCDI.AOS.reaeration.station.04","2016-08-11T08:30Z",120.00,538.00,537.00,538.00,538.00,"Y","MCDI.B4.20160811.TCR",,"measurement takn using HOBO",
-"28117603-aefe-443c-b2dc-3298824a48b6","D06","MCDI","MCDI.AOS.reaeration.station.02","2016-08-11T08:30Z",60.00,539.00,540.00,542.00,541.00,"Y","MCDI.B2.20160811.TCR",,"measurement takn using HOBO",

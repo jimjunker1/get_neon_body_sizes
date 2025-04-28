@@ -1,5 +1,0 @@
-uid,domainID,siteID,namedLocation,collectDate,waterTemp,specificConductanceRep1,specificConductanceRep2,specificConductanceRep3,specificConductanceRep4,specificConductanceRep5,remarks
-"64e11383-67f4-44aa-bdc5-a044f5792aa9","D02","POSE","POSE.AOS.reaeration.station.04","2019-12-02T13:46Z",5.90,133.30,,,,,
-"4af5596d-f007-4994-99bc-7594cd385450","D02","POSE","POSE.AOS.reaeration.station.03","2019-12-02T13:46Z",6.00,133.50,,,,,"TCR 13 sample spilled. Only a few mL left. Not sure if enough for analysis"
-"a5981491-5a92-4d24-9395-4bf31dc6e8d6","D02","POSE","POSE.AOS.reaeration.station.02","2019-12-02T13:46Z",5.90,133.20,,,,,
-"6acae763-b830-4e2b-a6e0-2719983b7ac8","D02","POSE","POSE.AOS.reaeration.station.01","2019-12-02T13:46Z",5.90,133.20,133.70,133.50,133.60,133.00,

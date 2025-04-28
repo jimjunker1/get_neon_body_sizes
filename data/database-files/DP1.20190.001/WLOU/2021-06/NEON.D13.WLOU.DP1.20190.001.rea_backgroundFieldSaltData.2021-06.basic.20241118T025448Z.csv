@@ -1,9 +1,0 @@
-uid,domainID,siteID,namedLocation,collectDate,stationToInjectionDistance,specificConductanceRep1,specificConductanceRep2,specificConductanceRep3,specificConductanceRep4,sampleCollected,saltBackgroundSampleID,saltBackgroundSampleCode,remarks,incompleteExperimentQF
-"fc2022e0-274a-4e5d-8405-82b566092915","D13","WLOU","WLOU.AOS.reaeration.station.04","2021-06-14T18:05Z",35.00,60.90,60.70,60.40,60.50,"Y","WLOU.B4.20210614.TCR","A00000247251",,
-"b6227237-ebff-47db-ab8b-37287b05d4a9","D13","WLOU","WLOU.AOS.reaeration.station.02","2021-06-14T18:05Z",145.00,60.40,60.60,60.20,60.10,"Y","WLOU.B2.20210614.TCR","A00000247249",,
-"75c0fb35-7f21-4ab7-9708-4d49e7f5daab","D13","WLOU","WLOU.AOS.reaeration.station.01","2021-06-14T18:05Z",35.00,60.20,59.90,59.80,59.70,"Y","WLOU.B1.20210614.TCR","A00000247248",,
-"1e0df27e-0762-4bd1-8cb1-4c8fb4db6e81","D13","WLOU","WLOU.AOS.reaeration.station.03","2021-06-14T18:05Z",254.00,60.60,60.40,60.30,60.30,"Y","WLOU.B3.20210614.TCR","A00000247250",,
-"51b42692-6af3-4fb8-ae18-91021c6a98b2","D13","WLOU","WLOU.AOS.reaeration.station.02","2021-06-23T15:57Z",145.00,65.70,65.40,65.60,65.50,"Y","WLOU.B2.20210623.TCR","A00000247190",,
-"0851baba-9d22-483d-8cd0-399db5d2ad0a","D13","WLOU","WLOU.AOS.reaeration.station.04","2021-06-23T15:57Z",363.00,66.40,66.20,66.20,66.10,"Y","WLOU.B4.20210623.TCR","A00000247188",,
-"4506f144-f772-45cc-8ab8-ddaae041f133","D13","WLOU","WLOU.AOS.reaeration.station.03","2021-06-23T15:57Z",254.00,66.00,65.90,65.70,65.70,"Y","WLOU.B3.20210623.TCR","A00000247189",,
-"f71fd802-3e47-423c-8ef8-39f386b36e66","D13","WLOU","WLOU.AOS.reaeration.station.01","2021-06-23T15:57Z",35.00,65.40,65.40,65.20,65.30,"Y","WLOU.B1.20210623.TCR","A00000247177",,

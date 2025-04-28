@@ -1,5 +1,0 @@
-uid,domainID,siteID,namedLocation,collectDate,stationToInjectionDistance,specificConductanceRep1,specificConductanceRep2,specificConductanceRep3,specificConductanceRep4,sampleCollected,saltBackgroundSampleID,saltBackgroundSampleCode,remarks,incompleteExperimentQF
-"1d2fc12e-f1ba-4c5b-bbfb-a0c438ccd6aa","D17","TECR","TECR.AOS.reaeration.station.03","2018-10-31T18:33Z",161.00,34.70,34.70,33.90,34.10,"Y","TECR.B3.20181031.TCR","A00000027049",,"externalLabSaltSampleDataNA"
-"e258a247-3cf8-4f93-8dec-d98c211cd082","D17","TECR","TECR.AOS.reaeration.station.04","2018-10-31T18:33Z",220.00,34.30,34.40,34.30,34.30,"Y","TECR.B4.20181031.TCR","A00000027051","4.2 degrees Celsius","externalLabSaltSampleDataNA"
-"c9a5509a-d8a0-47e2-8646-cbe71cba1bcb","D17","TECR","TECR.AOS.reaeration.station.01","2018-10-31T18:33Z",20.00,34.40,34.70,35.00,34.70,"Y","TECR.B1.20181031.TCR","A00000027082",,"externalLabSaltSampleDataNA"
-"720dc889-b9c5-4749-b674-cc23173f684f","D17","TECR","TECR.AOS.reaeration.station.02","2018-10-31T18:33Z",86.00,35.00,34.90,34.90,34.50,"Y","TECR.B2.20181031.TCR","A00000027079",,"externalLabSaltSampleDataNA"
